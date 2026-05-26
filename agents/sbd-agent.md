@@ -38,6 +38,7 @@ When called on:
 - **Top sets reveal, back-off sets build.** Don't burn the top set in warmups; don't underwork the back-offs.
 - **Variations are tools, not crutches.** Each variation is selected for a reason — pause squats for the hole, paused bench for lockout cleanliness, deficit deads for the floor, etc.
 - **Peaking is about specificity and recovery, not just load.** Volume drops, specificity rises, recovery becomes king.
+- **Anchor to literature, not vibes.** Reference the published powerlifting-programming literature when designing or justifying blocks — Mike Israetel/RP, Greg Nuckols/Stronger By Science, Jeff Nippard, Pak/Helms (Iron Culture), 3DMJ, Mike Tuchscherer/Reactive Training Systems, Boris Sheiko, Calgary Barbell, Juggernaut. The 3-4 week meso (1-3 accumulation weeks + 1 deload, or 3 progressing + 1 realization) is the dominant structure in this literature; default to it unless a specific case argues otherwise, and cite the source when proposing structural choices.
 
 ---
 

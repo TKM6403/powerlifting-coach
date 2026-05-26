@@ -6,9 +6,10 @@ Established protocols and preferences. Diet Agent references this; tkm updates i
 
 ## Current Phase
 
-- **Active phase:** [fill in: maintenance / lean bulk / cut / meet prep]
-- **Active since:** [fill in date]
-- **Target rate:** [fill in: maintain / +0.5 lb/week / -1% bw/week / etc.]
+- **Active phase:** Maintenance (with a gradual recomp lean toward filling out the frame)
+- **Active since:** 2026-05-25 (post 2-week vacation)
+- **Target rate:** Hold BW in the 182-188 range; allow drift up to ~190 if recovery and strength rebuild lag
+- **Recent context (2026-05-25):** Just returned from a 2-week vacation with no SBD training and poor eating. Expect a few days of GI/energy normalization before targets feel honest. Don't try to "make up" calories — re-anchor to maintenance, hit protein floor every day, let the rest settle.
 
 ---
 
