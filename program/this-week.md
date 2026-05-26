@@ -31,8 +31,8 @@ Position reset + baseline self-assessment. **Do not skip.** Your pelvis just spe
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| SSB squat (or front squat if no SSB) | 1 | 5 | RPE 6, ~225 SSB / ~205 front | Top set. Both feet drive equally. |
-| SSB squat back-off | 2 | 6 | RPE 6, ~205 SSB / ~185 front | Trimmed from 3×6 to 2×6. |
+| Front squat | 1 | 5 | RPE 6, ~205 lb | Top set. Both feet drive equally. Cross-arm or clean rack — whichever wrist allows. |
+| Front squat back-off | 2 | 6 | RPE 6, ~185 lb | Trimmed from 3×6 to 2×6. |
 | Zercher split squat, **left hand over right** | 3 | 10 per leg | RPE 7 | Left side first. ~30-35 lb DBs in goblet if Zercher uncomfortable. This is the asymmetry piece — don't drop it. |
 | Cable lateral raise, single-arm | 2 | 15 per side | RPE 8 | Slow eccentric. Priority shoulder set. |
 
@@ -76,9 +76,9 @@ Position reset + baseline self-assessment. **Do not skip.** Your pelvis just spe
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Trap bar deadlift, controlled eccentric (2-sec lower) | 1 | 5 | RPE 6, ~315 lb | Top set. High handles if low handles feel hippy. |
-| Trap bar back-off | 2 | 6 | RPE 6, ~285 lb | -10%. |
-| Single-leg RDL (or B-stance) | 2 | 8 per leg | RPE 7, light DBs ~30 lb | Left first. Trimmed from 3×10. Straps fine. |
+| Conventional deadlift | 1 | 5 | RPE 6, ~285 lb | Top set. Symmetric setup — wedge into the bar from both hips. |
+| Conventional back-off | 2 | 6 | RPE 6, ~255 lb | Straps fine on back-offs. |
+| Single-leg RDL (or B-stance) | 2 | 8 per leg | RPE 7, light DBs ~30 lb | Left first. Trimmed from 3×10. |
 | Chest-supported row | 2 | 12 | RPE 7, ~135 lb | "Row that doesn't use traps or delts." |
 | **SUPERSET B** (~3 rounds): | | | | |
 |  · Unilateral hamstring curl | 2 | 12 per leg | RPE 7 | Left first. |
@@ -161,3 +161,4 @@ Three supersets only — A (Tue: pushdown + hammer curl), B (Thu: ham curl + cab
 ## Week Modifications Log
 
 - 2026-05-25: Trimmed Week 1 volume per tkm — RDL Mon cut, tempo bench Tue cut, accessories trimmed to 1-2 priority pieces per session, three intentional supersets added. Trap bar Thu retained (lower flare risk than conventional for Wk 1 — see decision log).
+- 2026-05-25: Swapped SSB squat → front squat (tkm preference; front squat keeps quad bias + upright torso). Swapped trap bar deadlift → conventional (tkm preference; top set lightened from ~315 trap bar to ~285 conventional to keep RPE 6 honest since conventional is more systemically taxing).

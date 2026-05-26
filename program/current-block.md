@@ -32,17 +32,17 @@
 
 ## Variation Selection (This Block)
 
-| Week | Squat (Mon) | Bench (Tue) | Deadlift (Thu) | Sec. Bench (Sat) | Sec. Squat (Sat) |
-|---|---|---|---|---|---|
-| 1 | SSB squat (or front squat if no SSB) | Comp bench, wide-ish grip | Trap bar, controlled eccentric | Tempo comp bench (3-1-1) | Front squat / goblet |
-| 2 | SSB squat | Comp bench | Trap bar | 2ct paused comp bench | Front squat / goblet |
-| 3 | High-bar comp-stance | Comp bench | Conventional (straps OK on backoffs) | 1ct paused comp bench | Front squat / goblet |
-| 4 | Low-bar comp (top single) | Comp bench (top single) | Conventional (top single) | Comp bench, 4×4 light | — |
+| Week | Squat (Mon) | Bench (Tue) | Deadlift (Thu) | Sec. Bench (Sat) |
+|---|---|---|---|---|
+| 1 | Front squat | Comp bench, wide-ish grip | Conventional | Tempo comp bench (3-1-1) |
+| 2 | Front squat | Comp bench | Conventional | 2ct paused comp bench |
+| 3 | High-bar comp-stance | Comp bench | Conventional (straps OK on backoffs) | 1ct paused comp bench |
+| 4 | Low-bar comp (top single) | Comp bench (top single) | Conventional (top single) | Comp bench, 4×4 light |
 
 **Reasoning:**
-- SSB / front squat Wks 1-2 → de-emphasizes lumbar shear + left-hip-IR demand that flares the AIC pattern (Stronger By Science: specificity is a spectrum; SSB high-transfer for quad/upper-back, lower flare risk)
+- Front squat Wks 1-2 → quad-biased, upright torso, low SI / left-hip-IR demand. Matches aesthetic priority (quads/hams/calves) and AIC pattern. Replaced SSB (per tkm preference, 2026-05-25).
 - High-bar Wk 3 as a specificity bridge before low-bar Wk 4 realization
-- Trap bar weeks 1-2: less hip extension demand than conventional; controlled eccentric rebuilds tissue tolerance (matches coach's "RETURN" Meso 4 template)
+- Conventional Wks 1-4 (per tkm preference, 2026-05-25, replacing trap bar Wks 1-2). Wk 1 conventional loads lightened ~10% vs trap bar at same RPE to keep the reintro honest.
 - Bench: tempo → 2ct pause → 1ct pause → comp (classic Sheiko/Calgary variation-led overload), ending in comp specificity Wk 4
 - **No sumo this block.** Hard constraint — reintroduce no earlier than next block, and only if Wk 4 self-assessment shows left hip IR stable or improved.
 
@@ -63,7 +63,7 @@
 
 - **Squat (comp low-bar):** TM 500 lb; effective working TM **450 lb** (-10% per "skipped session" rule, applied through Wk 3). Low-bar TM 500 only touched as the Wk 4 realization single.
 - **Bench:** **TM proposed 280 lb** (1RM 292 Nov 2025 + 225×9 May 2026 e1RM ~290, minus 10-15% post-detrain). Recalibrated Wk 4.
-- **Deadlift (conventional):** TM 501 lb; effective working TM **450 lb** for Wk 3 conventional work. Trap bar Wk 1-2 uses absolute loads, not % TM.
+- **Deadlift (conventional):** TM 501 lb; effective working TM **450 lb** Wks 1-3. Wk 1 top set ~285 (63% TM) intentionally conservative — reintro floor after 2-week layoff.
 - **Sumo TM 551** is ignored this block.
 
 ---
