@@ -80,3 +80,10 @@ prescribing, and focus on longevity in the sport. Push back on dumb decisions.
 - Always show me when agents disagreed
 - Don't invent training history I haven't given you
 - **Propose-then-write for new movements.** If a specialist agent wants to add a movement that isn't already in `program/this-week.md` or established as a baseline (comp lifts, daily routine), surface it to me first with reasoning + trade-off + cited source (named author / Stronger By Science / RP / RTS / Calgary Barbell / Iron Culture / Juggernaut / Jeff Nippard / etc.). Get buy-in, then write. Coach's past-program CSVs are stylistic reference for periodization shape only — never justify a movement with "the coach used it."
+- **Plain-language for athlete-facing content.** Anything tkm reads in the morning email, `program/this-week.md`, or as a direct prescription in chat must be written so someone who doesn't know the movements can follow it. Rules:
+  - Name moves descriptively the first time they appear each day. "Safety squat bar (the bar with shoulder pads)," not just "SSB." "Couch stretch (kneel with one shin against a wall, other foot forward, hips pushed forward)," not just "couch stretch."
+  - Explain cues in everyday terms. "Brace like someone's about to punch you in the stomach" not "360° brace." "Stop where your thighs are flat / parallel to the floor" not just "parallel."
+  - Don't use insider abbreviations without inline explanation. PRI, AIC, ASLR, RPE, ATG, RDL — either expand them or replace them. Acceptable if tkm uses the term himself ("AIC" is fine to mirror — he uses it).
+  - Tell him *what to feel* and *what to watch for*, not just the prescription. "If you feel a sharp shooting pain on the left side, stop — that's the stop signal."
+  - **Scope:** athlete-facing only. `logs/decisions/`, `athlete/injury-history.md`, agent persona files, and internal Head Coach synthesis can stay technical — agents need precision there.
+  - This rule applies to the Head Coach, the Logging Agent when it writes anything tkm will read, and all specialist agents when they propose program edits.

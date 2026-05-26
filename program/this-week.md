@@ -36,35 +36,97 @@ Position reset + baseline self-assessment. **Do not skip.** Your pelvis just spe
 
 ---
 
-## Tuesday 5/26 — Squat Primary  *(~75 min)*
+## Tuesday 5/26 — Squat Day (MODIFIED — read this carefully)
 
-**Warmup:** `reference/warmup-library.md` → Squat (Hip-Locked / Recovery Mode). Extend Phase 1, skip Phase 2 weighted work this week, full Phase 3 activation. Insert 2×10 breaths Squat-Hold IR Breathing between Phase 1 and Phase 3.
+**Quick glossary for today:**
+- *RPE 6* = could do 4 more reps if you had to. *RPE 8* = could do 2 more. Stop the set when you'd hit that feeling.
+- *Parallel* = the crease at the top of your thigh is level with your knee. NO deeper today.
+- *Brace* = pretend someone's about to punch you in the stomach. Stay tight all the way down and up.
+- *Symmetric drive* = push equally hard through both feet. Don't try to muscle the left side extra.
 
-| Exercise | Sets | Reps | RPE / Load | Notes |
-|---|---|---|---|---|
-| SSB squat | 1 | 5 | RPE 6, ~225 lb on the bar | Top set. Both feet drive equally. **Sleeves yes, belt no** Wk 1. |
-| SSB squat back-off | 2 | 6 | RPE 6, ~205 lb | Beltless. |
-| Unilateral leg extension | 2 | 10 per leg | RPE 7 (last set RPE 8) | Left first. 1-sec pause at top — lengthened-position emphasis. |
-| Cable lateral raise, single-arm | 2 | 15 per side | RPE 8 | Slow eccentric. Priority shoulder set. |
-
-**Cooldown:** standard + 60-sec extra left couch stretch.
+**Heads up before you even warm up.** You mentioned this morning: left quad hurts at the bottom of bodyweight squats, and your left hamstring's had a shooting/tickling pain for a few days. We're treating that seriously — load is down, depth is shorter, one accessory is cut.
 
 ---
 
-## Wednesday 5/27 — Bench Primary  *(~80 min)*
+**Step 1 — Position reset (15 min, do all of these):**
 
-**Warmup:** `reference/warmup-library.md` → Bench (Primary Heavy Bench Day). Pre-warmup: 90/90 Hip Lift + All-Fours Belly Lift (~7 min). Wide-ish grip, slight elbow flare — no strict tuck this week.
+1. **90/90 Hip Lift with full exhale** — lie on your back, feet up on a bench/box so knees and hips are at 90°. Push your low back flat into the floor. Take a big breath in through your nose, then exhale all the way out and hold empty for a beat. 5 breaths × 5 rounds.
+2. **Left Adductor Pullback** — same setup, but cross your left ankle over your right knee and gently pull your right knee toward your chest. You should feel a stretch in your left inner thigh. 5 deep breaths × 4 sets.
+3. **All-Fours Belly Lift** — on hands and knees, round your upper back like a cat, exhale fully, and feel your belly draw up toward your spine. 5 breaths × 4 rounds.
+
+**Step 2 — Hamstring screen (test before you load anything):**
+
+1. **The "shooting nerve" test** — sit on a bench, slump your upper back forward, drop your chin to your chest, then slowly straighten your left leg out in front of you and pull your toes up toward your shin. If that recreates the shooting/tickling feeling in your hamstring — **tell me afterward and we're booking a physical therapist this week.** It's not an emergency, but it confirms it's a nerve thing, not a muscle thing.
+2. **Nerve flossing (10 reps)** — lie on your back, pull your left knee to your chest with hands behind the thigh. Then alternate: (a) point your foot down + tuck chin to chest, (b) flex your foot up + look up at the ceiling. Slow, controlled. This calms the nerve. **Do NOT do a static hamstring stretch today — it makes nerve irritation worse.**
+
+**Step 3 — Regular squat warmup.** Your normal warmup sequence from the warmup library (see below). Take your time, don't rush phases.
+
+---
+
+**Step 4 — Test sets with the bar before you load up:**
+
+Do **empty bar → 95 lb → 135 lb**, slow, controlled reps. As you go:
+- Does the left quad pain at the bottom get better as you warm up? (It should — if not, that's a signal.)
+- When you brace hard at the bottom and exhale, does that make the pinch go away?
+- **If pain warms out + bracing fixes it** → it's a position thing, you're cleared to work up to the prescribed weights below.
+- **If pain stays or gets worse** → don't add weight. Cut depth shorter (stop above parallel), do the working sets at the modified weights below, and we re-evaluate after.
+
+---
+
+### Working sets
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Comp bench, wide-ish grip | 1 | 3 | RPE 6, ~225 lb | ~80% TM, 3 reps in reserve. |
-| Comp bench, back-off | 2 | 6 | RPE 6, ~200 lb | |
-| Close-grip bench | 2 | 8 | RPE 7, ~165 lb | Single supplemental — triceps + lockout. |
-| **SUPERSET A** (~3 rounds): | | | | |
-|  · Rope tricep pushdown | 2 | 12 | RPE 8 | Elbows pinned. |
-|  · Hammer curl, unilateral DB | 2 | 10 per arm | RPE 7 | Left first. NO standard bicep curl. |
+| Safety squat bar squat (the bar with shoulder pads) | 1 | 5 | RPE 6, ~205 lb (lowered from 225) | Top set. Stop at parallel — no deeper today. Push equally through both feet. Knee sleeves on, no belt. |
+| Safety squat bar squat — back-off sets | 2 | 6 | RPE 6, ~185 lb (lowered from 205) | No belt. Same rules: parallel only, equal pressure both feet. |
+| Single-leg leg extension machine | — | — | — | CUT today — don't do this one. The slow lockout at the top would aggravate the left quad. Skip and bank ~10 min. |
+| Single-arm cable lateral raise (shoulder) | 2 | 15 per side | RPE 8 | Slow on the way down (3 seconds). This is your shoulder set for the week. |
 
-**Cooldown:** standard, hold cross-body pec minor stretch left for 45 sec.
+---
+
+**Cues to forget today:** "sit back hard" and "push through the left harder." Today is symmetric, upright, controlled.
+
+**Stop signals during the session (rack the bar if any of these happen):**
+- Sharp, electric, or shooting pain anywhere on the left — especially the hamstring or down the leg.
+- The quad pain getting *worse* as the session goes on, not better.
+- Pain that doesn't go away in the rest period between sets.
+
+If you stop: walk through the position reset once more, do the lateral raises if you feel up to it, call it.
+
+**Cool down:**
+- Left **couch stretch** for 60 seconds (kneel down, put your left shin flat against a wall behind you with the top of your foot pointing up, plant your right foot forward in a lunge, squeeze your left glute and gently push your hips forward — you should feel a big stretch in the front of your left hip).
+- **Skip the static left hamstring stretch today** (toe-touch, hurdler stretch, anything that pulls the hamstring long). We're not stretching that nerve.
+
+---
+
+## Wednesday 5/27 — Bench Day (~80 min)
+
+**Quick glossary:**
+- *RPE 6* = could do 3-4 more reps. *RPE 7* = 3 more. *RPE 8* = 2 more.
+- *Wide-ish grip* = thumbs about a fist's width outside shoulder-width on the bar.
+- *Slight elbow flare* = elbows angle out around 60° from your sides on the descent, not tucked tight to your ribs.
+- *Superset* = do exercise A, then exercise B back-to-back, rest 60-90 sec, repeat.
+
+**Before you bench (~7 min position reset):**
+- 90/90 Hip Lift with full exhale — same as yesterday's Step 1.
+- All-Fours Belly Lift — same as yesterday's Step 1.
+
+**Warmup:** `reference/warmup-library.md` → Bench (Primary Heavy Bench Day). Bullets below.
+
+---
+
+### Working sets
+
+| Exercise | Sets | Reps | RPE / Load | Notes |
+|---|---|---|---|---|
+| Competition bench press, wide-ish grip | 1 | 3 | RPE 6, ~225 lb | Top set. Should feel like 3 reps left in the tank. Slight elbow flare, no strict tuck. |
+| Competition bench press — back-off sets | 2 | 6 | RPE 6, ~200 lb | Same form. Easy pace. |
+| Close-grip bench press (hands just inside shoulder-width) | 2 | 8 | RPE 7, ~165 lb | Builds triceps and lockout. Keep elbows close to your sides on this one. |
+| SUPERSET A (do back-to-back for 2-3 rounds) | | | | |
+|  - Rope tricep pushdown (cable) | 2 | 12 | RPE 8 | Keep elbows pinned to your sides — don't let them flare forward. |
+|  - Hammer curl (single dumbbell, one arm at a time) | 2 | 10 per arm | RPE 7 | Palms face each other (thumbs up). Start with your left arm. No regular palm-up curls this block. |
+
+**Cool down:** stretch your left chest — stand in a doorway, put your left arm against the frame at shoulder height, step your right foot forward and gently rotate your torso to the right until you feel a stretch in the front of your left shoulder/chest. Hold 45 seconds.
 
 ---
 
@@ -77,21 +139,36 @@ Position reset + baseline self-assessment. **Do not skip.** Your pelvis just spe
 
 ---
 
-## Friday 5/29 — Deadlift Primary  *(~80 min)*
+## Friday 5/29 — Deadlift Day (~80 min)
 
-**Warmup:** `reference/warmup-library.md` → Conventional Deadlift. Pre-warmup: full Phase A PRI reset (all 3 protocols, ~12 min).
+**Quick glossary:**
+- *Conventional deadlift* = standard stance (about hip-width), hands grip the bar just outside your knees.
+- *RDL* = Romanian deadlift. You hinge at the hips, slight knee bend, bar slides down the front of your thighs. Doesn't touch the floor between reps.
+- *B-stance* = staggered feet — one foot fully planted, the other tucked back about half a foot like a kickstand (mostly balance, not load).
+- *Straps* = lifting straps. OK to use them on back-off sets to save your grip.
+
+**Before you pull (~12 min position reset, all three):**
+1. 90/90 Hip Lift with full exhale — 5 breaths × 5 rounds.
+2. Left Adductor Pullback — 5 deep breaths × 4 sets.
+3. All-Fours Belly Lift — 5 breaths × 4 rounds.
+
+**Warmup:** `reference/warmup-library.md` → Conventional Deadlift. Bullets below.
+
+---
+
+### Working sets
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Conventional deadlift | 1 | 5 | RPE 6, ~285 lb | Top set. Symmetric setup — wedge into the bar from both hips. |
-| Conventional back-off | 2 | 6 | RPE 6, ~255 lb | Straps fine on back-offs. |
-| Single-leg RDL (or B-stance) | 2 | 8 per leg | RPE 7, light DBs ~30 lb | Left first. |
-| Chest-supported row | 2 | 12 | RPE 7, ~135 lb | "Row that doesn't use traps or delts." |
-| **SUPERSET B** (~3 rounds): | | | | |
-|  · Unilateral hamstring curl | 2 | 12 per leg | RPE 7 | Left first. |
-|  · Cable abduction (standing) | 2 | 12 per side | RPE 7 | Left first. Glute med, AIC-positive. |
+| Conventional deadlift | 1 | 5 | RPE 6, ~285 lb | Top set. 4 reps in reserve. Set up symmetric — pressure into the bar evenly from both hips, don't lean. |
+| Conventional deadlift — back-off sets | 2 | 6 | RPE 6, ~255 lb | Straps fine here to save the grip. |
+| Single-leg or B-stance Romanian deadlift (light dumbbells) | 2 | 8 per leg | RPE 7, ~30 lb DBs | Start left leg. Slow, controlled hinge — feel it in your hamstring/glute, not your low back. |
+| Chest-supported row (bench or machine) | 2 | 12 | RPE 7, ~135 lb | The "row that doesn't use traps or delts" — chest stays on the pad the whole time, pull elbows back, don't shrug. |
+| SUPERSET B (back-to-back for 2-3 rounds) | | | | |
+|  - Single-leg hamstring curl machine | 2 | 12 per leg | RPE 7 | Start left leg. |
+|  - Standing cable hip abduction (band or cable around ankle, kick leg out to the side) | 2 | 12 per side | RPE 7 | Start left. Feel it in the side of your glute, not your low back. |
 
-**Cooldown:** standard + 5 min easy walking if available.
+**Cool down:** normal cool down + 5 minutes of easy walking if you can.
 
 ---
 
@@ -104,23 +181,32 @@ Position reset + baseline self-assessment. **Do not skip.** Your pelvis just spe
 
 ---
 
-## Sunday 5/31 — Bench Secondary + Weekly Self-Assessment  *(~80 min)*
+## Sunday 5/31 — Second Bench Day + Weekly Check-In (~80 min)
 
-**Warmup:** `reference/warmup-library.md` → Upper Body Accessory Day. Drop scap push-ups (left shoulder pre-fatigued from Wed). Daily stabilizer doubles as activation.
+**Quick glossary:**
+- *Tempo 3-1-1* = 3 seconds lowering the bar, 1 second pause on your chest, 1 second pressing up.
+- *BW* = bodyweight (no extra load).
+- *Pull-up* = palms facing away, dead-hang at the bottom, chin clears the bar.
+
+**Warmup:** `reference/warmup-library.md` → Upper Body Accessory Day. Skip scap push-ups today — your left shoulder is pre-fatigued from Wednesday. Bullets below.
+
+---
+
+### Working sets
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Tempo comp bench (3-1-1) | 1 | 4 | RPE 6, ~210 lb | Top set. |
-| Tempo bench back-off | 2 | 6 | RPE 6, ~185 lb | |
-| Weighted pull-up | 2 | 8 | RPE 7, **BW or +25 lb max Wk 1** | 2-3 reps in reserve. Load goes up Wks 2-4. Dip belt or DB between feet. |
-| **SUPERSET C** (~3 rounds): | | | | |
-|  · Cable lateral raise, single-arm | 2 | 15 per side | RPE 8 | Second shoulder exposure this week. |
-|  · Reverse pec deck or face pull | 2 | 15 | RPE 7 | Rear delt + posture. |
-| Standing calf raise | 1 | 15 | RPE 8 | Single finisher set. |
-| Weekly self-assessment battery | 1 | — | — | Re-run 5 tests + L hip IR ROM after the session (tissue warm). Log to `logs/patterns/2026-W22.md`. Compare vs Mon baseline. |
-| Weekly review with Head Coach | — | — | — | Dump session reflections; spawn Logging Agent + weekly synthesis. |
+| Tempo competition bench press (3-sec down, 1-sec pause, 1-sec up) | 1 | 4 | RPE 6, ~210 lb | Top set. |
+| Tempo bench — back-off sets | 2 | 6 | RPE 6, ~185 lb | Same tempo. |
+| Weighted pull-ups | 2 | 8 | RPE 7, bodyweight or up to +25 lb max this week | Add load with a dip belt or by holding a dumbbell between your feet. 2-3 reps left in the tank. Weight ramps up weeks 2-4. |
+| SUPERSET C (back-to-back for 2-3 rounds) | | | | |
+|  - Single-arm cable lateral raise (shoulder) | 2 | 15 per side | RPE 8 | Second shoulder set of the week. Slow on the way down. |
+|  - Reverse pec deck OR face pull (rear delt) | 2 | 15 | RPE 7 | Pull the rope/handles toward your forehead, elbows high. |
+| Standing calf raise | 1 | 15 | RPE 8 | Single finisher set. Slow stretch at the bottom. |
+| Weekly self-assessment | 1 | — | — | After the session (while tissue is warm), re-do the 6 self-tests from Monday's pre-block + left hip internal rotation range. Tell me how each compared to Monday. |
+| Weekly check-in chat | — | — | — | Dump how the week went — what felt good, what didn't, any pain. We'll do the weekly synthesis. |
 
-**Cooldown:** standard.
+**Cool down:** normal.
 
 ---
 
@@ -161,3 +247,4 @@ Three supersets only — A (Wed: pushdown + hammer curl), B (Fri: ham curl + cab
 - 2026-05-25: Sat — swapped B-stance RDL → weighted pull-up 2×8 per tkm.
 - 2026-05-25: Deadlift: trap bar → conventional (tkm preference); top set lightened ~285 lb.
 - 2026-05-25: **One-week schedule override per tkm — sessions shift from Mon/Tue/Thu/Sat to Tue/Wed/Fri/Sun. Squat Tue, Bench Wed, DL Fri, Bench Secondary + self-assessment Sun. Mon/Thu/Sat become rest days. Schedule returns to standard Mon/Tue/Thu/Sat at start of Wk 2.**
+- 2026-05-26: **Tue squat modified pre-session per new L-side symptoms.** L quad pain at depth (BW), L hamstring shooting tickle 3-4 days. Mobility read: AIC-consistent quad pinch + likely neural hamstring (proximal/sciatic-adjacent). Mods: load -10% (top 205, back-off 185), parallel depth only, unilateral leg ext CUT, pre-warmup adds slump test + nerve flossing + full Phase A PRI reset, bar-test protocol gates load progression. RPE 6 ceiling held. Decision log: `logs/decisions/2026-05-26-left-side-pre-squat-symptoms.md`.

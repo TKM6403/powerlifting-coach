@@ -45,6 +45,12 @@ Each time SBD intensity is progressively overloaded without parallel stabilizer 
 - Left lower back stiffness post-deadlift
 - Pec minor / left shoulder symptoms on bench (related to broader left-side IR deficit and scap position)
 
+### 2026-05-26 — Pre-Session Symptom Report (Wk 1 Reintroduction Accumulation)
+**Context:** Reported before Tue squat primary session, during bodyweight squat warm-up. NEW symptoms appearing in Wk 1 of the Reintroduction Accumulation block.
+- **Left quad:** "feels a lot of pain when hitting depth" on bodyweight squats today. Athlete suspects hip-related (consistent with left AIC pattern — left hip flexor/quad chronically short, may bind at end-range hip flexion).
+- **Left hamstring (last few days):** "tickle type shooting pain." Verbatim phrasing — neural/shooting character noted, not described as muscular soreness.
+- No session has occurred yet; flagged here as a pre-session symptom report. FLAG MOBILITY: new left-side symptoms in two distinct structures (quad at depth, hamstring shooting) at the start of a reintroduction block.
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up
