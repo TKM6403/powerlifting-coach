@@ -59,7 +59,9 @@ Position reset + baseline self-assessment. **Do not skip.** Your pelvis just spe
 1. **The "shooting nerve" test** — sit on a bench, slump your upper back forward, drop your chin to your chest, then slowly straighten your left leg out in front of you and pull your toes up toward your shin. If that recreates the shooting/tickling feeling in your hamstring — **tell me afterward and we're booking a physical therapist this week.** It's not an emergency, but it confirms it's a nerve thing, not a muscle thing.
 2. **Nerve flossing (10 reps)** — lie on your back, pull your left knee to your chest with hands behind the thigh. Then alternate: (a) point your foot down + tuck chin to chest, (b) flex your foot up + look up at the ceiling. Slow, controlled. This calms the nerve. **Do NOT do a static hamstring stretch today — it makes nerve irritation worse.**
 
-**Step 3 — Regular squat warmup.** Your normal warmup sequence from the warmup library (see below). Take your time, don't rush phases.
+**Step 3 — Regular squat warmup.** Take your time, don't rush phases.
+
+**Warmup:** `reference/warmup-library.md` → Squat (Hip-Locked Day / Recovery Mode). Bullets below.
 
 ---
 
