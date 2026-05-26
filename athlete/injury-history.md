@@ -51,6 +51,11 @@ Each time SBD intensity is progressively overloaded without parallel stabilizer 
 - **Left hamstring (last few days):** "tickle type shooting pain." Verbatim phrasing — neural/shooting character noted, not described as muscular soreness.
 - No session has occurred yet; flagged here as a pre-session symptom report. FLAG MOBILITY: new left-side symptoms in two distinct structures (quad at depth, hamstring shooting) at the start of a reintroduction block.
 
+**Tue 5/26, post-pre-warmup slump test (follow-up):**
+- Athlete verbatim: "I did the shooting nerve thing [slump test] and it slightly felt like it made that hamstring pain prevalent."
+- Interpretation: slump test **mildly positive** — reproduction of L hamstring symptom noted, not strong/screaming. Confirms a **neural component** to the L hamstring symptom (not purely muscular).
+- FLAG MOBILITY: PT booking criterion (per Mobility Agent's earlier prescription contingent on positive slump) is **triggered**.
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up

@@ -88,12 +88,18 @@ Do **empty bar → 95 lb → 135 lb**, slow, controlled reps. As you go:
 
 **Cues to forget today:** "sit back hard" and "push through the left harder." Today is symmetric, upright, controlled.
 
-**Stop signals during the session (rack the bar if any of these happen):**
-- Sharp, electric, or shooting pain anywhere on the left — especially the hamstring or down the leg.
-- The quad pain getting *worse* as the session goes on, not better.
-- Pain that doesn't go away in the rest period between sets.
+**UPDATE (slump test came back mildly positive — nerve component confirmed for L hamstring). New rules added below.**
 
-If you stop: walk through the position reset once more, do the lateral raises if you feel up to it, call it.
+**Between-set check (do this on every working set above 135 lb):**
+- After racking the bar, stand up, drop your chin to your chest, slowly fold forward (don't force it). Notice the L hamstring.
+- If the shooting/tickling feeling is *more prevalent* than the previous set's check — terminate squat work for the day. Move to lateral raises + cool down.
+
+**Stop signals during the session (rack the bar IMMEDIATELY if any of these happen):**
+- Any shooting / electric / tickling sensation in the L hamstring, glute, or down the leg while under the bar — that's the nerve, full stop on squats today.
+- The front-of-quad pinch getting *worse* set over set instead of better (warming out).
+- Pain that doesn't fade in the rest period between sets.
+
+If you stop squat work: do the lateral raises if it feels OK, walk through the position reset once more, call it. Don't push through.
 
 **Cool down:**
 - Left **couch stretch** for 60 seconds (kneel down, put your left shin flat against a wall behind you with the top of your foot pointing up, plant your right foot forward in a lunge, squeeze your left glute and gently push your hips forward — you should feel a big stretch in the front of your left hip).
