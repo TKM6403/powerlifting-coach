@@ -31,9 +31,8 @@ Position reset + baseline self-assessment. **Do not skip.** Your pelvis just spe
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Front squat | 1 | 5 | RPE 6, ~205 lb | Top set. Both feet drive equally. Cross-arm or clean rack — whichever wrist allows. |
-| Front squat back-off | 2 | 6 | RPE 6, ~185 lb | Trimmed from 3×6 to 2×6. |
-| Zercher split squat, **left hand over right** | 3 | 10 per leg | RPE 7 | Left side first. ~30-35 lb DBs in goblet if Zercher uncomfortable. This is the asymmetry piece — don't drop it. |
+| SSB squat | 1 | 5 | RPE 6, ~225 lb on the bar | Top set. Both feet drive equally. **Sleeves yes, belt no** Wk 1. |
+| SSB squat back-off | 2 | 6 | RPE 6, ~205 lb | Beltless. |
 | Cable lateral raise, single-arm | 2 | 15 per side | RPE 8 | Slow eccentric. Priority shoulder set. |
 
 **Cut:** RDL (hinge work lives Thu), leg extension, weighted knee raise.
@@ -162,3 +161,5 @@ Three supersets only — A (Tue: pushdown + hammer curl), B (Thu: ham curl + cab
 
 - 2026-05-25: Trimmed Week 1 volume per tkm — RDL Mon cut, tempo bench Tue cut, accessories trimmed to 1-2 priority pieces per session, three intentional supersets added. Trap bar Thu retained (lower flare risk than conventional for Wk 1 — see decision log).
 - 2026-05-25: Swapped SSB squat → front squat (tkm preference; front squat keeps quad bias + upright torso). Swapped trap bar deadlift → conventional (tkm preference; top set lightened from ~315 trap bar to ~285 conventional to keep RPE 6 honest since conventional is more systemically taxing).
+- 2026-05-25 (later): Swapped front squat → SSB back (tkm reconsidered; SSB available at primary gym). Top set ~225 on the bar, back-off 2×6 @ ~205. Sleeves yes, beltless Wk 1.
+- 2026-05-25 (later): Cut Zercher split squat per "low coordination only" feedback. Did NOT replace yet — awaiting buy-in on unilateral leg extension proposal (machine, asymmetry-exposing, quad isolation).

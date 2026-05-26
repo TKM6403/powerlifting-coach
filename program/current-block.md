@@ -34,13 +34,13 @@
 
 | Week | Squat (Mon) | Bench (Tue) | Deadlift (Thu) | Sec. Bench (Sat) |
 |---|---|---|---|---|
-| 1 | Front squat | Comp bench, wide-ish grip | Conventional | Tempo comp bench (3-1-1) |
-| 2 | Front squat | Comp bench | Conventional | 2ct paused comp bench |
+| 1 | SSB squat | Comp bench, wide-ish grip | Conventional | Tempo comp bench (3-1-1) |
+| 2 | SSB squat | Comp bench | Conventional | 2ct paused comp bench |
 | 3 | High-bar comp-stance | Comp bench | Conventional (straps OK on backoffs) | 1ct paused comp bench |
 | 4 | Low-bar comp (top single) | Comp bench (top single) | Conventional (top single) | Comp bench, 4×4 light |
 
 **Reasoning:**
-- Front squat Wks 1-2 → quad-biased, upright torso, low SI / left-hip-IR demand. Matches aesthetic priority (quads/hams/calves) and AIC pattern. Replaced SSB (per tkm preference, 2026-05-25).
+- SSB squat Wks 1-2 → de-emphasizes lumbar shear + left-hip-IR demand vs low-bar. Loads similarly to back squat without the comp-stance flare risk. tkm has SSB bar at primary gym (per profile equipment list).
 - High-bar Wk 3 as a specificity bridge before low-bar Wk 4 realization
 - Conventional Wks 1-4 (per tkm preference, 2026-05-25, replacing trap bar Wks 1-2). Wk 1 conventional loads lightened ~10% vs trap bar at same RPE to keep the reintro honest.
 - Bench: tempo → 2ct pause → 1ct pause → comp (classic Sheiko/Calgary variation-led overload), ending in comp specificity Wk 4

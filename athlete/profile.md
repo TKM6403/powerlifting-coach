@@ -43,8 +43,16 @@
 
 ## Equipment & Environment
 
-- Home gym setup: regular access to powerlifting essentials (assume rack, bar, plates, bench, bands, basic accessories) — confirm specifics
-- Hotel gym tolerance: machines + light dumbbells; can program around it
+- **Home / primary gym (confirmed 2026-05-25):**
+  - Rack, barbell, plates, bench, bands (standard powerlifting essentials)
+  - **Machines available:** belt squat, pendulum squat, leg extension, hamstring curl
+  - **Cables:** cable row, lat pulldown, standard cable machine (full attachment selection)
+  - Dumbbells
+- **Specialty bars available:** SSB (safety squat bar)
+- **Equipment NOT available — do not program these:**
+  - Single-leg leg press, hack squat, abductor machine, glute kickback machine, trap bar, reverse hyper, GHR
+  - (If a movement requires equipment not listed in the "available" set above, propose an alternative)
+- **Hotel gym:** machines + light dumbbells; can program around it
 
 ## Goals (See Also athlete/goals.md and goals/)
 
