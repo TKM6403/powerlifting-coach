@@ -33,6 +33,7 @@ Position reset + baseline self-assessment. **Do not skip.** Your pelvis just spe
 |---|---|---|---|---|
 | SSB squat | 1 | 5 | RPE 6, ~225 lb on the bar | Top set. Both feet drive equally. **Sleeves yes, belt no** Wk 1. |
 | SSB squat back-off | 2 | 6 | RPE 6, ~205 lb | Beltless. |
+| Unilateral leg extension | 2 | 10 per leg | RPE 7 (last set RPE 8) | Left first. 1-sec pause at top — lengthened-position emphasis. |
 | Cable lateral raise, single-arm | 2 | 15 per side | RPE 8 | Slow eccentric. Priority shoulder set. |
 
 **Cut:** RDL (hinge work lives Thu), leg extension, weighted knee raise.
@@ -130,7 +131,7 @@ Position reset + baseline self-assessment. **Do not skip.** Your pelvis just spe
 
 ## Volume Summary (lean version)
 
-- **Squat working sets:** 3 (top + 2 back-off) + 3 Zercher = 6 squat-pattern. Was 10.
+- **Squat working sets:** 3 (top + 2 back-off) + 2 unilateral leg ext = 5 leg sets. Was 10.
 - **Bench working sets:** 6 across two sessions. Was 14.
 - **Deadlift / hinge sets:** 3 trap bar + 2 single-leg RDL + 2 B-stance Sat = 7 hinge. Was ~10.
 - **Accessory sets:** ~14 total across the week. Was ~22.
@@ -162,4 +163,4 @@ Three supersets only — A (Tue: pushdown + hammer curl), B (Thu: ham curl + cab
 - 2026-05-25: Trimmed Week 1 volume per tkm — RDL Mon cut, tempo bench Tue cut, accessories trimmed to 1-2 priority pieces per session, three intentional supersets added. Trap bar Thu retained (lower flare risk than conventional for Wk 1 — see decision log).
 - 2026-05-25: Swapped SSB squat → front squat (tkm preference; front squat keeps quad bias + upright torso). Swapped trap bar deadlift → conventional (tkm preference; top set lightened from ~315 trap bar to ~285 conventional to keep RPE 6 honest since conventional is more systemically taxing).
 - 2026-05-25 (later): Swapped front squat → SSB back (tkm reconsidered; SSB available at primary gym). Top set ~225 on the bar, back-off 2×6 @ ~205. Sleeves yes, beltless Wk 1.
-- 2026-05-25 (later): Cut Zercher split squat per "low coordination only" feedback. Did NOT replace yet — awaiting buy-in on unilateral leg extension proposal (machine, asymmetry-exposing, quad isolation).
+- 2026-05-25 (later): Cut Zercher split squat per "low coordination only" feedback. Replaced with unilateral leg extension 2×10/leg, RPE 7 (last set RPE 8), 1-sec pause at top (lengthened-position emphasis per Schoenfeld hypertrophy lit).
