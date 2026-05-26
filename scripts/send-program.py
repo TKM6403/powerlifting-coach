@@ -1,29 +1,43 @@
 #!/usr/bin/env python3
 """
-send-program.py — text today's (or any day's) training session via iMessage.
+send-program.py — deliver today's (or any day's) training session.
+
+Two modes:
+  --mode imessage  (default; macOS only, uses Messages.app)
+  --mode email     (cross-platform; SMTP via Gmail; for GitHub Actions cron)
 
 Reads program/this-week.md, extracts the requested day's section, inlines a
-brief version of the referenced warmup-library entry, and sends it as an
-iMessage via Messages.app (osascript). macOS only.
+brief version of the referenced warmup-library entry, and sends.
 
 Usage:
-    python scripts/send-program.py                  # today
-    python scripts/send-program.py --day Mon        # specific day
-    python scripts/send-program.py --dry-run        # print, don't send
-    python scripts/send-program.py --phone +1555...
+    python scripts/send-program.py                       # today, iMessage
+    python scripts/send-program.py --day Mon             # specific day
+    python scripts/send-program.py --dry-run             # print, don't send
+    python scripts/send-program.py --mode email          # email instead
+    python scripts/send-program.py --phone +1555...      # override phone
+
+Email mode env vars (read from environment, e.g. GitHub Action secrets):
+    GMAIL_APP_PASSWORD   required — Gmail app password for the sender
+    GMAIL_FROM           optional — sender address (default tarun.marthes@gmail.com)
+    GMAIL_TO             optional — recipient (default tarun.marthes@gmail.com)
 """
 
 from __future__ import annotations
 
 import argparse
 import datetime
+import os
 import re
+import smtplib
+import ssl
 import subprocess
 import sys
 import tempfile
+from email.message import EmailMessage
 from pathlib import Path
 
 PHONE = "+18015606099"
+DEFAULT_EMAIL = "tarun.marthes@gmail.com"
 REPO = Path(__file__).resolve().parent.parent
 WEEK_FILE = REPO / "program" / "this-week.md"
 WARMUP_FILE = REPO / "reference" / "warmup-library.md"
@@ -147,6 +161,7 @@ def format_session(day_name: str, section: str, warmup_bullets: list[str]) -> st
 
         if stripped.startswith("## "):
             header = stripped[3:].replace("**", "")
+            header = re.sub(r"\s*\*[^*]+\*\s*$", "", header).strip()
             out.append(header.upper())
             out.append("")
             continue
@@ -187,6 +202,32 @@ def format_session(day_name: str, section: str, warmup_bullets: list[str]) -> st
     return "\n".join(out)
 
 
+def extract_subject(section: str, day_name: str) -> str:
+    """Pull a short subject line from the section's ## header."""
+    for line in section.splitlines():
+        if line.startswith("## "):
+            header = line[3:].replace("**", "").strip()
+            # Strip italic time annotation: "## Mon 5/25 — Squat Primary  *(~75 min)*"
+            header = re.sub(r"\s*\*[^*]+\*\s*$", "", header).strip()
+            # Compact: "Monday 5/25 — Squat Primary" -> "Mon 5/25 — Squat Primary"
+            return header.replace(day_name, day_name[:3], 1)
+    return f"{day_name[:3]} — training"
+
+
+def send_email(to_addr: str, from_addr: str, subject: str,
+               body: str, app_password: str) -> None:
+    """Send via Gmail SMTP."""
+    msg = EmailMessage()
+    msg["Subject"] = subject
+    msg["From"] = from_addr
+    msg["To"] = to_addr
+    msg.set_content(body)
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465,
+                          context=ssl.create_default_context()) as s:
+        s.login(from_addr, app_password)
+        s.send_message(msg)
+
+
 def send_imessage(phone: str, message: str) -> None:
     """Send via Messages.app. Uses a tempfile to avoid AppleScript escaping pain."""
     with tempfile.NamedTemporaryFile(mode="w", suffix=".txt",
@@ -211,6 +252,8 @@ def send_imessage(phone: str, message: str) -> None:
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.strip().splitlines()[0])
+    ap.add_argument("--mode", choices=["imessage", "email"], default="imessage",
+                    help="Delivery mode (default: imessage)")
     ap.add_argument("--day", help="Day (Mon/Tue/.../Monday/Tuesday). Default = today.")
     ap.add_argument("--phone", default=PHONE, help=f"iMessage recipient (default {PHONE})")
     ap.add_argument("--dry-run", action="store_true", help="Print, don't send")
@@ -236,7 +279,20 @@ def main():
     message = format_session(day_name, section, warmup_bullets)
 
     if args.dry_run:
+        if args.mode == "email":
+            print(f"Subject: {extract_subject(section, day_name)}\n")
         print(message)
+        return
+
+    if args.mode == "email":
+        app_pw = os.environ.get("GMAIL_APP_PASSWORD")
+        if not app_pw:
+            sys.exit("GMAIL_APP_PASSWORD not set in environment")
+        from_addr = os.environ.get("GMAIL_FROM", DEFAULT_EMAIL)
+        to_addr = os.environ.get("GMAIL_TO", DEFAULT_EMAIL)
+        subject = extract_subject(section, day_name)
+        send_email(to_addr, from_addr, subject, message, app_pw)
+        print(f"Emailed {day_name} session to {to_addr}")
     else:
         send_imessage(args.phone, message)
         print(f"Sent {day_name} session to {args.phone}")

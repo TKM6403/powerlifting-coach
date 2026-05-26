@@ -1,0 +1,33 @@
+name: Daily program email
+
+# Sends today's training session to tkm at 7 AM Central, every day.
+#
+# Schedule note: GitHub cron is UTC. We run at 12:00 UTC, which is:
+#   - 7 AM CDT (Mar – Nov, daylight saving)
+#   - 6 AM CST (Nov – Mar, standard time)
+# Adjust to "0 13 * * *" in winter if you want 7 AM year-round, or accept
+# the 1-hr earlier delivery during winter months.
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:  # allows manual trigger via Actions tab
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Send today's session via email
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_FROM: tarun.marthes@gmail.com
+          GMAIL_TO: tarun.marthes@gmail.com
+        run: python scripts/send-program.py --mode email
