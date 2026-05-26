@@ -107,7 +107,7 @@ Position reset + baseline self-assessment. **Do not skip.** Your pelvis just spe
 |---|---|---|---|---|
 | Tempo comp bench (3-1-1) | 1 | 4 | RPE 6, ~210 lb | Top set. |
 | Tempo bench back-off | 2 | 6 | RPE 6, ~185 lb | Trimmed from 3×6. |
-| B-stance RDL (DB) | 2 | 10 per leg | RPE 7 | Left planted/working leg first. Light DBs. |
+| Weighted pull-up | 2 | 8 | RPE 7, **BW or +25 lb max Wk 1** | 2-3 reps in reserve. Load goes up Wks 2-4 as the system rebuilds. Dip belt or DB between feet. |
 | **SUPERSET C** (~3 rounds): | | | | |
 |  · Cable lateral raise, single-arm | 2 | 15 per side | RPE 8 | Second shoulder exposure this week. |
 |  · Reverse pec deck or face pull | 2 | 15 | RPE 7 | Rear delt + posture. |
@@ -164,3 +164,4 @@ Three supersets only — A (Tue: pushdown + hammer curl), B (Thu: ham curl + cab
 - 2026-05-25: Swapped SSB squat → front squat (tkm preference; front squat keeps quad bias + upright torso). Swapped trap bar deadlift → conventional (tkm preference; top set lightened from ~315 trap bar to ~285 conventional to keep RPE 6 honest since conventional is more systemically taxing).
 - 2026-05-25 (later): Swapped front squat → SSB back (tkm reconsidered; SSB available at primary gym). Top set ~225 on the bar, back-off 2×6 @ ~205. Sleeves yes, beltless Wk 1.
 - 2026-05-25 (later): Cut Zercher split squat per "low coordination only" feedback. Replaced with unilateral leg extension 2×10/leg, RPE 7 (last set RPE 8), 1-sec pause at top (lengthened-position emphasis per Schoenfeld hypertrophy lit).
+- 2026-05-25 (later): Sat — swapped B-stance RDL → weighted pull-up 2×8 per tkm. Wk 1 load BW or +25 max given 2-week layoff + 2/10 recovery; progress through block.
