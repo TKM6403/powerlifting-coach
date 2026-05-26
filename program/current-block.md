@@ -70,6 +70,7 @@
 
 ## Block Notes
 
+- **Volume philosophy: minimum effective dose.** Sessions target ~90 min including warmup. 2-3 accessory exercises max per session, executed fully, beats 5+ partially done. Add volume across weeks only if recovery permits. See feedback memory `feedback_program_volume.md`.
 - **Recovery feel was 2/10 after SBD sessions before this block.** If it stays at 2-3/10 through Wk 2, hold Wk 1 loads through Wk 2 and shift the block back one week (Diet + Mobility weigh in). If it climbs to 5+ by Wk 3, the block volume is right.
 - **2-week vacation just ended** with no SBD + poor eating. Expect Wk 1 to feel rough on Mon-Tue, smoother by Sat.
 - **Daily stabilizer routine has not run for 2+ weeks.** Mobility Agent owns the restart at 2 rounds, regressed Copenhagen — see `reference/mobility-protocols.md`. Completion target: 100% on training days, ≥5/7 on non-training. If non-training completion < 5/7, SBD intensity progression is paused per `program/progression-rules.md`.
