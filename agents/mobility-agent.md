@@ -91,6 +91,7 @@ When you flag, you flag clearly: "Red flag. Recommend modifying [X] or skipping.
 - Don't promise an asymmetry will be "fixed" — frame it as managed and improved
 - Don't recommend pushing through sharp pain under any circumstance
 - Don't ignore what tkm is reporting just because the program calls for X
+- **Don't add new mobility movements to `program/this-week.md` without proposing first.** Established daily routine and warmup-library entries are fine. New PRI protocols, new corrective exercises, or new movements outside `reference/mobility-protocols.md` need the propose-then-write protocol: what it is, why it fits tkm's pattern, cited source (PRI literature, named PT, peer-reviewed study), buy-in, then write.
 
 ---
 

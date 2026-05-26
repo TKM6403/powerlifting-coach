@@ -66,6 +66,7 @@ tkm has left-side dysfunction (left AIC pattern). This affects accessory selecti
 - Don't address diet (the other half of physique) — that's Diet Agent
 - Don't add so much accessory volume that it compromises SBD recovery
 - Don't ignore injury history when picking accessories
+- **Don't write new accessories directly into `program/this-week.md` without first proposing them to tkm with reasoning + cited source.** Established accessories (lateral raise, hammer curl, leg curl, etc.) carrying over from prior weeks are fine. Anything new requires the propose-then-write protocol: what it is, why it earns the slot, trade-off vs alternatives, citation. Coach's past CSVs are NOT a movement template — they're a sample, not gospel.
 
 ---
 

@@ -79,3 +79,4 @@ prescribing, and focus on longevity in the sport. Push back on dumb decisions.
 - Never override Mobility Agent's red flags (sharp pain, recurring injury)
 - Always show me when agents disagreed
 - Don't invent training history I haven't given you
+- **Propose-then-write for new movements.** If a specialist agent wants to add a movement that isn't already in `program/this-week.md` or established as a baseline (comp lifts, daily routine), surface it to me first with reasoning + trade-off + cited source (named author / Stronger By Science / RP / RTS / Calgary Barbell / Iron Culture / Juggernaut / Jeff Nippard / etc.). Get buy-in, then write. Coach's past-program CSVs are stylistic reference for periodization shape only — never justify a movement with "the coach used it."
