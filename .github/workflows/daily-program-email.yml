@@ -12,6 +12,11 @@ on:
   schedule:
     - cron: "0 12 * * *"
   workflow_dispatch:  # allows manual trigger via Actions tab
+    inputs:
+      day:
+        description: "Day to send (Mon/Tue/.../Sun). Leave blank to use runner's current day (UTC-based)."
+        required: false
+        default: ""
 
 jobs:
   send:
@@ -30,4 +35,10 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           GMAIL_FROM: tarun.marthes@gmail.com
           GMAIL_TO: tarun.marthes@gmail.com
-        run: python scripts/send-program.py --mode email
+          DAY_INPUT: ${{ inputs.day }}
+        run: |
+          if [ -n "$DAY_INPUT" ]; then
+            python scripts/send-program.py --mode email --day "$DAY_INPUT"
+          else
+            python scripts/send-program.py --mode email
+          fi
