@@ -36,74 +36,52 @@ Position reset + baseline self-assessment. **Do not skip.** Your pelvis just spe
 
 ---
 
-## Tuesday 5/26 — Squat Day (MODIFIED — read this carefully)
+## Tuesday 5/26 — Hypertrophy Pivot (squat aborted mid-warmup)
+
+**What happened earlier today:** Squat working sets aborted. Slump test came back mildly positive, L hip clicked on warmup moves, L quad pain didn't warm out at the empty bar, and the nerve fired posteriorly under load on a yellow Eleiko (~115 lb). Three stacked stop signals — squats are done for the day. You're already warmed up, so we pivot the rest of today into a lower-body hypertrophy session that won't load the things that are flaring.
+
+**The shape of the rest of today's session:** Machine-based. ROM-capped (don't go deeper than where pain starts). Knee-dominant. Nothing that loads your spine in deep hip flexion. Nothing that puts the nerve on stretch.
 
 **Quick glossary for today:**
-- *RPE 6* = could do 4 more reps if you had to. *RPE 8* = could do 2 more. Stop the set when you'd hit that feeling.
-- *Parallel* = the crease at the top of your thigh is level with your knee. NO deeper today.
-- *Brace* = pretend someone's about to punch you in the stomach. Stay tight all the way down and up.
-- *Symmetric drive* = push equally hard through both feet. Don't try to muscle the left side extra.
-
-**Heads up before you even warm up.** You mentioned this morning: left quad hurts at the bottom of bodyweight squats, and your left hamstring's had a shooting/tickling pain for a few days. We're treating that seriously — load is down, depth is shorter, one accessory is cut.
+- *RPE 7-8* = stop the set when you have 2-3 reps left in the tank. Hard but not failure.
+- *ROM* = range of motion. "ROM-capped" = stop before the bottom of the move if pain starts there.
+- *Slow eccentric* = take 3 seconds on the way down (the "lowering" part of the rep).
 
 ---
 
-**Step 1 — Position reset (15 min, do all of these):**
-
-1. **90/90 Hip Lift with full exhale** — lie on your back, feet up on a bench/box so knees and hips are at 90°. Push your low back flat into the floor. Take a big breath in through your nose, then exhale all the way out and hold empty for a beat. 5 breaths × 5 rounds.
-2. **Left Adductor Pullback** — same setup, but cross your left ankle over your right knee and gently pull your right knee toward your chest. You should feel a stretch in your left inner thigh. 5 deep breaths × 4 sets.
-3. **All-Fours Belly Lift** — on hands and knees, round your upper back like a cat, exhale fully, and feel your belly draw up toward your spine. 5 breaths × 4 rounds.
-
-**Step 2 — Hamstring screen (test before you load anything):**
-
-1. **The "shooting nerve" test** — sit on a bench, slump your upper back forward, drop your chin to your chest, then slowly straighten your left leg out in front of you and pull your toes up toward your shin. If that recreates the shooting/tickling feeling in your hamstring — **tell me afterward and we're booking a physical therapist this week.** It's not an emergency, but it confirms it's a nerve thing, not a muscle thing.
-2. **Nerve flossing (10 reps)** — lie on your back, pull your left knee to your chest with hands behind the thigh. Then alternate: (a) point your foot down + tuck chin to chest, (b) flex your foot up + look up at the ceiling. Slow, controlled. This calms the nerve. **Do NOT do a static hamstring stretch today — it makes nerve irritation worse.**
-
-**Step 3 — Regular squat warmup.** Take your time, don't rush phases.
-
-**Warmup:** `reference/warmup-library.md` → Squat (Hip-Locked Day / Recovery Mode). Bullets below.
-
----
-
-**Step 4 — Test sets with the bar before you load up:**
-
-Do **empty bar → 95 lb → 135 lb**, slow, controlled reps. As you go:
-- Does the left quad pain at the bottom get better as you warm up? (It should — if not, that's a signal.)
-- When you brace hard at the bottom and exhale, does that make the pinch go away?
-- **If pain warms out + bracing fixes it** → it's a position thing, you're cleared to work up to the prescribed weights below.
-- **If pain stays or gets worse** → don't add weight. Cut depth shorter (stop above parallel), do the working sets at the modified weights below, and we re-evaluate after.
-
----
-
-### Working sets
+### Working sets — do these in order
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Safety squat bar squat (the bar with shoulder pads) | 1 | 5 | RPE 6, ~205 lb (lowered from 225) | Top set. Stop at parallel — no deeper today. Push equally through both feet. Knee sleeves on, no belt. |
-| Safety squat bar squat — back-off sets | 2 | 6 | RPE 6, ~185 lb (lowered from 205) | No belt. Same rules: parallel only, equal pressure both feet. |
-| Single-leg leg extension machine | — | — | — | CUT today — don't do this one. The slow lockout at the top would aggravate the left quad. Skip and bank ~10 min. |
-| Single-arm cable lateral raise (shoulder) | 2 | 15 per side | RPE 8 | Slow on the way down (3 seconds). This is your shoulder set for the week. |
+| Pendulum squat — quarter-to-half depth only, 3-second slow descent | 3 | 8-10 | RPE 7-8, load by feel | First set is your test set. Pick a light load. Go down only as far as you can WITHOUT the L quad pinch — that depth is your floor for all 3 sets, no negotiating. If the pinch starts even at a quarter-depth, skip pendulum entirely and add 2 extra sets of hip thrust below. |
+| Lying single-leg hamstring curl machine — slow 3-second descent, no hip flexion | 2 | 10 per leg | RPE 7 | Start with your LEFT leg. This is knee-flexion-only — it bypasses the position that pulls your nerve. STOP IMMEDIATELY if any shooting or tickling pain shows up — same hard-stop rule as the bar. |
+| Hip thrust (barbell across hips, or 1-2 heavy dumbbells across hips) — bench-supported, feet flat on the floor | 3 | 10 | RPE 7-8 | Drive your hips up until your body is flat (shoulders, hips, knees in a line) — do NOT arch past flat at the top. Ribs stay down. At the bottom of the rep, pause just before your butt touches the ground — don't sink into deep hip flexion. |
+| Seated calf raise | 2 | 12 | RPE 8 | Slow stretch at the bottom — pause for 2 seconds with your heels dropped below the platform. |
+| Single-arm cable lateral raise (shoulder — already on the original plan) | 2 | 15 per side | RPE 8 | Optional finisher. Skip if you're running long or fatigued. Slow on the way down (3 seconds). |
 
 ---
 
-**Cues to forget today:** "sit back hard" and "push through the left harder." Today is symmetric, upright, controlled.
+**Stop rules still in effect (terminate THE MOVE if any of these):**
+- Any shooting, electric, or tickling pain in the L hamstring, glute, or down the leg → stop that exercise immediately.
+- New L hip click during any loaded movement → stop that exercise, don't try to push through.
+- Sharp L quad pinch that doesn't go away when you shorten ROM → stop that exercise, move on.
 
-**UPDATE (slump test came back mildly positive — nerve component confirmed for L hamstring). New rules added below.**
+If you stop the lower-body work entirely, you can still do the lateral raises (shoulder is fine), then cool down.
 
-**Between-set check (do this on every working set above 135 lb):**
-- After racking the bar, stand up, drop your chin to your chest, slowly fold forward (don't force it). Notice the L hamstring.
-- If the shooting/tickling feeling is *more prevalent* than the previous set's check — terminate squat work for the day. Move to lateral raises + cool down.
-
-**Stop signals during the session (rack the bar IMMEDIATELY if any of these happen):**
-- Any shooting / electric / tickling sensation in the L hamstring, glute, or down the leg while under the bar — that's the nerve, full stop on squats today.
-- The front-of-quad pinch getting *worse* set over set instead of better (warming out).
-- Pain that doesn't fade in the rest period between sets.
-
-If you stop squat work: do the lateral raises if it feels OK, walk through the position reset once more, call it. Don't push through.
+---
 
 **Cool down:**
-- Left **couch stretch** for 60 seconds (kneel down, put your left shin flat against a wall behind you with the top of your foot pointing up, plant your right foot forward in a lunge, squeeze your left glute and gently push your hips forward — you should feel a big stretch in the front of your left hip).
-- **Skip the static left hamstring stretch today** (toe-touch, hurdler stretch, anything that pulls the hamstring long). We're not stretching that nerve.
+- **Left couch stretch** — 60 seconds, gentle. (Kneel down, put your left shin flat against a wall or bench behind you with the top of your foot pointing up, plant your right foot forward in a lunge, squeeze your left glute, gently push your hips forward — you should feel a big stretch in the front of your left hip.)
+- **Walk easy for 10 minutes before sitting down in a car.** Movement helps an irritated nerve calm down.
+- **One set of supine nerve flossing — 10 reps, slow, stay below pain.** (Lie on your back, pull your left knee to your chest with hands behind the thigh, then alternate: foot pointed + chin to chest, then foot flexed + look at ceiling.)
+- **NO static hamstring stretches today.** No toe-touches, no hurdler stretch, no lying-on-your-back-pulling-your-leg-up. Anything that pulls the hamstring long is off the table.
+
+**Tonight:**
+- Walk 15-20 minutes after dinner.
+- Don't slouch on the couch — get up every 30 minutes.
+- Sleep on your right side with a pillow between your knees.
+
+**Tomorrow (Wed bench):** check in with me in the morning. We'll decide whether bench is on as written, modified, or skipped based on how your left side feels overnight.
 
 ---
 
