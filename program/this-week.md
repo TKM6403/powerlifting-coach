@@ -85,17 +85,29 @@ If you stop the lower-body work entirely, you can still do the lateral raises (s
 
 ---
 
-## Wednesday 5/27 — Bench Day (~80 min)
+## Wednesday 5/27 — Primary Bench Day (~80 min)
 
 **Quick glossary:**
-- *RPE 6* = could do 3-4 more reps. *RPE 7* = 3 more. *RPE 8* = 2 more.
+- *RPE 7* = could do 3 more reps if you had to. *RPE 8* = could do 2 more. *RPE 9-10* = could do 1 more or absolutely none.
 - *Wide-ish grip* = thumbs about a fist's width outside shoulder-width on the bar.
 - *Slight elbow flare* = elbows angle out around 60° from your sides on the descent, not tucked tight to your ribs.
-- *Superset* = do exercise A, then exercise B back-to-back, rest 60-90 sec, repeat.
+- *Neutral grip (on DB shoulder press)* = palms facing each other, thumbs forward — NOT palms facing away.
 
-**Before you bench (~7 min position reset):**
-- 90/90 Hip Lift with full exhale — same as yesterday's Step 1.
-- All-Fours Belly Lift — same as yesterday's Step 1.
+---
+
+**Morning screen (do this before you drive to the gym — takes 2 minutes):**
+1. **90/90 hip lift** — same as yesterday's Step 1. Notice: any L hip click?
+2. **Cat-cow** — on hands and knees, slow round-and-arch. Notice: any L hip click?
+
+- **No click on either** → bench day is GO as written below.
+- **Click is back** → text me. PT becomes today, non-negotiable. Bench can still happen, but we re-evaluate first.
+
+---
+
+**Pre-bench position reset (~7 min, do at the gym):**
+- 90/90 hip lift with full exhale — 5 breaths × 5 rounds.
+- All-fours belly lift — 5 breaths × 4 rounds.
+- **Left pec minor wall stretch** (NEW) — face a wall, put your L forearm against it with your elbow at shoulder height (like the bottom of a doorway stretch), turn your torso away from the wall until you feel a stretch in the front of your L shoulder/chest. Hold **30 seconds × 2 sets.** Directly addresses the chronic L pattern.
 
 **Warmup:** `reference/warmup-library.md` → Bench (Primary Heavy Bench Day). Bullets below.
 
@@ -105,14 +117,22 @@ If you stop the lower-body work entirely, you can still do the lateral raises (s
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Competition bench press, wide-ish grip | 1 | 3 | RPE 6, ~225 lb | Top set. Should feel like 3 reps left in the tank. Slight elbow flare, no strict tuck. |
-| Competition bench press — back-off sets | 2 | 6 | RPE 6, ~200 lb | Same form. Easy pace. |
-| Close-grip bench press (hands just inside shoulder-width) | 2 | 8 | RPE 7, ~165 lb | Builds triceps and lockout. Keep elbows close to your sides on this one. |
-| SUPERSET A (do back-to-back for 2-3 rounds) | | | | |
-|  - Rope tricep pushdown (cable) | 2 | 12 | RPE 8 | Keep elbows pinned to your sides — don't let them flare forward. |
-|  - Hammer curl (single dumbbell, one arm at a time) | 2 | 10 per arm | RPE 7 | Palms face each other (thumbs up). Start with your left arm. No regular palm-up curls this block. |
+| Competition bench press, wide-ish grip | 1 | 5 | RPE 8, ~235 lb (adjust by feel) | Top set. 2 reps left in the tank. Hard but in control — if your bar speed dies on rep 3 or your elbows flare uncontrolled, you're past RPE 8 and you stop the set. Slight elbow flare, no strict tuck. Legs flat or LIGHT heel pressure only — no aggressive leg drive. |
+| Competition bench press — back-off sets | 2 | 5 | RPE 7, ~215 lb | 3 reps in the tank. Same form, maintain bar speed. |
+| Dumbbell shoulder press, NEUTRAL grip (palms face each other), single-arm OR alternating | 2 | 10 per arm | **R arm: RPE 9-10 (push to or near failure). L arm: RPE 7-8 (CAP — 2-3 reps in the tank).** Start ~50 lb DBs, adjust. | NEW move replacing close-grip. **Don't lock out at the top** — stop with your elbows still slightly bent (~10° short of straight). Start with your LEFT arm to set the cap honestly. **STOP THE LEFT SET IMMEDIATELY** if you feel any sharp pinch in your L front shoulder, L pec, or L elbow — no grinding L partials. If L flares, finish R only. |
+| Rope tricep pushdown (cable) | 2 | 12 | RPE 9 (push this one — safe isolation) | Keep elbows pinned to your sides — don't let them flare forward. This is your safe failure home for triceps. |
+| Hammer curl, single dumbbell, one arm at a time | 2 | 10 per arm | RPE 7 | Palms face each other (thumbs up). Start with your left arm. |
 
-**Cool down:** stretch your left chest — stand in a doorway, put your left arm against the frame at shoulder height, step your right foot forward and gently rotate your torso to the right until you feel a stretch in the front of your left shoulder/chest. Hold 45 seconds.
+---
+
+**Hard stops during bench (rack the bar / drop the DBs if any of these):**
+- Sharp pinch in L front shoulder, L pec, or L elbow → that set's done.
+- L hip click reappears mid-session → rack and reassess, text me before pressing on.
+- Bar speed dies and elbow control breaks on comp bench → that set is done, no grinding the last rep.
+
+**Cool down:**
+- L pec stretch — repeat the wall pec minor stretch from warmup, 45 sec.
+- 5-10 min easy walk.
 
 ---
 
@@ -167,12 +187,13 @@ If you stop the lower-body work entirely, you can still do the lateral raises (s
 
 ---
 
-## Sunday 5/31 — Second Bench Day + Weekly Check-In (~80 min)
+## Sunday 5/31 — Secondary Bench Day + Weekly Check-In (~80 min)
 
 **Quick glossary:**
-- *Tempo 3-1-1* = 3 seconds lowering the bar, 1 second pause on your chest, 1 second pressing up.
-- *BW* = bodyweight (no extra load).
+- *RPE 7-8* = 2-3 reps left in the tank. Hard but in control.
 - *Pull-up* = palms facing away, dead-hang at the bottom, chin clears the bar.
+
+**Note: this is no longer a tempo day.** Sun is your second engaged pressing day — same comp bench movement, lighter load than Wed but you still push.
 
 **Warmup:** `reference/warmup-library.md` → Upper Body Accessory Day. Skip scap push-ups today — your left shoulder is pre-fatigued from Wednesday. Bullets below.
 
@@ -182,15 +203,19 @@ If you stop the lower-body work entirely, you can still do the lateral raises (s
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Tempo competition bench press (3-sec down, 1-sec pause, 1-sec up) | 1 | 4 | RPE 6, ~210 lb | Top set. |
-| Tempo bench — back-off sets | 2 | 6 | RPE 6, ~185 lb | Same tempo. |
+| Competition bench press, wide-ish grip | 1 | 6 | RPE 7-8, ~205 lb | Top set. 2-3 reps in the tank. Lighter than Wed's top but you're still pushing. No leg drive — legs flat or light heel. |
+| Competition bench press — back-off sets | 2 | 8 | RPE 7, ~185 lb | 3 reps in the tank. Maintain bar speed. |
 | Weighted pull-ups | 2 | 8 | RPE 7, bodyweight or up to +25 lb max this week | Add load with a dip belt or by holding a dumbbell between your feet. 2-3 reps left in the tank. Weight ramps up weeks 2-4. |
 | SUPERSET C (back-to-back for 2-3 rounds) | | | | |
-|  - Single-arm cable lateral raise (shoulder) | 2 | 15 per side | RPE 8 | Second shoulder set of the week. Slow on the way down. |
+|  - Single-arm cable lateral raise (shoulder) | 2 | 15 per side | RPE 8 | Slow on the way down (3 sec). |
 |  - Reverse pec deck OR face pull (rear delt) | 2 | 15 | RPE 7 | Pull the rope/handles toward your forehead, elbows high. |
 | Standing calf raise | 1 | 15 | RPE 8 | Single finisher set. Slow stretch at the bottom. |
 | Weekly self-assessment | 1 | — | — | After the session (while tissue is warm), re-do the 6 self-tests from Monday's pre-block + left hip internal rotation range. Tell me how each compared to Monday. |
 | Weekly check-in chat | — | — | — | Dump how the week went — what felt good, what didn't, any pain. We'll do the weekly synthesis. |
+
+**Hard stops during bench (same rules as Wed):**
+- Sharp pinch in L front shoulder, L pec, or L elbow → that set's done.
+- Bar speed dies and elbow control breaks → that set is done, no grinding.
 
 **Cool down:** normal.
 
@@ -234,3 +259,5 @@ Three supersets only — A (Wed: pushdown + hammer curl), B (Fri: ham curl + cab
 - 2026-05-25: Deadlift: trap bar → conventional (tkm preference); top set lightened ~285 lb.
 - 2026-05-25: **One-week schedule override per tkm — sessions shift from Mon/Tue/Thu/Sat to Tue/Wed/Fri/Sun. Squat Tue, Bench Wed, DL Fri, Bench Secondary + self-assessment Sun. Mon/Thu/Sat become rest days. Schedule returns to standard Mon/Tue/Thu/Sat at start of Wk 2.**
 - 2026-05-26: **Tue squat modified pre-session per new L-side symptoms.** L quad pain at depth (BW), L hamstring shooting tickle 3-4 days. Mobility read: AIC-consistent quad pinch + likely neural hamstring (proximal/sciatic-adjacent). Mods: load -10% (top 205, back-off 185), parallel depth only, unilateral leg ext CUT, pre-warmup adds slump test + nerve flossing + full Phase A PRI reset, bar-test protocol gates load progression. RPE 6 ceiling held. Decision log: `logs/decisions/2026-05-26-left-side-pre-squat-symptoms.md`.
+- 2026-05-26: **Tue squat aborted mid-warmup → pivoted to lower-body hypertrophy.** Three stacked stop signals (slump mildly positive, new L hip click on 90/90 + cat-cow, L quad pain didn't warm out at empty bar, posterior nerve shoot reproduced under load on yellow Eleiko). Replacement session: leg ext (R hard / L modified ROM), lying single-leg ham curl 50 lb (no nerve symptom = diagnostic confirmation of nerve-on-stretch dx), hip thrust 45 lb DB 2×10 with L-only glute bridge primer between sets, seated calf, optional lateral raise. Session log: `logs/sessions/2026-05-26.md`. PT escalation: now today/tomorrow per Mobility; athlete declined acute referral.
+- 2026-05-26: **Wed bench restructured + Sun shifted off tempo per athlete pushback on sub-RPE technique work.** Wed: comp bench top 1×5 RPE 8 (~235), back-offs 2×5 RPE 7 (~215); supplemental DB shoulder press 2×10/arm with R-RPE-9-10 / L-RPE-7-8 split per Mobility veto on barbell failure with L pec minor history; close-grip CUT; rope pushdown to RPE 9 as failure home. Sun: comp bench 1×6 RPE 7-8 (~205) + 2×8 RPE 7 (~185), no tempo. Three-agent collaboration: SBD + Aesthetics + Mobility. DB OHP approved YELLOW with 5 guardrails (neutral grip, no lockout, L cap, stop on L pinch, sub to machine press if L hip click returns AM Wed). Athlete buy-in obtained before write.
