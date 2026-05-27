@@ -56,6 +56,25 @@ Each time SBD intensity is progressively overloaded without parallel stabilizer 
 - Interpretation: slump test **mildly positive** — reproduction of L hamstring symptom noted, not strong/screaming. Confirms a **neural component** to the L hamstring symptom (not purely muscular).
 - FLAG MOBILITY: PT booking criterion (per Mobility Agent's earlier prescription contingent on positive slump) is **triggered**.
 
+**Tue 5/26, mid-warmup (NEW left hip clicking + bar-test failure — session terminated):**
+- **NEW finding — left hip clicking.** Athlete verbatim: "Left hip clicking on 90/90s and on cat cow." Click occurred during pre-warmup Phase A PRI work (90/90 Hip Lift) and on cat-cow. Not present this morning during earlier symptom report — this is a same-day new finding.
+- **Clicking maps directly to the red-flag list on this file:** "Sensation suggestive of joint vs. muscle (clicking, locking, instability)." Escalation criterion met.
+- **Goblet squat warmup:** L quad pain persisted through goblet squat warmup — did not warm out at bodyweight + light load.
+- **Empty-bar test (bar-test gate per program/this-week.md Step 4):** "Left quad still hurt after slow and controlled with just bar." Bar-test **FAILED** — pain did not warm out across empty bar work. Per protocol, this gates load progression; combined with the new hip click, Head Coach terminated the squat session before any working sets.
+- **Equipment note:** Titan Fitness SSB bar (athlete's home SSB — recorded here for context on future SSB sessions; not implicated as causal).
+- Session outcome: no working squat sets performed. Lateral raises (2×15 single-arm cable) + cool down (couch stretch L, walk) only. PT booking timeline tightened from "this week" to "before next squat session."
+- FLAG MOBILITY: clicking is a red-flag-list escalation criterion AND bar-test failed AND slump positive — three stacked signals in one session.
+
+**Tue 5/26, mid-session update (athlete continued past termination — posterior L hamstring shoot reproduced under load):**
+- Athlete continued lifting after Head Coach's termination call (bar-test fail + clicking + positive slump). This is the third stop call of the day; the prior two were overridden.
+- **Self-improvised cue attempted (NOT prescribed by any agent).** Athlete verbatim: "focusing on neutralizing my pelvis by rounding my upper back a bit on the unrack and before the descent." Head Coach flagged this as a bad idea — loads spine in flexion under axial compression — and instructed athlete to drop it. **DO NOT REVISIT.** See "What Has NOT Worked or Has Backfired" below.
+- **Load:** Yellow Eleiko colored discs (15 kg per side) on Titan Fitness SSB → SSB bar + 30 kg total ≈ 95–115 lb (bar-dependent). First load above empty bar this session.
+- **Posterior L hamstring shoot REPRODUCED UNDER AXIAL LOAD.** Athlete verbatim: "Then my hamstring or left under thigh started having that pain I talked about earlier." This is the explicit hard-stop criterion from the morning's modified plan AND from the post-slump-test addendum. Slump test reproduced this symptom passively earlier in the day; it is now reproduced **actively under load**. Neural component confirmed in loaded position.
+- **Head Coach final termination (third stop call):** no more bar work. Lateral raises optional. Cool down + walk + nerve floss to close.
+- **PT timeline escalated again:** "this week" → "before next squat session" → now **"today or tomorrow if possible."**
+- **Wed 5/27 bench:** moved to TBD pending overnight L-side check.
+- FLAG MOBILITY: hard-stop criterion triggered (posterior L hamstring shoot reproduced under load). PT booking now today/tomorrow.
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up
@@ -80,6 +99,7 @@ During a session where tkm deliberately "sank into" and "pushed off" the left si
 - **Aggressive unilateral over-correction on squat** ("push hard through left") — caused right-side adductor and high hamstring flare
 - **Generic "stretch what's tight" advice** — incomplete; the pattern needs position correction, not just stretching
 - **Skipping stabilizer work during heavy SBD blocks** — guaranteed new injury
+- **Rounding the upper back on the unrack to "neutralize the pelvis" under SSB (2026-05-26, self-improvised, NOT prescribed)** — athlete attempted to counter anterior pelvic tilt by intentionally flexing the thoracic spine on unrack and pre-descent under load. This introduces spinal flexion under axial compression without addressing the actual pelvis mechanism (left AIC / left innominate position). It does not correct the pelvis — it just adds a flexion moment to the loaded spine. Symptom progressed during the attempt (posterior L hamstring shoot reproduced under ~95-115 lb SSB load). **Anti-cue. Do not revisit. Do not add to `reference/coaching-cues.md`.** Pelvic-position correction belongs in pre-lift PRI/breathing work, not in a flexed-thoracic unrack cue under the bar.
 
 ## What Needs Investigation
 
