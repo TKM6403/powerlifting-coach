@@ -186,6 +186,23 @@ Six L-side issues stacked in one week, now spanning from foot to shoulder. The c
 - **FLAG AESTHETICS:** Planted-L-foot lower-body menu OUT ~1 wk; substitutes needed.
 - **FLAG PT (escalation):** Chronic ankle instability is now on the PT-escalation list alongside the L hamstring neural workup. Same visit can cover both if athlete books.
 
+### 2026-05-29 — Day 1 Post-Ankle-Sprain Load-and-Impact Exposure (Weighted Pull-Ups)
+
+**Context:** Apartment-gym pull session, Day 1 post acute L lateral ankle sprain (5/28). Programmed primary vertical pull was kneeling high cable pull-down (explicit substitute for pull-ups, written specifically to avoid ankle entry/exit risk on Day 1).
+
+**Exposure (athlete report, post-session):**
+- **Movement performed:** Weighted pull-ups, BW + 20 lb dumbbell held between adductors. 7 reps, then 5 reps (2 sets).
+- **Mechanics relevant to acute L ankle:**
+  - **Jump-up entry to the bar** — impact load through L ankle on the push-off and again on the catch.
+  - **Drop-down dismount** — impact load through L ankle on landing, repeated 2 sets × end-of-set dismount.
+  - **+20 lb axial load** held between adductors during hang and during dismount — increases impact magnitude on landing beyond bodyweight alone.
+
+**Status at exposure:** Day 1 (~24 hrs) post-acute sprain. Swelling was progressing at 1.5-hr triage on 5/28. No 24h re-eval data on record before this exposure occurred.
+
+**Post-session L ankle status:** **NOT reported by athlete.** Swelling, pain change, ROM change, and weight-bearing tolerance after the exposure are unknown as of this entry.
+
+**L hamstring neural symptom status during/after hanging axial load:** Not reported either way.
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up
