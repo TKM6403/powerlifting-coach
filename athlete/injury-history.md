@@ -135,6 +135,57 @@ Targeted L thoracic mobility / 1st rib mobilization / quadruped posterior-breath
 - FLAG MOBILITY: Wall slide pattern severity logged as current-state baseline.
 - FLAG (administrative): Confirm hip-click re-screen status at next check-in.
 
+### 2026-05-28 — Acute Left Ankle Sprain (Sidewalk Hole) + NEW Documentation: Chronic Lateral Ankle Instability
+
+**Context:** Non-training acute injury. Report received ~1.5 hrs post-injury. Not in a session — happened walking.
+
+**Mechanism (athlete verbatim):** "i have chronic ankle twisting - today there was like a hole in the sidewalk cement and i twisted my ankle walking into it and i fell onto the concrete - the left ankle is already starting to swell but ive been icing it"
+
+**Triage data (Head Coach, ~1.5 hrs post-injury):**
+- Side: **LEFT**
+- Mechanism: stepped into sidewalk hole, twisted L ankle, fell onto concrete
+- Weight-bearing: **YES** (ambulates)
+- Pain: **3/10**
+- Swelling: yes, progressing (~1.5 hrs in)
+- No pop reported
+- No deformity reported
+- No numbness / tingling reported
+- No other injuries from the fall
+- Currently icing
+- Ottawa Ankle Rules: **negative** at initial triage (bears weight, no bone-specific tenderness reported). No ER referral.
+
+**Presumptive grade:** **Grade I lateral ankle sprain** (most likely ATFL ± CFL). Reasoning: classic inversion mechanism, weight-bearing preserved, low pain, swelling but no instability/deformity/pop, negative Ottawa at triage. Grade II not excluded until swelling peaks and a delayed re-eval is done at 24-72 hrs.
+
+#### NEW Documented Context: Chronic Lateral Ankle Instability (L, presumed)
+- **First explicit documentation in this file.** Athlete stated "chronic ankle twisting" — recurrent lateral ankle sprain pattern. Side presumed **L** based on today's report; confirm in follow-up whether prior episodes have been bilateral or L-dominant.
+- Substrate is consistent with chronic lateral ankle instability (CAI): repeated inversion sprains → stretched/lax ATFL/CFL → impaired proprioception → re-sprain on minor perturbations (uneven surfaces, sidewalk holes, curbs). Classic "ankle that keeps rolling."
+- Implication: proprioceptive / neuromuscular rehab (single-leg balance progressions, peroneal strengthening, dynamic stability work) is the actual fix — not just RICE-and-return. Heal-and-repeat is the current default and it's the loop we need to break.
+
+#### Stacked L-Side Clustering (diagnostically meaningful)
+This ankle event joins an already-dense L-side picture from this same week:
+- L AIC pattern (confirmed, chronic)
+- L hip click (5/26, joint-level red flag)
+- L hamstring neural symptom — slump-positive, load-reproduced, Valsalva-positive (5/26-5/27)
+- L pec minor / L shoulder ROM restriction (5/27)
+- L rear delt on posterior breathing (5/27)
+- **L ankle sprain (5/28) — NEW**
+- Right-side compensation episode (high hamstring + adductor) when L was forced-loaded
+
+Six L-side issues stacked in one week, now spanning from foot to shoulder. The clustering is not random — it's consistent with a chronically asymmetric loaded chain finally accumulating downstream consequences. Diagnostic note for Mobility Agent and PT (when seen).
+
+#### Programming Impact Flags
+- **FLAG SBD:** Fri 5/29 deadlift — confirm **fully off** (was already TBD pre-injury). Ankle sprain locks the cancellation.
+- **FLAG SBD:** Wk 2 squat — was already in question from 5/26 squat-session termination + L hamstring neural workup. Acute ankle sprain extends the timeline by **1-2 weeks minimum** for return to loaded squat (planted L foot, lateral stability under axial load).
+- **FLAG AESTHETICS:** Current lower-body hypertrophy menu (pendulum squat, hip thrust, lying ham curl, seated calf) — most require a planted L foot under load. **OUT for ~1 week minimum.** Aesthetics Agent to propose ankle-sparing substitutes (e.g., seated/supine work that offloads L ankle entirely).
+- **Sun 5/31 bench:** Assess separately. Bench loads through upper body; L foot rests on floor without bearing axial load. Likely modifiable (e.g., feet-up bench, or normal bench with L foot lightly placed for balance only). Mobility/SBD to confirm before session.
+
+#### FLAGS Raised This Sub-Entry
+- **FLAG MOBILITY (primary):** Grade confirmation, acute protocol (PRICE/POLICE), return-to-walk / return-to-load timeline, proprioceptive rehab move proposals (propose-then-write — single-leg balance progressions, peroneal work, dynamic stability). Need acute-phase day-by-day plan and re-eval schedule (24h, 72h, 1wk).
+- **FLAG MOBILITY (chronic):** Chronic lateral ankle instability is the actual long-term target — rehab needs to address proprioception, not just current swelling.
+- **FLAG SBD:** Fri 5/29 DL cancelled; Wk 2 squat timeline extended 1-2 wk minimum.
+- **FLAG AESTHETICS:** Planted-L-foot lower-body menu OUT ~1 wk; substitutes needed.
+- **FLAG PT (escalation):** Chronic ankle instability is now on the PT-escalation list alongside the L hamstring neural workup. Same visit can cover both if athlete books.
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up
@@ -176,6 +227,7 @@ During a session where tkm deliberately "sank into" and "pushed off" the left si
 - Aggressive PR attempts in compromised positions
 - Skipping warmup or rushing it
 - **Prolonged sitting in deep hip flexion + Valsalva (toilet, low chair with bearing-down).** Confirmed 2026-05-27: L hamstring neural symptom reproduced on toilet with BM-associated Valsalva. Combined load of (a) deep hip flexion compressing sciatic at piriformis level AND (b) Valsalva spiking epidural pressure at any sensitized nerve root. Either or both can provoke. Practical implication: limit toilet sit-time, avoid breath-holding/straining when seated in deep hip flexion.
+- **Uneven walking surfaces / sidewalk holes / curbs / uneven terrain.** Confirmed 2026-05-28: acute L ankle sprain from stepping into sidewalk hole. Acute trigger this time, but with chronic lateral ankle instability as documented substrate, ANY uneven surface is a re-sprain risk. Practical implication: visual scan of walking surface, deliberate foot placement on uneven terrain, and — long-term — proprioceptive rehab to raise the perturbation threshold the ankle can absorb without rolling.
 
 ---
 
@@ -188,6 +240,7 @@ During a session where tkm deliberately "sank into" and "pushed off" the left si
 - Loss of ROM compared to recent baseline
 - Sensation suggestive of joint vs. muscle (clicking, locking, instability)
 - Any time the pattern feels like it's escalating rather than managed
+- **Recurrent lateral ankle sprains on the same side — chronic ankle instability needs proprioceptive rehab, not just heal-and-repeat.** Documented 2026-05-28 after athlete reported "chronic ankle twisting" alongside acute L sprain. Repeated inversion injuries on the same side = ligamentous laxity + proprioceptive deficit; without rehab targeting balance/peroneal control, the cycle continues and each sprain compounds.
 
 ---
 
