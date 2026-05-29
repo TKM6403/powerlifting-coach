@@ -271,21 +271,29 @@ Ankle Day 2 — swelling probably peaked yesterday or this morning. Continue car
 
 ---
 
-## Sunday 5/31 — Secondary Bench Day + Weekly Check-In (~75 min — modified for L ankle)
+## Sunday 5/31 — Bench + R-Only Lower Block + Weekly Check-In (~75 min — Ankle Day 3)
 
-**Quick glossary:**
-- *RPE 7-8* = 2-3 reps left in the tank. Hard but in control.
-- *Pull-up* = palms facing away, dead-hang at the bottom, chin clears the bar.
-
-**Modified for L ankle sprain (Thu 5/28).** Bench is GO — your foot just rests on the floor, no load through the ankle. Pull-ups modified for ankle-friendly entry/exit. Standing calf raise CUT. Cable lateral raise modified to seated.
+**Sun this week = bench day + first lower-body work since the ankle (R-side only).** Pull moved off Sun (you did pull yesterday). Lower moves use Tue-validated patterns only, R leg only — L drops on all lower this week, re-introduces next week if ankle clears.
 
 ---
 
-**AM ankle screen (before driving to gym):**
-- Can you walk a flight of stairs with your brace on, no sharp pain? **Yes → bench day GO.**
-- Can you only walk with a noticeable limp or pain >4/10? **Stop — text me. We sub seated-only or skip entirely.**
+### AM ankle screen (before driving to gym)
 
-**Warmup:** `reference/warmup-library.md` → Upper Body Accessory Day. Skip scap push-ups today — your left shoulder is pre-fatigued from Wednesday. Bullets below.
+- Walk a flight of stairs with your brace on, no sharp pain? **Yes → session GO.**
+- Noticeable limp or pain >4/10 with walking? **Stop — text me.** We sub a seated-upper-only session or skip entirely.
+
+---
+
+### Pre-session ankle care (do at home)
+
+| Exercise | Sets | Reps | RPE / Load | Notes |
+|---|---|---|---|---|
+| Ankle alphabet | 1 | trace A-Z slowly | bodyweight | Pain-free range only. Should feel cleaner than yesterday. |
+| Isometric inversion / eversion against a wall | 2 | 10 each direction × 5-sec hold | static | Same as Thu/Fri. |
+| **NEW today: pain-free active inv/ev ROM** (no resistance) | 2 | 15 each direction | bodyweight | Day 3 graduates from pure isometric to gentle active movement. Sit with L foot off the ground. Slowly turn the foot inward (toes toward midline), then outward. Pain-free range only. *Source: Kaminski 2013 NATA position statement on acute ankle sprain progression.* |
+| Towel scrunches | 2 | 20 | bodyweight | Same as Thu/Fri. |
+
+**Warmup at gym:** `reference/warmup-library.md` → Upper Body Accessory Day. Skip scap push-ups (L shoulder fatigued from Wed). Add L pec minor wall stretch 30 sec × 2 sets before bench. Bullets below.
 
 ---
 
@@ -293,22 +301,44 @@ Ankle Day 2 — swelling probably peaked yesterday or this morning. Continue car
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Competition bench press, wide-ish grip | 1 | 6 | RPE 7-8, ~205 lb | Top set. 2-3 reps in the tank. **Foot setup for sprained L ankle:** legs flat on the floor, NO leg drive. If your L ankle can't lay flat without pain, place a small plate or thin pad under your L heel so the ankle sits in a neutral, unloaded position. **Stop signal:** if just setting your L foot down at the bench provokes ankle pain, abort bench and switch to seated DB bench (set list below). |
+| Competition bench press, wide-ish grip | 1 | 6 | RPE 7-8, ~205 lb (adjust by feel) | Top set. 2-3 reps in the tank. **Foot setup for sprained L ankle:** legs flat, NO leg drive. If L ankle can't lay flat without pain, put a small plate or pad under L heel for neutral unloaded position. **Stop:** if setting L foot down at bench provokes ankle pain → abort barbell, sub seated DB bench ~50-60 lb × 3 × 8. |
 | Competition bench press — back-off sets | 2 | 8 | RPE 7, ~185 lb | Same foot setup. Maintain bar speed. |
-| Weighted pull-ups | 2 | 8 | RPE 7, bodyweight or up to +25 lb max this week | **Modified entry/exit for ankle:** jump up to grip with R foot leading (don't push off the L). Drop down controlled, R foot lands first. If even a controlled landing hurts, sub a chest-supported row or lat pulldown for these. |
+| Chest-supported machine row OR seated cable row (replaces pull-ups for ankle reasons) | 2 | 10 | RPE 8, ~135 lb | Pull-ups CUT this week — the jump-up / drop-down entry/exit risks the ankle. Sub this in. Chest on the pad, pull elbows back to ribs, don't shrug. |
+| **R-leg-only seated leg extension** | 2 | 10 | RPE 8, ~90 lb (autoreg; Tue we hit 90 lb fine) | NEW R-only protocol this week. **L leg drops** — too soon to load L knee against quad-lengthening position on ankle Day 3. Cap top-end ROM (don't lock out fully) — same rule as Tue. L foot rests passively on the footrest with zero drive. |
+| **R-leg-only lying single-leg hamstring curl** | 2 | 10 | RPE 8, ~50 lb (autoreg; Tue's load) | NEW R-only protocol. **L leg drops** — even knee-flexion-only on the L means the L foot pulls against the ankle pad under ~50 lb, which is non-trivial load through fresh ankle soft tissue. Re-introduce L next week if ankle clears walking. Knee flexion only, slow eccentric. |
 | SUPERSET C (back-to-back for 2-3 rounds) | | | | |
-|  - **SEATED** single-arm cable lateral raise (shoulder) — sit on a bench, not standing | 2 | 15 per side | RPE 8 | Sitting removes the standing balance demand on the L ankle. Slow on the way down (3 sec). |
-|  - Reverse pec deck OR face pull (rear delt) | 2 | 15 | RPE 7 | Already seated/standing-at-machine. Fine. |
-| ~~Standing calf raise~~ | — | — | — | **CUT today.** Calf raise IS ankle motion under load — not what you want on a Day 4 sprain. Replace with a single set of pain-free seated calf pumps (20 reps, no weight) as a cool-down move. |
-| Weekly self-assessment | 1 | — | — | After the session, re-do the 5 self-tests from Monday's pre-block (skip the ones requiring L-foot weight bearing — single-leg glute bridge L, Trendelenburg). Add: subjective ankle pain 1-10, swelling vs Thursday baseline. Tell me how each compared. |
-| Weekly check-in chat | — | — | — | Dump how the week went — what felt good, what didn't, any pain. We'll do the weekly synthesis. |
+|  - SEATED single-arm cable lateral raise (sitting on a bench, not standing) | 2 | 15 per side | RPE 8, light cable | Sitting removes the standing balance demand on the L ankle. Slow on the way down (3 sec). |
+|  - Reverse pec deck OR face pull (rear delt) | 2 | 15 | RPE 7, light cable | Standing at the machine fine — minimal L foot load. Pull rope toward forehead, elbows high. |
+| ~~Standing calf raise~~ | — | — | — | **CUT this week** — calf raise IS ankle motion under load on a fresh sprain. Returns once ankle clears walking pain-free. |
+| Weekly self-assessment | 1 | — | — | After the session: redo the 4 self-tests from Monday baseline that don't need L-foot weight bearing (skip single-leg glute bridge L, skip Trendelenburg). Add: ankle pain 1-10 today vs Thu baseline, swelling vs Thu baseline, walking gait — limp gone or still present. Tell me how each compares. |
+| Weekly check-in chat | — | — | — | Dump how the week went — what felt good, what didn't, any pain. We do the weekly synthesis. |
 
-**Hard stops during bench (same rules as Wed, plus ankle):**
-- Sharp pinch in L front shoulder, L pec, or L elbow → that set's done.
-- Bar speed dies and elbow control breaks → that set is done.
-- L ankle pain during foot setup or under brace → abort comp bench, switch to seated DB bench (~50-60 lb DBs × 3 sets × 8 reps).
+---
 
-**Cool down:** normal upper-body cool down + foot elevated 15 min when you get home.
+### Hard stops during the session
+
+- Sharp pinch in L front shoulder / L pec / L elbow → set's done.
+- L ankle pain jumps to 5+/10 during the session → abort lower-body work, finish seated upper if you can, leave.
+- L hip click reappears on any move → stop that move, text me before continuing.
+- L hamstring shooting/tickling reproduces during any move → stop that move (we've validated knee-flexion-only is safe, but new R-only loading patterns are unproven).
+
+### Cool down
+
+- L pec minor wall stretch — 45 sec.
+- Foot elevated 20 min when you get home.
+- Compression sleeve on.
+- One set supine nerve flossing — 10 reps, sub-pain.
+
+### Rough time budget (~75 min)
+
+- Pre-session ankle care at home: ~10 min
+- Warmup + pec stretch: ~10 min
+- Comp bench (top + back-offs): ~25 min
+- Row sub: ~8 min
+- R-only leg ext + R-only ham curl: ~12 min
+- Lateral raise + rear delt superset: ~10 min
+- Self-assessment + check-in: ~10 min
+- **You're moving slower with the ankle — 75 is the real ceiling, not 90.**
 
 ---
 
@@ -354,4 +384,5 @@ Three supersets only — A (Wed: pushdown + hammer curl), B (Fri: ham curl + cab
 - 2026-05-26: **Wed bench restructured + Sun shifted off tempo per athlete pushback on sub-RPE technique work.** Wed: comp bench top 1×5 RPE 8 (~235), back-offs 2×5 RPE 7 (~215); supplemental DB shoulder press 2×10/arm with R-RPE-9-10 / L-RPE-7-8 split per Mobility veto on barbell failure with L pec minor history; close-grip CUT; rope pushdown to RPE 9 as failure home. Sun: comp bench 1×6 RPE 7-8 (~205) + 2×8 RPE 7 (~185), no tempo. Three-agent collaboration: SBD + Aesthetics + Mobility. DB OHP approved YELLOW with 5 guardrails (neutral grip, no lockout, L cap, stop on L pinch, sub to machine press if L hip click returns AM Wed). Athlete buy-in obtained before write.
 - 2026-05-27: **Wed bench session executed; calibration + format updates.** Comp bench top 100 kg × 5 RPE 8 (athlete autoregulated DOWN from prescribed 235 lb; calibrated Wk1 Wed top = 100 kg / 220 lb going forward), back-offs 90 kg × 5 × 2 RPE 7. DB OHP: athlete performed BILATERAL (both arms simultaneously) at 45 lb × 7.5 reps on set 2 — this bypasses the unilateral R-hard / L-capped split that was the basis for Mobility's yellow-light approval. **L reported zero post-set symptoms.** Per Option 3 decision (bilateral monitoring): continue bilateral DB OHP as athlete's preferred format, monitor across next 2-3 sessions; **switch to alternating IMMEDIATELY** if L pec minor / L shoulder / L elbow symptom appears on any future bilateral set — not negotiable. Bilateral 45 lb is current tested-safe baseline. New diagnostic findings (capture for Mobility next read): (a) L rear delt area pain reproduced by diaphragmatic / posterior-expansion breathing — NEW symptom-mechanism link athlete previously couldn't name on bench; (b) L pec minor stretch transmits to L biceps tendon (broader L shoulder restriction); (c) wall slides — low back off wall + wrist contact difficult (live AIC severity). No L hamstring nerve symptom during bench session. Session log: `logs/sessions/2026-05-27.md`. Compliance read: GOOD.
 - 2026-05-28: **Acute L lateral ankle sprain (Grade I) — sidewalk hole, fell on concrete.** ~1.5 hrs post-injury at report: bears weight, pain 3/10, swelling progressing, no pop / no deformity / no neurovascular symptoms / no other injuries from fall. Negative Ottawa Ankle Rules, no ER. **NEW documentation: chronic lateral ankle instability** (athlete reports "chronic ankle twisting" — first explicit entry in injury-history). Compounds the existing L-side stack (L AIC + L hip click + L hamstring nerve + L pec minor + L rear delt + L ankle = 6 L-side issues clustered). Mobility read: PEACE & LOVE protocol w/ compression-emphasis modification for CAI (chronic ankle instability) population; lace-up brace for all walking to prevent compensation re-entrenchment. **Fri DL CANCELLED in full** (no replacement lift). Sun bench provisional GO with ankle-modifications: legs flat / heel pad if needed, no leg drive (already proven non-required at 100 kg × 5 per 5/27), pull-up entry/exit with R lead, lateral raises moved to seated, standing calf raise CUT. Return timeline (Grade I): pain-free walking D3-5, light loaded lower D7-10, DL setup D10-14, full squat D14-21 — but squat re-gate still ultimately governed by L hamstring nerve status. Mobility proposed 3-week phased ankle rehab protocol (ankle alphabet → peroneal banding → single-leg balance progression → reactive hops) with cited sources (Kaminski 2013 NATA, Hertel 2002 CAI proprioception, Doherty 2017, McKeon 2008, Vicenzino 2006); awaiting athlete buy-in before writing. Long-term: balance + peroneal work to become permanent daily-routine addition same way AIC PRI work is. PT pitch reframed as ankle-pretext (athlete-acceptable entry point for the full L pattern picture).
+- 2026-05-29: **Fri pivot to seated upper-body pull session (ankle Day 1) + Sun expanded to bench + R-only lower block (ankle Day 3).** Fri: athlete reported ankle ABCs at 2-3/10 pain Day 1 → controlled active ROM at low pain. Converted Fri from pure-rest to seated row + lat pulldown + face pull (addresses Wed's L rear delt finding) + hammer curl, ~50 min, no L foot load. Sun: agent collaboration (Mobility + Aesthetics) on Day 3 lower-body go/no-go. Mobility: R-only / L-unloaded fits Day 3 even though "light loaded movement" gate is D7-10 (the gate was for planted-L work). Aesthetics: only Tue-validated patterns this week (no new propose-then-write), R-leg-only seated leg ext + R-only lying single-leg ham curl, drop L on both for the week, cut Sun pull-ups (ankle entry/exit + time), sub chest-supported row. Single-leg leg press confirmed NOT available per profile.md. R-only single-leg hip thrust dropped (new pattern unvalidated + mount risk). Standing calf stays cut. Wk 1 lower total: ~9-10 sets, almost all R-side — light by design, undertraining a flaring chain beats compounding it. Wk 2 plan (proposed, not written): if ankle clears walking pain-free by D5-7 AND L hamstring nerve stays quiet, add a 2nd lower day Thu, re-introduce L-side knee-flexion-only ham curl, hold off on planted-L until D7-10 window opens.
 - 2026-05-28: **Adherence gap discovered + Path A locked in for permanent program additions.** Athlete reported he has NOT been doing the daily stabilizer routine on rest days because "it's not in the email" — the rest-day sections previously listed moves only as a comma-separated name list with no descriptions/instructions visible in email render. **Structural fix:** rest-day sections (Thu 5/28 and Sat 5/30 this week) rewritten to inline the full routine with per-move descriptions so the email script renders the moves directly. Going forward, all rest-day stabilizer routine slots use inline format, not "see reference file" pointers. Reference file remains as deeper resource. **Path A locked** for permanent additions (athlete preference: keep hammer curl + cable lateral raise + standing calf; add new work as net additions, not replacements): (a) cable chop ADDED to Wed bench starting next Wed (alongside hammer curl, not replacing); (b) peroneal banding (2×15 L) added to lift-day warmup once L ankle ready to load (~D7+); (c) single-leg balance eyes-closed on cushion (L leg, 3×30 sec) added to rest-day routine once ankle clears walking pain-free (~D5-7); (d) lateral hop-and-stick (2×8/side) added to rest-day routine Day 14+ once cleared for reactive work; (e) heavy suitcase carry (2×30 sec/side, L first) added to Sun bench finisher once ankle clears walking pain-free. All daily stabilizers retained at current dose (clamshell stays at 2 rounds). Net time impact when fully ramped: ~+25 min/wk (~+5 min lift days, ~+5 min rest days). Athlete acknowledged and accepted. Block rename to "Diagnostic + Capacity-Building" still pending athlete decision (deferred — not pressing now given ankle).
