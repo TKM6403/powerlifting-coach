@@ -178,23 +178,21 @@ Substituted: lying knee abduction (for glute bridge), tall-kneeling Pallof.
 
 ---
 
-## Friday 5/29 — Seated Upper-Body Pull Session + Ankle Day 1 Care (~50 min)
+## Friday 5/29 — Apartment Gym Pull Session + Body Primer + Ankle Day 1 Care (~60 min)
 
 **Originally:** Cancelled DL day (L ankle sprain Thu).
-**Updated:** Athlete reports ankle ABCs at 2-3/10 pain on Day 1 — controlled active ROM at low pain. Pivot to a seated upper-body PULL session that doesn't load the L foot. Pull is also a gap in this week (Wed was push-focused). Lower body still stays out — Day 1 is too early per Mobility's protocol.
+**Updated:** Athlete on Day 1 ankle, ankle ABCs at 2-3/10 pain. Also has been sitting all day (WFH, no walking to work) → AIC pattern primed to flare. Today is a seated upper-body pull session at the apartment gym (TKO 9050 cable machine, no dedicated lat pulldown station). Adds a body primer at the front since you've been still all day.
 
 ---
 
-### Rules for the session (read these before you go)
+### Rules for the session
 
-- **Brace on for ALL walking** (gym floor included). Hobble carefully between machines.
-- **Fully seated work only.** Pick machines you can mount without planting the L foot hard — sit, scoot, settle.
-- **If pain jumps** during the session (ankle going from 3/10 to 5/10) — stop, ankle ABCs only, leave.
-- **No bench** today (you benched Wed; this is a pull day, not a push day).
-- **No standing barbell or dumbbell work.** No squat, no DL, no lunge, no hip thrust today.
-- **Skip if mounting a machine feels worse than just sitting** — pick a different machine.
+- **Brace on for ALL walking** (gym floor included). Hobble carefully.
+- **Fully seated / kneeling work only.** No standing balance demand on the L ankle.
+- **Stop if** ankle pain jumps to 5+/10. Sharp pain at the OUTSIDE ankle bone. Sharp L pec / shoulder / elbow pinch. L hamstring shooting reproduces.
+- **No bench, no standing barbell or DB work.** No squat, DL, lunge, hip thrust.
 
-### Pre-session ankle care (do at home before gym)
+### Step 1 — Pre-session ankle care (do at home before gym, ~6 min)
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
@@ -202,31 +200,37 @@ Substituted: lying knee abduction (for glute bridge), tall-kneeling Pallof.
 | Isometric inversion / eversion against a wall | 2 | 10 each direction × 5-sec hold | static | Sit, L foot against a wall. Press OUTSIDE of foot into wall (5 sec). Press INSIDE of foot (5 sec). No movement. |
 | Towel scrunches | 2 | 20 | bodyweight | Towel on floor, scrunch under toes. |
 
-### Working sets (all seated, ~40 min)
+### Step 2 — Body primer at the gym (~8 min)
+
+You've been sitting all day. AIC pattern is going to be cranky. Wake the chain up before you load anything. Ankle stays unloaded the whole time.
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Seated cable row OR chest-supported machine row | 3 | 10 | RPE 7-8, ~135 lb (adjust by feel) | Chest stays on the pad. Pull elbows back to your ribs. Don't shrug. The "row that doesn't use traps or delts." |
-| Lat pulldown, wide-ish neutral grip | 3 | 10 | RPE 7-8, autoreg | Pull bar to upper chest (NOT behind the neck). Slight backward lean is fine, no body english. Squeeze lats at the bottom. |
-| Seated face pull (rope at upper chest height) | 3 | 15 | RPE 7, light cable | NEW addition specifically for the L rear delt finding from Wed (the area that lit up on diaphragmatic breathing). Pull rope toward your forehead, elbows high and out, squeeze at the back. Slow tempo. |
-| Hammer curl, single dumbbell, one arm at a time, seated | 2 | 10 per arm | RPE 7, ~35 lb DB | Palms face each other (thumbs up). Start with your LEFT arm. Same as Wed's. |
+| 90/90 hip lift with full exhale | 3 rounds | 5 breaths each | bodyweight | Lie on back, feet up on a bench/box so knees and hips are at 90°. Press lower back into the floor. Big breath in through nose, exhale all the way out, hold empty for a beat. |
+| All-fours belly lift | 3 rounds | 5 breaths each | bodyweight | Hands and knees, round upper back like a cat, exhale fully, feel belly draw up toward spine. |
+| L pec minor wall stretch | 2 | 30 sec hold per set | bodyweight | Face a wall, L forearm on the wall at shoulder height (elbow ~90°), rotate torso away from the wall until you feel a stretch in the front of your L shoulder/chest. |
+| Wall slides, slow | 1 | 10 slow reps | bodyweight | Back against a wall, arms in goalpost position (elbows bent 90°). Slide arms up overhead, then back down. Don't force back or wrists to wall — get what you can. Same diagnostic as Wed — you'll feel the AIC pattern. |
+| Cat-cow | 1 | 8 slow reps | bodyweight | Hands and knees. Move spine in segments, don't flop. Round, then arch. |
+
+### Step 3 — Working sets (TKO 9050 cable machine, ~40 min)
+
+| Exercise | Sets | Reps | RPE / Load | Notes |
+|---|---|---|---|---|
+| Seated cable row | 3 | 10 | RPE 7-8, ~100-135 lb | Low cable, attach V-handle or straight bar. Sit on floor (or bench if available), knees slightly bent. Pull handle to your sternum, elbows tracking back to your ribs. Don't shrug. The "row that doesn't use traps or delts." |
+| Kneeling high cable pull-down (sub for lat pulldown — no pulldown station on the TKO 9050) | 3 | 10 | RPE 7-8, autoreg | Attach a straight bar OR rope to the HIGH cable. Kneel facing the machine on BOTH knees (fold a towel under your knees if floor is hard). Grip the bar wide, lean back slightly. Pull bar to upper chest. If using a rope, pull down and apart, hands end at shoulder height. Same lat stimulus as a pulldown machine. **Alternative if kneeling is uncomfortable:** single-arm high cable pulldown — D-handle on high cable, sit on floor sideways to the machine, pull down with one arm at a time. |
+| Cable face pull (NEW — addresses L rear delt finding from Wed) | 3 | 15 | RPE 7, light cable | Mid-height cable, rope attachment. Stand close to the machine (foot stays still — minimal balance demand) OR sit on a bench if there's one nearby. Pull rope toward your forehead, elbows HIGH and OUT (not down at your sides), squeeze rear delts at the back. Slow tempo. |
+| Hammer curl, single DB, one arm at a time | 2 | 10 per arm | RPE 7, ~35 lb (or whatever's available) | Seated. Palms face each other (thumbs up). Start with your LEFT arm. **If no DBs at all:** sub low cable single-arm hammer curl — D-handle on low cable, palm faces in, "curl" handle to your shoulder. |
 
 ---
-
-### Stop signals (any of these → end the session)
-
-- Ankle pain jumps to 5+/10 during the session.
-- Sharp pain at the OUTSIDE ankle bone (not just swelling pain).
-- L hamstring shooting/tickling reproduces during any seated move (unlikely but possible if back-bracing is intense).
 
 ### Post-session
 
 - Elevate L foot 20+ min when you get home.
-- Compression sleeve back on if you took it off for the gym.
-- Ice 15-20 min if the ankle is talking at you after the session.
-- Tonight: same sleep setup as last night (R side down, pillow between knees, L leg propped forward on a pillow with foot elevated).
+- Compression sleeve back on.
+- Ice 15-20 min if ankle is talking after the session.
+- Tonight: same sleep setup (R side down, pillow between knees, L leg propped forward on a pillow with foot elevated).
 
-### Watch flags for the ankle (still in effect 24-72 hrs)
+### Watch flags (still in effect 24-72 hrs)
 
 If any of these → urgent care / ER:
 - Egg-shaped swelling on the outside ankle bone
