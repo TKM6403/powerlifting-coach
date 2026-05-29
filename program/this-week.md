@@ -178,30 +178,61 @@ Substituted: lying knee abduction (for glute bridge), tall-kneeling Pallof.
 
 ---
 
-## Friday 5/29 — CANCELLED (Left ankle sprain Thu 5/28)
+## Friday 5/29 — Seated Upper-Body Pull Session + Ankle Day 1 Care (~50 min)
 
-**No deadlift today. No replacement lift.** You twisted your L ankle yesterday on a sidewalk hole (Grade I lateral sprain, swelling progressing). Pulling a deadlift on a sprained L ankle isn't safe — the planted foot under axial load is exactly the wrong demand right now.
+**Originally:** Cancelled DL day (L ankle sprain Thu).
+**Updated:** Athlete reports ankle ABCs at 2-3/10 pain on Day 1 — controlled active ROM at low pain. Pivot to a seated upper-body PULL session that doesn't load the L foot. Pull is also a gap in this week (Wed was push-focused). Lower body still stays out — Day 1 is too early per Mobility's protocol.
 
-### What to do instead today (rest day, ankle-recovery focused)
+---
 
-| Exercise | Sets | Reps | Notes |
-|---|---|---|---|
-| Elevation + compression + ice | as much as possible | — | Foot above heart while sitting/lying. Compression wrap on. Ice 15-20 min on / 45+ off, towel between ice and skin. |
-| Ankle alphabet | 1 | trace A-Z slowly | Lie or sit with L foot off the ground, "draw" the alphabet in the air with your big toe. Pain-free range only — if a letter hurts, skip it. Source: NATA position statement on ankle rehab (Kaminski 2013). |
-| Isometric inversion / eversion against a wall | 2 | 10 each direction × 5 sec hold | Sit with L foot against a wall/door frame. Press the OUTSIDE of your foot into the wall (eversion) — 5 sec hold, relax. Then press the INSIDE of your foot (inversion) — 5 sec hold. No actual ankle movement, just static pressure. |
-| Towel scrunches | 2 | 20 | Place a towel flat on the floor, scrunch it under your toes. Tiny detail, big payoff for foot intrinsics. |
-| Seated calf pumps | 1 | 20 slow | Sit, slowly point your foot down (away from you), then pull toes up toward your shin. Pain-free range. Keeps fluid moving. |
-| Daily AIC breathing work | 2 rounds | — | 90/90 hip lift, all-fours belly lift, L adductor pullback. None of these need a planted L foot. |
-| Walking | minimize | — | Brace on for ALL walking (lace-up ankle brace if you have one, or compression + figure-8 ACE wrap). Don't fake-normal-walk — a deliberately limited gait with brace beats a hidden limp. Don't push the anti-sitting hourly walks this week. |
+### Rules for the session (read these before you go)
 
-### Watch flags for the ankle (24-48 hrs)
+- **Brace on for ALL walking** (gym floor included). Hobble carefully between machines.
+- **Fully seated work only.** Pick machines you can mount without planting the L foot hard — sit, scoot, settle.
+- **If pain jumps** during the session (ankle going from 3/10 to 5/10) — stop, ankle ABCs only, leave.
+- **No bench** today (you benched Wed; this is a pull day, not a push day).
+- **No standing barbell or dumbbell work.** No squat, no DL, no lunge, no hip thrust today.
+- **Skip if mounting a machine feels worse than just sitting** — pick a different machine.
+
+### Pre-session ankle care (do at home before gym)
+
+| Exercise | Sets | Reps | RPE / Load | Notes |
+|---|---|---|---|---|
+| Ankle alphabet | 1 | trace A-Z slowly | bodyweight | Lie or sit, L foot off the ground. Trace each letter in the air with your big toe. Skip any letter that hurts. |
+| Isometric inversion / eversion against a wall | 2 | 10 each direction × 5-sec hold | static | Sit, L foot against a wall. Press OUTSIDE of foot into wall (5 sec). Press INSIDE of foot (5 sec). No movement. |
+| Towel scrunches | 2 | 20 | bodyweight | Towel on floor, scrunch under toes. |
+
+### Working sets (all seated, ~40 min)
+
+| Exercise | Sets | Reps | RPE / Load | Notes |
+|---|---|---|---|---|
+| Seated cable row OR chest-supported machine row | 3 | 10 | RPE 7-8, ~135 lb (adjust by feel) | Chest stays on the pad. Pull elbows back to your ribs. Don't shrug. The "row that doesn't use traps or delts." |
+| Lat pulldown, wide-ish neutral grip | 3 | 10 | RPE 7-8, autoreg | Pull bar to upper chest (NOT behind the neck). Slight backward lean is fine, no body english. Squeeze lats at the bottom. |
+| Seated face pull (rope at upper chest height) | 3 | 15 | RPE 7, light cable | NEW addition specifically for the L rear delt finding from Wed (the area that lit up on diaphragmatic breathing). Pull rope toward your forehead, elbows high and out, squeeze at the back. Slow tempo. |
+| Hammer curl, single dumbbell, one arm at a time, seated | 2 | 10 per arm | RPE 7, ~35 lb DB | Palms face each other (thumbs up). Start with your LEFT arm. Same as Wed's. |
+
+---
+
+### Stop signals (any of these → end the session)
+
+- Ankle pain jumps to 5+/10 during the session.
+- Sharp pain at the OUTSIDE ankle bone (not just swelling pain).
+- L hamstring shooting/tickling reproduces during any seated move (unlikely but possible if back-bracing is intense).
+
+### Post-session
+
+- Elevate L foot 20+ min when you get home.
+- Compression sleeve back on if you took it off for the gym.
+- Ice 15-20 min if the ankle is talking at you after the session.
+- Tonight: same sleep setup as last night (R side down, pillow between knees, L leg propped forward on a pillow with foot elevated).
+
+### Watch flags for the ankle (still in effect 24-72 hrs)
 
 If any of these → urgent care / ER:
-- Egg-shaped swelling on the outside ankle bone (not just puffiness)
+- Egg-shaped swelling on the outside ankle bone
 - Pain jumps to 6+/10 or you suddenly can't bear weight
 - Rapid extensive dark bruising
 - Numbness / tingling in foot or toes
-- Bone-specific pain on either ankle bone (different from the soft swelling)
 - Pain ABOVE the joint, between the two shin bones (high ankle sprain — different injury)
 
 ---
