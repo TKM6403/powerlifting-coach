@@ -136,12 +136,45 @@ If you stop the lower-body work entirely, you can still do the lateral raises (s
 
 ---
 
-## Thursday 5/28 — Rest / Mobility  *(~12 min)*
+## Thursday 5/28 — Rest / Ankle Day 0 Care + Modified Stabilizer Routine
+
+Your L ankle is freshly sprained this morning (sidewalk hole, Grade I). Today is primarily about ankle care. Stabilizer routine is modified to skip anything that needs a planted L foot.
+
+---
+
+### Ankle care (do throughout the day)
+
+- **Elevation:** L foot above heart whenever sitting or lying. Pillows under the heel and calf.
+- **Compression:** ACE bandage or compression sleeve, snug (toes stay warm and pink).
+- **Ice:** 15-20 min on / 45+ min off cycles. Towel between ice and skin. Stop overnight.
+- **Pain meds:** Tylenol if needed. **No ibuprofen/Advil for the first 48 hrs** — blunts early tissue healing.
+- **Brace on for ALL walking.** Lace-up ankle brace or compression + figure-8 ACE wrap.
+- **Minimize walking.** No anti-sitting hourly walk protocol today. Sit still, elevate.
+
+### Day 0 ankle rehab (gentle, pain-free range only)
+
+| Exercise | Sets | Reps | Notes |
+|---|---|---|---|
+| Ankle alphabet | 1 | trace A-Z slowly | Lie/sit, L foot off the ground. "Draw" each letter in the air with your big toe. Skip any letter that hurts. |
+| Isometric inversion / eversion against a wall | 2 | 10 each direction × 5-sec hold | Sit, L foot against a wall. Press OUTSIDE of foot into wall (5 sec). Press INSIDE of foot (5 sec). No movement — just static pressure. |
+| Towel scrunches | 2 | 20 | Towel on floor, scrunch under toes. Foot intrinsics. |
+| Seated calf pumps | 1 | 20 slow | Pain-free range. Point toes away, then pull toes up. Keeps fluid moving. |
+
+### Modified stabilizer routine — ~15 min for 2 rounds
+
+Skipped today (need L foot planted): single-leg glute bridge L, standing Pallof.
+Substituted: lying knee abduction (for glute bridge), tall-kneeling Pallof.
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Daily stabilizer routine | 2 rounds | — | — | See `reference/daily-stabilizer-routine.md`. Same routine as Mon. NOTE this week: ankle-recovery substitutions in effect (see reference file's "Substitutions for ankle-recovery week" section). |
-| Anti-sitting protocol | — | — | — | Hourly. |
+| Dead bug | 2 | 8 per side | slow tempo | Lie on back, arms straight up, knees bent at 90° (shins parallel to floor). Press lower back into floor. Lower R arm overhead + L leg straight at the same time, heel just above floor. Don't let your back arch off the floor. Return. Switch sides. |
+| Banded clamshell, L side first | 2 | 12 per side | bodyweight + mini-band | Lie on side, knees stacked and bent ~45°, feet stacked. Mini-band just above knees. Keep feet together as you open the top knee up like a clamshell. Don't let hips roll backward. Feel the OUTSIDE of the hip. |
+| Lying knee abduction with band (substitute for single-leg glute bridge today) | 2 | 12 | mini-band above knees | Lie on back, knees bent at ~45°, feet flat on floor (or as flat as L ankle allows). Mini-band around the knees just above kneecaps. Press knees OUT against the band, hold 2 sec, release. No hip lift today — just the abduction. |
+| Bird dog | 2 | 8 per side | bodyweight | Hands and knees position. Reach R arm forward + L leg back at the same time, both parallel to floor. Keep hips square (don't let them tilt). Hold 1-2 sec at the top. Return. Switch sides. |
+| Tall-kneeling Pallof press (substitute for standing Pallof) | 2 | 10 per side | light cable or band | Kneel on both knees on a pad. Cable handle (or band anchored at chest height) on one side of you, perpendicular to your body. Hold the handle at your sternum with both hands. Press straight out in front of you. The cable wants to twist you — don't let it. Hold 1-2 sec extended. Return. Do both sides. |
+| Regressed Copenhagen | 2 | 15-30 sec hold per side | bodyweight | L leg top first. Lie on side, propped on bottom forearm. Top leg's KNEE on a bench (NOT the foot — that's the regressed version). Bottom leg straight and HOVERING just below bench level. Hold the position. Feel the INSIDE of the top thigh. If you feel it in your low back, raise your hips. |
+
+**Skipped today:** standing balance work (too fresh). Returns once ankle clears walking pain-free (~Day 5-7).
 
 ---
 
@@ -173,12 +206,37 @@ If any of these → urgent care / ER:
 
 ---
 
-## Saturday 5/30 — Rest / Mobility  *(~12 min)*
+## Saturday 5/30 — Rest / Ankle Day 2 + Modified Stabilizer Routine
+
+Ankle Day 2 — swelling probably peaked yesterday or this morning. Continue care, run the modified stabilizer routine (same as Thursday). Still no standing balance work (too early — that starts when you can walk pain-free, ~Day 5-7).
+
+---
+
+### Ankle care (continue)
+
+- Elevation, compression sleeve, ice cycles (15-20 on / 45+ off).
+- **NSAIDs (ibuprofen) now OK** if you want them — past the 48 hr window.
+- Brace on for all walking. Still minimize walking.
+
+### Ankle rehab (Day 2, same as Thursday)
+
+| Exercise | Sets | Reps | Notes |
+|---|---|---|---|
+| Ankle alphabet | 1 | trace A-Z slowly | Same as Thursday. Range should be slightly bigger today. |
+| Isometric inversion / eversion against a wall | 2 | 10 each direction × 5-sec hold | Same as Thursday. |
+| Towel scrunches | 2 | 20 | Same as Thursday. |
+| Seated calf pumps | 1 | 20 slow | Same as Thursday. |
+
+### Modified stabilizer routine — same as Thursday
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Daily stabilizer routine | 2 rounds | — | — | See `reference/daily-stabilizer-routine.md`. Ankle-recovery substitutions still in effect this week. |
-| Anti-sitting protocol | — | — | — | Hourly. |
+| Dead bug | 2 | 8 per side | slow tempo | Lie on back, arms straight up, knees bent at 90°. Lower opposite arm + leg. Lower back stays glued to floor. |
+| Banded clamshell, L side first | 2 | 12 per side | bodyweight + mini-band | Side-lying, mini-band above knees, feet together, open top knee. Feel outside of hip. |
+| Lying knee abduction with band (substituting for single-leg glute bridge while ankle recovers) | 2 | 12 | mini-band above knees | Lie on back, knees bent, mini-band above the knees, press knees out, 2-sec hold. |
+| Bird dog | 2 | 8 per side | bodyweight | Hands and knees, opposite arm + leg, hips square, 1-2 sec hold. |
+| Tall-kneeling Pallof press | 2 | 10 per side | light cable or band | Kneel on both knees, press handle straight out from sternum, resist the rotational pull. |
+| Regressed Copenhagen | 2 | 15-30 sec per side | bodyweight | L leg top first. Side-lying, top knee on bench, bottom leg hovering. Feel inner thigh of top leg. |
 
 ---
 
@@ -265,3 +323,4 @@ Three supersets only — A (Wed: pushdown + hammer curl), B (Fri: ham curl + cab
 - 2026-05-26: **Wed bench restructured + Sun shifted off tempo per athlete pushback on sub-RPE technique work.** Wed: comp bench top 1×5 RPE 8 (~235), back-offs 2×5 RPE 7 (~215); supplemental DB shoulder press 2×10/arm with R-RPE-9-10 / L-RPE-7-8 split per Mobility veto on barbell failure with L pec minor history; close-grip CUT; rope pushdown to RPE 9 as failure home. Sun: comp bench 1×6 RPE 7-8 (~205) + 2×8 RPE 7 (~185), no tempo. Three-agent collaboration: SBD + Aesthetics + Mobility. DB OHP approved YELLOW with 5 guardrails (neutral grip, no lockout, L cap, stop on L pinch, sub to machine press if L hip click returns AM Wed). Athlete buy-in obtained before write.
 - 2026-05-27: **Wed bench session executed; calibration + format updates.** Comp bench top 100 kg × 5 RPE 8 (athlete autoregulated DOWN from prescribed 235 lb; calibrated Wk1 Wed top = 100 kg / 220 lb going forward), back-offs 90 kg × 5 × 2 RPE 7. DB OHP: athlete performed BILATERAL (both arms simultaneously) at 45 lb × 7.5 reps on set 2 — this bypasses the unilateral R-hard / L-capped split that was the basis for Mobility's yellow-light approval. **L reported zero post-set symptoms.** Per Option 3 decision (bilateral monitoring): continue bilateral DB OHP as athlete's preferred format, monitor across next 2-3 sessions; **switch to alternating IMMEDIATELY** if L pec minor / L shoulder / L elbow symptom appears on any future bilateral set — not negotiable. Bilateral 45 lb is current tested-safe baseline. New diagnostic findings (capture for Mobility next read): (a) L rear delt area pain reproduced by diaphragmatic / posterior-expansion breathing — NEW symptom-mechanism link athlete previously couldn't name on bench; (b) L pec minor stretch transmits to L biceps tendon (broader L shoulder restriction); (c) wall slides — low back off wall + wrist contact difficult (live AIC severity). No L hamstring nerve symptom during bench session. Session log: `logs/sessions/2026-05-27.md`. Compliance read: GOOD.
 - 2026-05-28: **Acute L lateral ankle sprain (Grade I) — sidewalk hole, fell on concrete.** ~1.5 hrs post-injury at report: bears weight, pain 3/10, swelling progressing, no pop / no deformity / no neurovascular symptoms / no other injuries from fall. Negative Ottawa Ankle Rules, no ER. **NEW documentation: chronic lateral ankle instability** (athlete reports "chronic ankle twisting" — first explicit entry in injury-history). Compounds the existing L-side stack (L AIC + L hip click + L hamstring nerve + L pec minor + L rear delt + L ankle = 6 L-side issues clustered). Mobility read: PEACE & LOVE protocol w/ compression-emphasis modification for CAI (chronic ankle instability) population; lace-up brace for all walking to prevent compensation re-entrenchment. **Fri DL CANCELLED in full** (no replacement lift). Sun bench provisional GO with ankle-modifications: legs flat / heel pad if needed, no leg drive (already proven non-required at 100 kg × 5 per 5/27), pull-up entry/exit with R lead, lateral raises moved to seated, standing calf raise CUT. Return timeline (Grade I): pain-free walking D3-5, light loaded lower D7-10, DL setup D10-14, full squat D14-21 — but squat re-gate still ultimately governed by L hamstring nerve status. Mobility proposed 3-week phased ankle rehab protocol (ankle alphabet → peroneal banding → single-leg balance progression → reactive hops) with cited sources (Kaminski 2013 NATA, Hertel 2002 CAI proprioception, Doherty 2017, McKeon 2008, Vicenzino 2006); awaiting athlete buy-in before writing. Long-term: balance + peroneal work to become permanent daily-routine addition same way AIC PRI work is. PT pitch reframed as ankle-pretext (athlete-acceptable entry point for the full L pattern picture).
+- 2026-05-28: **Adherence gap discovered + Path A locked in for permanent program additions.** Athlete reported he has NOT been doing the daily stabilizer routine on rest days because "it's not in the email" — the rest-day sections previously listed moves only as a comma-separated name list with no descriptions/instructions visible in email render. **Structural fix:** rest-day sections (Thu 5/28 and Sat 5/30 this week) rewritten to inline the full routine with per-move descriptions so the email script renders the moves directly. Going forward, all rest-day stabilizer routine slots use inline format, not "see reference file" pointers. Reference file remains as deeper resource. **Path A locked** for permanent additions (athlete preference: keep hammer curl + cable lateral raise + standing calf; add new work as net additions, not replacements): (a) cable chop ADDED to Wed bench starting next Wed (alongside hammer curl, not replacing); (b) peroneal banding (2×15 L) added to lift-day warmup once L ankle ready to load (~D7+); (c) single-leg balance eyes-closed on cushion (L leg, 3×30 sec) added to rest-day routine once ankle clears walking pain-free (~D5-7); (d) lateral hop-and-stick (2×8/side) added to rest-day routine Day 14+ once cleared for reactive work; (e) heavy suitcase carry (2×30 sec/side, L first) added to Sun bench finisher once ankle clears walking pain-free. All daily stabilizers retained at current dose (clamshell stays at 2 rounds). Net time impact when fully ramped: ~+25 min/wk (~+5 min lift days, ~+5 min rest days). Athlete acknowledged and accepted. Block rename to "Diagnostic + Capacity-Building" still pending athlete decision (deferred — not pressing now given ankle).
