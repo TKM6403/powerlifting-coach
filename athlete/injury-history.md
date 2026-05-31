@@ -203,6 +203,28 @@ Six L-side issues stacked in one week, now spanning from foot to shoulder. The c
 
 **L hamstring neural symptom status during/after hanging axial load:** Not reported either way.
 
+### 2026-05-30 — Day 2 Post-Ankle-Sprain: Pain Trajectory + First Proprioceptive Gate Data Point
+
+**Context:** Rest day (no training session). Athlete asked Head Coach about going for a run today; Head Coach declined and prescribed a diagnostic single-leg balance test on L as a proprioceptive readiness gate before any return-to-impact discussion.
+
+**Day 2 L ankle pain at rest:** **0-1/10.** Continuing favorable trajectory:
+- Day 0 (5/28): 3/10 at triage
+- Day 1 (5/29): 2-3/10 during ABCs
+- Day 2 (5/30): 0-1/10 at rest
+
+Pain is resolving on schedule for a Grade I lateral sprain. Swelling change not reported today.
+
+**Day 2 single-leg balance L test (FIRST proprioceptive-readiness data point post-sprain):**
+- **Conditions:** Brace off, eyes open, flat floor, 30 sec target.
+- **Athlete verbatim:** "eh yeah i tried at my ankle feels a bit weird tbh"
+- **Interpretation:** Proprioceptive deficit still present on Day 2. "Weird" is the subjective sensation; duration achieved and failure mode (wobble / touch-down / sharp pain) NOT captured. Athlete is not yet at impact-ready proprioceptive baseline. Consistent with documented chronic lateral ankle instability (CAI) substrate — exactly the proprioceptive deficit that proprioceptive/neuromuscular rehab is designed to address.
+- **Significance:** This is the **first explicit proprioceptive-readiness data point** post-sprain. It serves as the gate for accelerating (or holding) the return-to-impact timeline. Track for change at Day 4 (6/1) and Day 7 (6/4) re-tests. If the "weird" sensation has resolved and 30 sec is held cleanly by Day 7, return-to-impact discussion can open; if not, proprioceptive rehab continues and the gate stays closed.
+- **Run request outcome:** Declined. Day 2 + CAI substrate + non-clean balance = impact work (running) is well inside the at-risk re-sprain window.
+
+**FLAGS Raised This Sub-Entry**
+- **FLAG MOBILITY:** Single-leg balance L not clean on Day 2 ("weird" sensation reported). Proprioceptive deficit still present. Proprioceptive rehab pathway is the right call; revisit gate at Day 4 (6/1) and Day 7 (6/4). Capture duration achieved + failure mode at the next re-test, not just subjective sensation.
+- **FLAG MOBILITY:** Pain trajectory (3 → 2-3 → 0-1 / 10 across Days 0-2) is favorable for Grade I. Continue acute-phase protocol; do not let low pain at rest become a justification to bypass the proprioceptive gate.
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up
