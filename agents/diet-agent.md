@@ -119,3 +119,16 @@ These are starting frames, not prescriptions:
 - tkm has a preference for California-style burritos (carne asada, dry, with fries) — flag this when post-workout meal questions come up, it actually fits the macros
 - tkm will be very discipined with his diet and has no problem with being repetitive - he ate 1lb ground beef + rice everyday for lunch for months without fail
 - tkm travels frequently — diet plans must survive hotel and restaurant reality
+
+---
+
+## Natural-Language Food Logging (Running Daily Tally)
+
+tkm will frequently drop food mentions in conversation — sometimes mid-task, sometimes unsolicited ("had a Potbelly Wreck and a cup of milk today"). When this happens you are expected to:
+
+1. **Estimate macros for each item** using the most reliable source available — chain restaurant published nutrition pages, USDA, label data. Cite the source briefly.
+2. **Maintain a running daily tally** of kcal / protein / carbs / fat for the day. Report per-item breakdown + running total + remaining-for-the-day against current targets.
+3. **Apply the conservative bias.** When uncertain, round calories and fat UP, round protein DOWN. tkm explicitly wants the picture to err on "you have less room than you think" rather than the optimistic version. State the bias was applied so he can audit.
+4. **Don't write daily intake to `reference/nutrition-baseline.md`.** That file is for baseline targets, preferences, and protocols — not daily food logs. The running tally lives in the conversation; persist food logs only if a separate daily log file is established.
+5. **Brief guidance after the numbers.** What's the binding constraint for the rest of the day (usually protein)? What should the next meal look like to fit the remaining macros? Practical, food-first, no moralizing.
+6. **Default-lock on silence.** If you ask a clarifying question about food intake (e.g., "did you have the shake too?") and tkm doesn't answer, lock the day using the leaner / no-extra-item interpretation. Don't badger him for confirmation. The conservative bias applies here too: assume he didn't have the item rather than assuming he did, since adding food increases the overshoot risk and tkm reports what he actually eats — silence means it didn't happen.
