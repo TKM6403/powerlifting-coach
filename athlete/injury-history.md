@@ -283,6 +283,29 @@ Pain is resolving on schedule for a Grade I lateral sprain. Swelling change not 
 - Pain is **localized** (R quad, single muscle/region), **no neurological deficit** (no shooting/tingling/numbness, no weakness reported beyond the acute pain-limited set), and **no worsening trend** (single acute event, terminated immediately, not escalating within or across sessions).
 - This is distinct from the LEFT-side picture, where multiple red-flag-list criteria have stacked (clicking, neural reproduction, ADL-level provocation). The R-quad event does **not** meet the escalation criteria on this file's red-flag list. Managed as an acute strain with the relative-rest / graded-reload plan above; re-evaluate at the Friday ramp-up.
 
+#### Post-session provocation refinement (R quad) — load/contraction-provoked, NOT position-provoked
+Post-workout, athlete characterized the R-quad symptom more precisely:
+- **Weird/sharp when flexing it hard while standing**, and at the **bottom of a LOADED leg extension.**
+- **Completely normal in a deep BODYWEIGHT squat** (same deep-knee-flexion position the leg extension reaches, but unloaded).
+- **Interpretation:** the trigger is **contraction / load under stretch**, NOT the deep-flexion position itself. A pure ROM or joint problem would also light up in the deep bodyweight squat — it doesn't. This is consistent with the **mild muscular strain** read (load/contraction-provoked) rather than a range-of-motion or joint issue. Sharpens the cold-start strain hypothesis above.
+- **Re-test FRIDAY on a graded ramp-up** (unchanged plan).
+
+### 2026-06-02 — L Rear Delt / Posterior Shoulder Pinch on Posterior-Ribcage Breathing: LOCALIZED + CHARACTERIZED (Mobility Agent assessment)
+
+**Context:** Tue 6/2 post-bench. The L rear-delt symptom first linked to posterior/diaphragmatic breathing on 2026-05-27 ("breathing into my back makes my left rear delt feel it") was reproduced again today and assessed live by the Mobility Agent.
+
+- **Provocation:** all-fours posterior-ribcage breathing drill — **pinch on INHALATION when filling the L back ribs.** Feels "off" after benching. **Low severity.**
+- **Mobility Agent assessment:** most likely a **costovertebral / costotransverse rib-joint restriction + reactive posterior rotator-cuff restriction.** Mechanism is **ribcage-driven, NOT a shoulder-joint injury** — the symptom is reproduced by breath with the arm held static, which points away from a glenohumeral/cuff lesion and toward the costo-vertebral/transverse joints of the L posterior ribcage failing to accept posterior expansion (consistent with the L AIC ribcage sitting in inhalation / "stuck up" on the AIC side, documented 5/27).
+- **This LOCALIZES and CHARACTERIZES the 5/27 finding** ("L rear delt area pain on posterior/diaphragmatic breathing"). The 5/27 entry framed candidate structures (possible L 1st rib elevation; reactive L rear delt / lower trap / T-spine extensors). Today narrows it to a **rib-joint + reactive posterior-cuff** picture with a clean provoking maneuver (inhalation filling L back ribs, arm static).
+- **Mobility red-flag status: NOT TRIPPED.** Low severity, no neuro symptoms, ribcage-driven (not joint instability of the shoulder), reproduced by a breathing drill rather than load. Does not meet this file's red-flag escalation criteria.
+- **Plan response (Mobility Agent):** breathe to **just BEFORE the pinch** (do not breathe into it), **bias the exhale**, **drop the long-arm reach** in the all-fours position, **2 rounds.** Keep **mid-range rear-delt strengthening** (face pulls / reverse pec deck).
+- **Tonight's downstream effect:** the same L shoulder/ribcage restriction (L can't reach the same overhead position as R) drove **uneven L/R elbow flare** on the DB neutral-grip shoulder press — L elbow flared to compensate, amplified by fatigue + the freshly-provoked rear delt. Athlete stopped the set on the unevenness (see 2026-06-02 session log).
+
+#### L quad at depth — chronic AIC/nerve pattern, reproduced again (unchanged)
+- **Athlete verbatim character:** "really weird" when **pushing off from below parallel** in a deep bodyweight squat.
+- This is the **documented chronic L nerve/AIC pattern** (L quad at depth — see 2026-05-26 and the positional/sitting-driven 2026-06-01 entry), reproduced here by loaded deep-flexion-to-extension (push-off out of the hole). **Nerve gate holds.** No new neurological deficit reported.
+- **Athlete to confirm at next check-in that it is "just weird," NOT weakness or numbness** — the distinction matters for nerve-gate status. Logged as unchanged chronic pattern pending that confirmation.
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up
