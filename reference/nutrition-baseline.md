@@ -8,17 +8,19 @@ Established protocols and preferences. Diet Agent references this; tkm updates i
 
 - **Active phase:** Maintenance (with a gradual recomp lean toward filling out the frame)
 - **Active since:** 2026-05-25 (post 2-week vacation)
-- **Target rate:** Hold BW in the 182-188 range; allow drift up to ~190 if recovery and strength rebuild lag
-- **Recent context (2026-05-25):** Just returned from a 2-week vacation with no SBD training and poor eating. Expect a few days of GI/energy normalization before targets feel honest. Don't try to "make up" calories — re-anchor to maintenance, hit protein floor every day, let the rest settle.
+- **Target rate:** Hold BW around 185 (182-188 band); allow drift up to ~190 if recovery and strength rebuild lag
+- **Recent context (2026-06-02):** Post-vacation normalization window has passed (8 days back). BW confirmed 185.0 on 6/2 — first real datapoint since 5/25. Targets now anchored (see Current Targets). Hold maintenance, hit the protein floor daily, capture a weekly Sunday weigh-in so the recomp trend is visible.
 
 ---
 
 ## Current Targets
 
-- **Calories:** [fill in]
-- **Protein:** [fill in g/day]
-- **Carbs:** [fill in g/day]
-- **Fat:** [fill in g/day]
+*Set 2026-06-02 at BW 185.0 lb, maintenance/recomp. Refine once a bodyweight trend exists (weekly Sunday weigh-in). If recovery feel stays low at these numbers, the maintenance calorie figure is too low — bump carbs first.*
+
+- **Calories:** ~2,850 kcal (training-day anchor; rest days can run ~200 lower)
+- **Protein:** ~190 g/day (≥1g/lb)
+- **Carbs:** ~375 g/day (skew higher on training days — front-load pre-workout, see Meal Timing)
+- **Fat:** ~80 g/day (fills the remainder)
 
 ---
 

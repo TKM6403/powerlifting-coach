@@ -241,6 +241,48 @@ Pain is resolving on schedule for a Grade I lateral sprain. Swelling change not 
 - Athlete frames the L hip click as routine ("as usual"). For the record: L hip click on cat-cow is on the red-flag escalation list above (joint vs muscle — clicking/locking/instability) and was one of the stacked signals that contributed to the 5/26 squat-session termination. Logged faithfully; the "as usual"/routine framing is the athlete's, not a clinical normalization.
 - FLAG MOBILITY: L hip click on cat-cow persists into 5/31 (present 5/26 at squat abort). Athlete now treating it as baseline. Worth confirming whether it warms out and whether it appears on other loaded movements.
 
+### 2026-06-01 — Both Nerve-Gate Positions Quiet on Self-Assessment + Positional / Sitting-Driven L Quad-Nerve Presentation
+
+**Context / provenance caveat:** On Mon 6/1, due to a git commit gap (since fixed), the athlete's morning email served the **stale Week 1 "Monday 5/25 — Rest / Pre-Block Prep"** content rather than the intended Week 2 Day-4 ankle-gate content. So what he ran on 6/1 was the 5/25-style pre-block routine: PRI reset (90/90 hip lift, adductor pullback, all-fours belly lift) + the **self-assessment battery** + the daily stabilizer routine (2 rounds: dead bug, banded clamshell, single-leg glute bridge, bird dog, Pallof press, regressed Copenhagen). He "really liked it." (The intended 6/1 Ankle Day-4 balance re-test was therefore NOT performed — administrative gap, tracked in the session log; not relevant to the nerve findings below.)
+
+#### Both nerve-gate positions QUIET (single data point — NOT a cleared gate)
+- **Forward hinge — QUIET.** No shooting, tickling, or electric symptoms down the left leg during the forward-hinge self-test.
+- **ASLR / active straight-leg raise — QUIET.** No L-leg neural symptoms on the leg-on-stretch test either.
+- **Significance:** Forward hinge (bend-over) and leg-on-stretch (ASLR/slump-family) are the **two positions currently on the nerve gate** — the same positions that have reproduced the L-leg symptom across slump test (5/26), axial SSB load (5/26), and ADL Valsalva (5/27), and that are the **binding lock holding squat/DL out** in Week 2 (`program/this-week.md`). Both quiet on the same battery is a **possible clearance/trend signal.**
+- **EXPLICITLY NOT A CLEARED GATE.** This is ONE data point on a non-loaded battery. The nerve gate is not declared open on this basis. Re-evaluate at the **Sun 6/7 slump re-screen** (program-scheduled) and on the next deliberate loaded/hinge exposure before any gate-status change. Gate decisions are Head Coach / Mobility Agent calls.
+
+#### Positional / sitting-driven L quad-nerve presentation (characterization sharpened)
+- **Immediately post-routine (6/1):** could bodyweight squat to **parallel with only LOW L-quad pain** — an improvement vs. 5/26 (L quad pain at depth that did NOT warm out and contributed to the squat abort).
+- **6/2 (Tue), after sitting all day at work:** the **L-quad pain RETURNED.**
+- **Pattern:** movement / PRI reset **reduces** the L quad/nerve symptom; **sustained sitting re-triggers** it. This is a **positional, sitting-driven presentation** — it sharpens the existing entries under "Lifestyle Factors That Aggravate" (prolonged sitting re-shortens L hip flexor; 5/27 deep-hip-flexion + Valsalva nerve provocation; 5/26 seated slump reproduction). The new wrinkle is the explicit *reduce-with-movement → return-with-sitting* cycle observed within a single 24-hr window.
+- FLAG MOBILITY: (1) both nerve-gate positions quiet on 6/1 — possible trend signal, single data point, gate NOT cleared; (2) sitting-driven re-trigger of the L quad/nerve symptom confirmed across 6/1→6/2. Watch the Sun 6/7 slump re-screen and next hinge exposure.
+
+### 2026-06-02 — NEW PRIMARY RIGHT-SIDE INJURY: Cold-Start R Quad Strain (Loaded Leg Extension, Deep-Flexion Bottom)
+
+**Context:** Tue 6/2 Heavy Bench + Lower (Wk 2 Day 1). Full-gym 45-min window (6:00–6:45) then finishing at apartment gym. Athlete arrived to find all other equipment taken, so he went **straight onto seated leg extensions with NO PRI reset and NO warmup** — a cold start. The skipped PRI reset was specifically the one planned to clear the sitting-re-triggered L quad/nerve symptom that had returned this morning (see 2026-06-01 entry / sitting-driven positional pattern).
+
+**Event:** **Right quad went SHARP at the BOTTOM of the rep** (knee in deep flexion = quad in its stretched / lengthened position) under load on the leg extension. Set terminated immediately. Head Coach triaged it as a muscular strain signal and **CANCELLED all quad/leg work for the day.** Bench portion continued separately (RPE 7 cap).
+
+#### Why this entry matters: FIRST documented PRIMARY right-side injury
+- Until now, the **right side has appeared in this file ONLY as a COMPENSATION structure** — i.e., right adductor / right high hamstring lighting up *secondarily* when the chronically-dysfunctional LEFT side was consciously force-loaded (see "Recent Right-Side Compensation Episode" below; also the 2026-05-28 stacked-clustering note). It has never been the site of a primary, standalone injury event.
+- **This R-quad strain is a PRIMARY right-side event, not a left-driven compensation.** It was provoked directly by a cold, unwarmed loaded contraction in a stretched position — not by over-loading or over-correcting the left. Make the distinction explicit for downstream pattern-matching: a future query for "right-side issues" must NOT collapse this into the left-AIC compensation story. Different mechanism, different side-role.
+
+#### Mechanism (as best understood)
+- **Cold start, zero warmup, no prior loading that day.** Muscle, tendon, and neural tissue all un-primed.
+- **Sharp at the BOTTOM of the leg extension** = peak knee flexion = quad (rectus femoris / vastus group) at its most lengthened, stretched position. A loaded eccentric/stretched contraction on cold tissue is the classic mechanism for an acute muscular strain.
+- Most consistent with a **cold-start muscular strain** of the R quad. No mention of a pop, no neuro symptoms, no prior R-quad history.
+
+#### Management plan
+- **Relative rest** — no quad/leg loading through the painful range.
+- **Pain-free ROM only** — move it within ranges that don't reproduce the sharp signal.
+- **No stretching into it** — do not chase the strain with end-range stretch; stretching a fresh strain into its provoked (deep-flexion) position can aggravate.
+- **Graded reload** — reintroduce load progressively, not all at once.
+- **Re-test FRIDAY on a ramp-up** — assess with a graded warm-up ramp before deciding on return to quad loading.
+
+#### Mobility red-flag status: **NOT TRIPPED**
+- Pain is **localized** (R quad, single muscle/region), **no neurological deficit** (no shooting/tingling/numbness, no weakness reported beyond the acute pain-limited set), and **no worsening trend** (single acute event, terminated immediately, not escalating within or across sessions).
+- This is distinct from the LEFT-side picture, where multiple red-flag-list criteria have stacked (clicking, neural reproduction, ADL-level provocation). The R-quad event does **not** meet the escalation criteria on this file's red-flag list. Managed as an acute strain with the relative-rest / graded-reload plan above; re-evaluate at the Friday ramp-up.
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up
@@ -277,7 +319,7 @@ During a session where tkm deliberately "sank into" and "pushed off" the left si
 
 ## Lifestyle Factors That Aggravate
 
-- Prolonged sitting (re-shortens left hip flexor)
+- Prolonged sitting (re-shortens left hip flexor). **2026-06-02 update:** now also explicitly linked to the L quad/nerve symptom — symptom was LOW immediately after the 6/1 PRI/stabilizer routine, then RETURNED on 6/2 after sitting all day at work. Reduce-with-movement → return-with-sitting cycle documented (see 2026-06-01 pattern-history entry). Practical implication: break up sustained sitting; the PRI reset/stabilizer routine measurably reduces the symptom — use it, and re-dose after long seated stretches.
 - Long walking days without preparation (recent 20k-step day produced oblique DOMS — actually a useful stimulus, but signals stabilizer undertraining)
 - Aggressive PR attempts in compromised positions
 - Skipping warmup or rushing it

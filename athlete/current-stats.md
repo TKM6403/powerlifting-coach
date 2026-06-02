@@ -6,7 +6,7 @@
 
 ## Body Metrics
 
-- **Bodyweight:** 182-188
+- **Bodyweight:** 185.0 lb _(measured AM 2026-06-02; last updated 6/2)_
 - **Height:** 5 ft 11 in
 - **Approximate body fat %:** 20
 - **Weight class** (if competing): 82.5kg/90kg/93kg ( depends on USAPL vs Powerlifting America)
@@ -33,7 +33,7 @@ Training Max = a weight you could hit for a clean single on a good day at RPE 9.
 ## Current Block Performance Signals
 
 - Sleep average: 7
-- Recovery feel (1-10): 2
+- Recovery feel (1-10): 2 _(STALE — collected 5/25; FLAG: re-collect at the Sunday 6/7 check-in)_
 - Hunger/appetite trend: normal
 - Libido: normal
 - Mood: variable
