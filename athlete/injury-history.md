@@ -225,6 +225,22 @@ Pain is resolving on schedule for a Grade I lateral sprain. Swelling change not 
 - **FLAG MOBILITY:** Single-leg balance L not clean on Day 2 ("weird" sensation reported). Proprioceptive deficit still present. Proprioceptive rehab pathway is the right call; revisit gate at Day 4 (6/1) and Day 7 (6/4). Capture duration achieved + failure mode at the next re-test, not just subjective sensation.
 - **FLAG MOBILITY:** Pain trajectory (3 → 2-3 → 0-1 / 10 across Days 0-2) is favorable for Grade I. Continue acute-phase protocol; do not let low pain at rest become a justification to bypass the proprioceptive gate.
 
+### 2026-05-31 — L Lat / L Shoulder ROM Self-Test (Standing Wall Reach-Back) + Recurring L Hip Click on Cat-Cow
+
+**Context:** Sun 5/31 bench session (Wk 1, Ankle Day 3). Findings surfaced mid-bench (self-test) and during warmup (hip click). No L hamstring neural symptom reported this session.
+
+#### L Lat / L Shoulder ROM Self-Test — Asymmetric (R passes, L fails)
+- **Maneuver (athlete's own diagnostic):** Stand with back flat against a wall, turn palms away, reach the arms back to touch the wall with the hands.
+- **Result:** R side performs well ("really well"); **L side fails** — cannot complete the reach-back to the wall.
+- **Athlete verbatim framing:** this is his test "for when my left lat is locked up — my shoulder doesn't have as much mobility."
+- **Significance:** Consistent with and extends the documented L AIC / L shoulder ROM restriction pattern. On 5/27 the L pec minor stretch transmitted to L biceps tendon (restriction broader than pec minor alone); this wall reach-back failing on L is another non-loaded confirmation of L glenohumeral / lat / shoulder-girdle ROM restriction. Athlete has a self-named, repeatable screen ("left lat locked up") — useful for tracking change. Not a new injury; ROM observation in the existing L pattern.
+- FLAG MOBILITY: athlete-named L lat/shoulder ROM screen now on record (standing wall palms-away reach-back, R clean / L fails). Track for change.
+
+#### Recurring L Hip Click on Cat-Cow
+- **Athlete verbatim:** "a bit of hip clicking on cat cows as usual" during warmup.
+- Athlete frames the L hip click as routine ("as usual"). For the record: L hip click on cat-cow is on the red-flag escalation list above (joint vs muscle — clicking/locking/instability) and was one of the stacked signals that contributed to the 5/26 squat-session termination. Logged faithfully; the "as usual"/routine framing is the athlete's, not a clinical normalization.
+- FLAG MOBILITY: L hip click on cat-cow persists into 5/31 (present 5/26 at squat abort). Athlete now treating it as baseline. Worth confirming whether it warms out and whether it appears on other loaded movements.
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up

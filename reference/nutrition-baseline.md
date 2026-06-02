@@ -45,7 +45,8 @@ Established protocols and preferences. Diet Agent references this; tkm updates i
 
 ### Training day
 - **Breakfast:** moderate protein + moderate carbs, 2-3 hours before training if possible
-- **Pre-workout (if needed):** 30-50g carbs + 20-30g protein, ~1 hour before
+- **Pre-workout (tkm's preference — overrides generic default):** tkm performs noticeably better with **≥150g carbs before training**. Prioritize hitting that carb number pre-session; protein in this meal can run lower and be made up post-workout. Fat tends to run high here because his go-to is bagels + almond butter (~22g fat per 40g serving) — fine when the day's fat budget is clean, flag it when it isn't.
+- **Pre-workout (generic fallback if not his preferred setup):** 30-50g carbs + 20-30g protein, ~1 hour before
 - **Intra-workout:** water + electrolytes; carbs optional for sessions > 60 min
 - **Post-workout:** within a few hours, hit a substantial protein + carb meal (the carne asada burrito is fine here)
 - **Evening:** protein-forward, balance the day's macros
