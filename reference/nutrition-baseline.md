@@ -28,10 +28,8 @@ Established protocols and preferences. Diet Agent references this; tkm updates i
 
 ### Foods that work well
 - California-style burritos (carne asada, dry, with fries) — fits macros, post-workout favorite
-- Chipotle steak burrito, tkm's build: steak, **no rice**, extra black beans, fajita veggies, extra roasted chili-corn salsa. Cheese and sour cream are the fat-budget levers — pick one, not both. Macros roughly:
-  - Full build (extra cheese + sour cream): ~1,300 kcal / 60P / 135C / 52F (fat too high)
-  - Drop sour cream OR drop to regular cheese: ~1,190 / ~56 / 134 / 43 (workable)
-  - Drop sour cream AND go to regular cheese: ~1,080 / 52 / 132 / 34 (target shape)
+- **Chipotle steak burrito — tkm's CONFIRMED standard order (locked 2026-06-02):** single steak, **no rice**, extra black beans, fajita veggies, extra roasted chili-corn salsa, **extra cheese + normal sour cream**. This is his default — assume it, don't ask. Macros ≈ **~1,300 kcal / 60P / 135C / 52F** (this is the "both dairy" build, so fat is the day's constraint when budgeting around it — keep other meals lean).
+  - *Leaner levers if a day's fat is tight (he won't usually want these): drop sour cream OR regular cheese → ~1,190 / 56 / 134 / 43; drop both → ~1,080 / 52 / 132 / 34.*
 - [tkm: add other staples that hit macros and that you actually like]
 
 ### Foods to limit / not great for performance
