@@ -87,7 +87,19 @@
 
 ## Wednesday 6/3 — Rest / Stabilizer Routine + Ankle  *(~20 min)*
 
-Same stabilizer routine as Monday (2 rounds) + eyes-closed cushion balance. Anti-sitting protocol on.
+### Stabilizer routine, 2 rounds
+| Exercise | Sets | Reps | Notes |
+|---|---|---|---|
+| **PRI hip reset — do these FIRST: 90/90 hip lift + all-fours belly lift** | 2 rounds each | 4–5 breaths | 90/90: on your back, feet flat up on a wall/chair, knees + hips bent ~90°, tuck your tailbone an inch off the floor (don't arch), breathe ALL the way out — feel the backs of your thighs + lower belly, not your low back. All-fours: hands and knees, round your upper back, exhale fully, draw your belly up. This is the move that resets your left hip and quiets your left leg. |
+| Dead bug | 2 | 8 per side | On back, arms up, knees bent 90°. Lower opposite arm + leg, low back glued to floor. |
+| Banded clamshell, left first | 2 | 12 per side | Side-lying, band above knees, feet together, open the top knee. Feel the outside of the hip. |
+| Single-leg glute bridge, left foot planted | 2 | 10 | Drive through the left heel, right leg lifted. (Foot flat = no balance demand — fine.) |
+| Bird dog | 2 | 8 per side | Hands and knees, opposite arm + leg, hips square, 1–2 sec hold. |
+| Standing Pallof press | 2 | 10 per side | Band/cable at chest height to one side, press straight out, resist the twist. |
+| Regressed Copenhagen, left top first | 2 | 15–30 sec | Side-lying, top knee on a bench, bottom leg hovering. Feel the inner thigh. |
+| Eyes-closed single-leg balance on a cushion, left foot | 3 | up to 30 sec | Stand on a pillow, left foot, eyes closed. Proprioception rebuild for the rolling ankle. Hold something nearby for safety. |
+
+**Anti-sitting (every day — including training days):** every hour you're seated, stand and do 10 glute squeezes or a 30-sec left couch stretch. This knocks the left-leg symptom back down — re-dose it after any long sit.
 
 ---
 
@@ -145,7 +157,19 @@ Same as Tuesday: **Step 0 hip reset first** (90/90 hip lift + all-fours belly li
 
 ## Saturday 6/6 — Rest / Stabilizer Routine + Ankle  *(~20 min)*
 
-Same stabilizer routine as Monday/Wednesday + eyes-closed cushion balance. Anti-sitting protocol on.
+### Stabilizer routine, 2 rounds
+| Exercise | Sets | Reps | Notes |
+|---|---|---|---|
+| **PRI hip reset — do these FIRST: 90/90 hip lift + all-fours belly lift** | 2 rounds each | 4–5 breaths | 90/90: on your back, feet flat up on a wall/chair, knees + hips bent ~90°, tuck your tailbone an inch off the floor (don't arch), breathe ALL the way out — feel the backs of your thighs + lower belly, not your low back. All-fours: hands and knees, round your upper back, exhale fully, draw your belly up. This is the move that resets your left hip and quiets your left leg. |
+| Dead bug | 2 | 8 per side | On back, arms up, knees bent 90°. Lower opposite arm + leg, low back glued to floor. |
+| Banded clamshell, left first | 2 | 12 per side | Side-lying, band above knees, feet together, open the top knee. Feel the outside of the hip. |
+| Single-leg glute bridge, left foot planted | 2 | 10 | Drive through the left heel, right leg lifted. (Foot flat = no balance demand — fine.) |
+| Bird dog | 2 | 8 per side | Hands and knees, opposite arm + leg, hips square, 1–2 sec hold. |
+| Standing Pallof press | 2 | 10 per side | Band/cable at chest height to one side, press straight out, resist the twist. |
+| Regressed Copenhagen, left top first | 2 | 15–30 sec | Side-lying, top knee on a bench, bottom leg hovering. Feel the inner thigh. |
+| Eyes-closed single-leg balance on a cushion, left foot | 3 | up to 30 sec | Stand on a pillow, left foot, eyes closed. Proprioception rebuild for the rolling ankle. Hold something nearby for safety. |
+
+**Anti-sitting (every day — including training days):** every hour you're seated, stand and do 10 glute squeezes or a 30-sec left couch stretch. This knocks the left-leg symptom back down — re-dose it after any long sit.
 
 ---
 
