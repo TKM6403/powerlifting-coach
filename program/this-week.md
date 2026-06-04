@@ -114,7 +114,8 @@
 - **Any one fails** → keep the left side light Friday too, text me.
 
 ### Warmup (~7 min)
-Left-shoulder opener (all-fours breathing into left back ribs + banded left-lat stretch + wall-test re-check) + band pull-aparts + **peroneal band work, left, 2×15**.
+**Modified left-shoulder opener** (per the 6/2 rear-delt pinch): all-fours breathing into your left back ribs — but **only breathe in to just before the pinch, never into it**, and put your effort on the **full exhale** (blow all the way out, ribs down). **Drop the long reaching arm** for now — just breathe. **2 rounds.** Then banded left-lat stretch (30 sec × 2) + wall-test re-check + band pull-aparts (15) + **peroneal band work, left, 2×15** (band around the outside of the left foot, push outward, slow).
+*If the breath still pinches even staying short of it → skip the all-fours breath, just do the lat stretch + bands, and tell me at check-in.*
 
 ### Working sets (TKO 9050 cable machine + dumbbells)
 
