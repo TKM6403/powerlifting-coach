@@ -135,6 +135,15 @@ Eyes-closed cushion balance, left, 3 × up to 30 sec. Note duration + how you lo
 
 ## Friday 6/5 — Volume Bench + Lower (full gym, left leg back)  *(~80 min — Ankle Day 8)*
 
+> **Note (added 6/5): Wed + Thu were missed — no stabilizer/PRI both days, Thursday's workout skipped, lots of sitting.** That means (a) you've had two days with none of the reset work that quiets the left leg, plus the sitting that re-triggers it, and (b) **Thursday's Day-7 ankle re-test never happened** — so it moves into today, *before* you load anything. **You also asked to conventional deadlift today — the answer is no (see the chat / `logs/decisions/2026-06-05-conventional-deadlift-go-no-go.md`). Barbell hinge stays off; the nerve and ankle gates aren't cleared.** Do the three screens below first; they decide what your lower body does today.
+>
+> **Do these IN ORDER before any leg work today:**
+> 1. **PRI hip reset first (mandatory — you've missed two days):** 90/90 hip lift + all-fours belly lift, 4–5 slow full exhales × 2 rounds each. This pulls the sitting-triggered left-leg symptom back down before you load.
+> 2. **Nerve screen, unloaded:** sit and slump forward, straighten the left leg, tuck your chin (slump test); then a few slow bend-over-at-the-hips reps. **If you feel ANY shooting, tickling, or electric feeling down the left leg — front or back — that's the stop signal. The hinge is done for the day, no negotiation,** and tell me.
+> 3. **Ankle screen (the missed Day-7):** stand on a pillow, left foot, eyes closed — aim for ≥20 sec with only minor wobble. **Tell me how long you held it and *how* you lost it** (wobble / touch-down / sharp pinch at the outside ankle bone). A sharp outside-ankle-bone pinch = fail.
+>
+> **Both screens clean →** run the lower work below (left leg reintroduced, right quad on a pain-free ramp only). **Either one flags →** keep the left side light/out today and text me; we re-read at Sunday's check-in. **If you just want to *feel* a hinge:** an empty dowel or a light (≤30–50 lb) kettlebell, hips back, symptom-free only — that's groove practice, not a deadlift.
+
 **Fuel:** ≥150g carbs before you train — protein can lag, make it up after.
 
 ### Pre-bench reset (~10 min)
