@@ -306,6 +306,14 @@ Post-workout, athlete characterized the R-quad symptom more precisely:
 - This is the **documented chronic L nerve/AIC pattern** (L quad at depth — see 2026-05-26 and the positional/sitting-driven 2026-06-01 entry), reproduced here by loaded deep-flexion-to-extension (push-off out of the hole). **Nerve gate holds.** No new neurological deficit reported.
 - **Athlete to confirm at next check-in that it is "just weird," NOT weakness or numbness** — the distinction matters for nerve-gate status. Logged as unchanged chronic pattern pending that confirmation.
 
+### 2026-06-05 — Adherence Gap: Two Consecutive Days Zero PRI/Stabilizer Work + Missed Day-7 Ankle Gate (Reported Fri 6/5)
+
+**Context:** Reported Fri 6/5. Wed 6/3 (programmed rest/stabilizer) and Thu 6/4 (programmed apartment session + AM Day-7 ankle re-test) were BOTH missed. Athlete verbatim: "On Wednesday and Thursday realistically all I did was get 10k steps. I was very busy, didn't really do stabilizer routines each day, and had to skip yesterday's [Thursday's] workout." Activity = ~10k steps/day; no structured reset, stabilizer, or mobility work either day.
+
+- **Two consecutive days of zero PRI/stabilizer work during a high-sitting ("very busy") stretch = the documented re-trigger conditions stacked.** The reduce-with-movement → return-with-sitting cycle (see 2026-06-01 entry and Lifestyle Factors below) means the PRI reset is the protective dose that quiets the L quad/nerve symptom; two days with none of it + heavy sitting is exactly the setup that re-provokes it. No symptom report was given for 6/3–6/4 (athlete didn't self-screen), so the *state* of the L leg coming into Fri 6/5 is unknown — pre-loading relevance.
+- **Day-7 ankle re-test (Thu 6/4 AM) NEVER PERFORMED.** This was the proprioceptive gate conditioning full left-leg loading. **Last actual ankle reading is 5/30 Day-2 ("weird," not a clean reading)** — Day 3 (5/31), Day 4 (6/1), and Day 7 (6/4) are all missing. The gate was moved into Fri 6/5 as an in-session screen (PRI reset → unloaded nerve screen → eyes-closed cushion balance) before any leg loading.
+- **Pattern, not one-off:** rest-day / off-platform stabilizer + anti-sitting work remains the athlete's real adherence limiter (consistent prior pattern). Capturing faithfully; management/programming response is Head Coach / Mobility Agent's call. **Mobility red-flag status: NOT tripped** (no symptom or escalation reported — this is an adherence/data gap, not a new injury).
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up
