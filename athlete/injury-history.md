@@ -306,6 +306,19 @@ Post-workout, athlete characterized the R-quad symptom more precisely:
 - This is the **documented chronic L nerve/AIC pattern** (L quad at depth — see 2026-05-26 and the positional/sitting-driven 2026-06-01 entry), reproduced here by loaded deep-flexion-to-extension (push-off out of the hole). **Nerve gate holds.** No new neurological deficit reported.
 - **Athlete to confirm at next check-in that it is "just weird," NOT weakness or numbness** — the distinction matters for nerve-gate status. Logged as unchanged chronic pattern pending that confirmation.
 
+### 2026-06-05 — R-Quad Strain Graded-Ramp Re-Test FAILED (Leg Extension, Reported Sat 6/6)
+
+**Context:** Fri 6/5 Volume Bench + Lower session (Wk 2 Day 3, Ankle Day 8). Friday was the **scheduled graded-ramp re-test** for the 2026-06-02 cold-start R-quad strain (per the 6/2 management plan: "re-test FRIDAY on a ramp-up" and `program/this-week.md` Friday leg-extension gate #2). This sub-entry continues the **2026-06-02 R-quad strain thread** above — it is a primary right-side event, NOT a left-AIC compensation; keep them threaded for pattern-matching.
+
+- **Re-test result: FAILED.** Athlete verbatim (reported Sat 6/6 re: Fri 6/5): "my leg extension was painful on my right again." The R-quad symptom was **reproduced on the same movement** (loaded seated leg extension) that produced the original strain on 6/2.
+- **Interpretation:** The strain is **NOT cleared.** Still **load/contraction-provoked on the leg extension** ~3 days post-onset — consistent with the mild muscular-strain read from 6/2 (contraction/load-provoked, not pure ROM/position). Right-leg loading **stays out / light** until it's pain-free on a graded ramp; do not let the healthy left side load the hurt right side.
+- **Sequencing note:** per athlete's own ordering he did the **lying hamstring curl first**, then hit the painful leg extension — so the quad was the load-provoked failure point, hamstring curl reported without a pain note (L-leg neural status during curls not reported either way).
+- **Unknowns to confirm (Sun 6/7 check-in):**
+  1. Did he **ramp up** the leg extension (per the prescribed lower primer: sit-to-stands + 1–2 light ramp sets) or go **cold again** like 6/2? Materially changes the read — a failure on a proper ramp is worse news than a failure cold.
+  2. **Exactly when in the rep** did it hurt — the **stretched/deep-flexion bottom under load** (as 6/2), or elsewhere in the ROM?
+  3. **Character** — sharp (as 6/2) vs. ache?
+- **Mobility red-flag status: NOT tripped.** Localized R quad, no neuro deficit/shooting/numbness reported, no worsening-trend escalation described. BUT note the shift: this is no longer a single acute event with a pending re-test — it has now **failed its first re-test**, so it is a **non-cleared managed area**, not a resolving one. Re-evaluate the reload timeline at Sun 6/7; the graded-reload plan from 6/2 stands (relative rest, pain-free ROM only, no stretching into it, no loading through the painful range).
+
 ### 2026-06-05 — Adherence Gap: Two Consecutive Days Zero PRI/Stabilizer Work + Missed Day-7 Ankle Gate (Reported Fri 6/5)
 
 **Context:** Reported Fri 6/5. Wed 6/3 (programmed rest/stabilizer) and Thu 6/4 (programmed apartment session + AM Day-7 ankle re-test) were BOTH missed. Athlete verbatim: "On Wednesday and Thursday realistically all I did was get 10k steps. I was very busy, didn't really do stabilizer routines each day, and had to skip yesterday's [Thursday's] workout." Activity = ~10k steps/day; no structured reset, stabilizer, or mobility work either day.
