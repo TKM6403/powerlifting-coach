@@ -32,8 +32,8 @@ Training Max = a weight you could hit for a clean single on a good day at RPE 9.
 
 ## Current Block Performance Signals
 
-- Sleep average: 7
-- Recovery feel (1-10): 2 _(STALE — collected 5/25; FLAG: re-collect at the Sunday 6/7 check-in)_
+- Sleep average: ~6.5 _(week of 6/1–6/7; below the prior 7.0 baseline. tkm plans to increase next week. Updated 6/7.)_
+- Recovery feel (1-10): 2 _(STALE — collected 5/25; STILL not re-collected as of the 6/7 check-in — 3rd consecutive miss (6/5, 6/7). FLAG: collect at next contact. Program's overreaching/volume-cut input has been blind since 5/25.)_
 - Hunger/appetite trend: normal
 - Libido: normal
 - Mood: variable

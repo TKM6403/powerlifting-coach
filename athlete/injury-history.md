@@ -338,6 +338,31 @@ Post-workout, athlete characterized the R-quad symptom more precisely:
 - **Day-7 ankle re-test (Thu 6/4 AM) NEVER PERFORMED.** This was the proprioceptive gate conditioning full left-leg loading. **Last actual ankle reading is 5/30 Day-2 ("weird," not a clean reading)** — Day 3 (5/31), Day 4 (6/1), and Day 7 (6/4) are all missing. The gate was moved into Fri 6/5 as an in-session screen (PRI reset → unloaded nerve screen → eyes-closed cushion balance) before any leg loading.
 - **Pattern, not one-off:** rest-day / off-platform stabilizer + anti-sitting work remains the athlete's real adherence limiter (consistent prior pattern). Capturing faithfully; management/programming response is Head Coach / Mobility Agent's call. **Mobility red-flag status: NOT tripped** (no symptom or escalation reported — this is an adherence/data gap, not a new injury).
 
+### 2026-06-07 — Slump Re-Screen CLEAN (3rd Consecutive Non-Loaded Clean) + 2 Symptom-Free Runs + R-Quad Provocation Narrowed + Ankle Self-Declared Healed
+
+**Context:** Sun 6/7 weekly check-in (Wk 2 Day 4, Ankle Day 10). Carried the program-scheduled Sun slump re-screen (L nerve gate) + R-quad status read + ankle status. tkm also ran 6/7 (a new run on top of the 6/6 Day-9 clearance run).
+
+#### L nerve gate — 3rd consecutive CLEAN non-loaded reading (NOT cleared under load)
+- **Slump re-screen CLEAN.** Athlete verbatim: "no [tickling] at all from the slump test, it feels fine." No L-leg neural reproduction.
+- **Trend:** This is the **third consecutive clean NON-loaded nerve reading** — 6/1 (hinge + ASLR self-assessment battery both quiet) → 6/5 (in-session unloaded nerve/slump screen clean) → 6/7 (scheduled slump re-screen clean). Add **two symptom-free runs** (6/6, 6/7). The L-leg symptom has not been reproduced in any context for the back half of the week, despite the 6/3-6/4 zero-reset/high-sitting gap in between.
+- **EXPLICITLY NOT A CLEARED GATE.** Every clean reading to date has been **non-loaded / non-hinge.** The binding lock holding squat + all hinge/DL out of the program is the **loaded bend-over-at-the-hips position**, and that position has NOT been tested since the symptom was last reproduced (slump 5/26, axial SSB 5/26, ADL Valsalva 5/27). Three quiet non-loaded screens are a strong favorable trend but do not constitute clearance under load. **Gate-status / hinge-reintroduction is a Head Coach + Mobility Agent call** — bears directly on the Week 3 hinge-reintroduction decision. The right next step is a *graded loaded-hinge screen*, not an automatic gate-open.
+- FLAG MOBILITY / SBD: nerve gate trend favorable (3 clean non-loaded + 2 runs); gate NOT cleared under load. Decide Week-3 loaded-hinge screen.
+
+#### R-quad strain — provocation NARROWED, NOT cleared (no new loaded re-test 6/7)
+Continues the 2026-06-02 / 2026-06-05 R-quad strain thread (primary right-side event, NOT an L-AIC compensation — keep threaded).
+- **6/7 status:** **asymptomatic in daily life AND during running today;** provoked ONLY at the **bottom of a loaded leg extension** (deep flexion under load). Athlete verbatim: "no pain on the right quad at all or during running today - i only really feel it at the bottom of a leg extension."
+- **Read:** Narrowed vs. the 6/5 failed re-test — no daily-life or running symptom now, consistent with a strain calming in its resolution phase. But it is **still load/contraction-provoked at the lengthened (deep-flexion) bottom** — the exact provoking mechanism from 6/2 and 6/5. **NOT cleared on its provoking movement.**
+- **No new loaded re-test today** — leg extension was correctly removed from the Sunday plan (6/6 program edit), so 6/7 added no graded-ramp data. **The last actual loaded re-test (6/5) FAILED and stands as the most recent loaded read.** Right-leg loaded knee extension stays OUT until pain-free on a ramp; specifically avoid the deep-flexion bottom under load. Bears on the Week 3 R-quad reload decision.
+- **Mobility red-flag status: NOT tripped** (localized, no neuro deficit, improving daily-life trajectory).
+- FLAG MOBILITY: R-quad narrowing (asymptomatic ADL + running) but not cleared on loaded knee extension; gate the Week-3 reload, avoid loaded deep-flexion bottom.
+
+#### Ankle — self-declared 100% healed + tolerating impact (2 runs)
+- Athlete verbatim: "100% healed don't even worry about it." Ran 6/6 (Day-9 easy-run clearance) AND 6/7 — **symptom-free both days, ankle fine.** 6/7 run is a new impact data point on top of the 6/6 clearance; the proprioceptive gate (eyes-closed cushion balance) had already passed clean on 6/5.
+- **Trajectory complete for a Grade-I sprain:** 3 → 2-3 → 0-1 /10 (Days 0-2) → proprioceptive gate passed (6/5) → 2 symptom-free runs (6/6-6/7). FLAG MOBILITY: confirm whether to formally close the acute ankle-rehab phase and shift to maintenance (peroneal band + balance for the chronic instability substrate — the long-term re-sprain-prevention target, NOT to be dropped just because acute symptoms resolved).
+
+#### Unprogrammed weighted pull-up — well-tolerated (note)
+- tkm did weighted pull-ups (BW + 30 lb DB × 5, then BW × 8), not on the Sunday plan; "body felt completely good." No L-side or shoulder symptom reported. Earlier ankle jump/dismount-impact concern (5/29 weighted pull-ups, Day 1 post-sprain) is now moot with the ankle healed. Logged for the weak-point/lat picture; not an injury note.
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up

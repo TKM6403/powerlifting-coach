@@ -1,193 +1,169 @@
 # This Week
 
-**Week of:** 2026-06-01 (Mon) → 2026-06-07 (Sun)
-**Block week:** 2 of 4 — Reintroduction Accumulation
-**This week's schedule:** **Tue / Thu / Fri / Sun** (one-week override per gym access — **Tue + Fri + Sun = full gym** (barbell), **Thu = apartment gym** (cables + dumbbells only). Rest days: Mon, Wed, Sat.)
-**Session length target:** ~90 min each, warmup included. If you're running long, cut the last accessory.
+**Week of:** 2026-06-08 (Mon) → 2026-06-14 (Sun)
+**Block week:** 3 of 4 — Reintroduction Accumulation (this is the last push week — Week 4 is a deload)
+**This week's schedule:** **Tue / Thu / Sat / Sun** — **Tue + Sat + Sun = full gym** (barbell), **Thu = apartment gym** (cables + dumbbells only). Rest days: Mon, Wed, Fri.
+**Session length target:** ~90 min each, warmup included. If you're running long, cut the last accessory (trim order is listed at the bottom of each day).
 
 ---
 
 ## The big picture for this week (read this first)
 
-- **Bench leads the week** — heavy day (Tue) and volume day (Fri), both at the full gym, kept deliberately far apart in load so they do different jobs.
-- **Thursday (apartment) is upper-body cable/dumbbell work** — back + lat (your weak point) + rear delts + arms. No barbell pressing — keeps your left shoulder fresh for Friday's bench.
-- **Lower body comes back, including your left leg** — machine work only, where the knee bends or straightens. That's the movement we've confirmed doesn't aggravate the nerve. Right leg leads Tuesday; the left fully rejoins Friday after Thursday's ankle re-test.
-- **No squat, no deadlift, no hinging-over moves this week.** This is *not* about the ankle — the ankle is healing fast. It's the nerve. Bending forward at the hips still reproduces that shooting/tickle feeling down your left leg, and a squat or deadlift is exactly that position under heavy load. We don't load it until the bend-over stops setting it off. All three of your coaches landed on this independently.
-- **Ankle:** healing ahead of schedule, so we add the safe rebuild work (balance + band work). Your real lower-body loading lands on Day 8 (Fri) and later — plenty of healing time. But **no running, jumping, or hopping** until next week at the earliest. A chronically-rolling ankle re-sprains exactly when it feels fine — don't let 0/10 pain talk you into a run.
+- **Your hinge comes back this week — as the smallest possible test, not a deadlift.** Three clean nerve checks in a row (the slump test 6/1, 6/5, and today) is the best your left side has looked all block. That earns ONE light hinge movement: a light **Romanian deadlift** Tuesday, capped at ~95 lb. It's a *test*, not a training stimulus — we load it tiny, watch the left leg like a hawk, and only climb to anything heavier (trap bar) next week if it stays completely quiet. Read the "how to feel for the stop signal" notes on Tuesday carefully.
+- **Bench days are flipped this week — on purpose.** You told us you bench best on 2 days off (your Friday volume day beat your Tuesday heavy day last week, and Tuesday-heavy felt harder than you wanted). So **volume bench moves to Tuesday, heavy bench moves to Saturday** — and Saturday gets Thursday (no barbell pressing) + Friday (rest) ahead of it, which is your 2 days off. We're not chasing a heavier heavy day; we're letting the rest make 225 lb *feel* better.
+- **Your quads get fed — just not through the deep bottom.** The leg-extension machine stays out (it's the one that bites your right quad in the deep-bent position). Instead you'll do a **depth-limited leg press** (or belt/pendulum squat if your gym has one) through the *top half* of the range only. We also re-test the leg-extension machine itself on Saturday to see if it's healed.
+- **Pre-bench full-body set is in** (you asked for it) — but the light version: set your whole body in the bench position with *light* tension, NOT a hard arch or hard leg drive yet. Those stay parked until your nerve clears under load. More on why in Tuesday's notes.
+- **Ankle's cleared — running's in.** Easy pace, even surfaces only (track / treadmill / smooth path — NOT broken sidewalk or curbs, that's exactly what rolled it), bump your mileage by no more than ~10% week to week, and no hopping or jumping yet. The peroneal band work and balance drills stay in your warmups — that's permanent maintenance for an ankle that's rolled before, not something we drop once it feels fine.
+
+**One honest thing:** all of this rides on you actually doing the daily reset/anti-sitting work this week. The two days you skipped it last week (Wed/Thu) nearly re-lit the left leg. In a week where we're finally loading a hinge, skipping the resets means loading it on an already-irritated nerve. Non-negotiable this week.
 
 ---
 
-## Monday 6/1 — Rest / Stabilizer Routine + Ankle Day 4 check  *(~20 min)*
+## Daily — every day, training or rest
 
-> **Note (added 6/2): this Day-4 ankle check was MISSED** — Monday's email served a stale plan, and the Day-3 check was missed too. That makes **Thursday's Day-7 re-test the first ankle reading since 5/30** — treat it conservatively: if it's borderline, it fails.
+**Daily reset (the move that quiets your left leg):** 90/90 hip lift + all-fours belly lift, 4–5 slow full exhales × 2 rounds.
+- **90/90 hip lift:** on your back, feet flat up on a wall or chair, knees and hips both bent ~90°, tuck your tailbone an inch off the floor (don't arch), breathe ALL the way out. Feel the backs of your thighs and lower belly — not your low back.
+- **All-fours belly lift:** hands and knees, round your upper back, breathe all the way out and gently draw your belly up toward your spine.
 
-### Ankle re-test (~3 min — this is Day 4)
-1. Pain at rest — should be 0–0.5/10.
-2. Walk around — any limp? (Brace optional indoors now.)
-3. **Single-leg balance, left foot, eyes OPEN, 30 sec.** Should feel easy today.
-4. **NEW — single-leg balance, left foot, eyes CLOSED, on a cushion/pillow, up to 30 sec.** Harder — that's the point. Note how long you hold it and *how* you lose it (wobble vs. touch-down vs. sharp pinch). Tell me at check-in.
+**Anti-sitting (every day, including training days):** every hour you're seated, stand up and do 10 glute squeezes or a 30-sec left couch stretch (kneel with your left shin against a wall/couch, right foot forward, push your hips forward and squeeze the left glute). This is what knocks the left-leg symptom back down — re-dose it after any long sit, *especially* before you train.
 
-*If pain jumps back, swelling returns, or you get sharp pain at the outside ankle bone → stop adding steps, text me.*
+---
+
+## Monday 6/8 — Rest / Stabilizer Routine  *(~20 min)*
 
 ### Stabilizer routine, 2 rounds
 | Exercise | Sets | Reps | Notes |
 |---|---|---|---|
-| **PRI hip reset — do these FIRST: 90/90 hip lift + all-fours belly lift** | 2 rounds each | 4–5 breaths | 90/90: on your back, feet flat up on a wall/chair, knees + hips bent ~90°, tuck your tailbone an inch off the floor (don't arch), breathe ALL the way out — feel the backs of your thighs + lower belly, not your low back. All-fours: hands and knees, round your upper back, exhale fully, draw your belly up. This is the move that resets your left hip and quiets your left leg. |
+| **PRI hip reset FIRST: 90/90 hip lift + all-fours belly lift** | 2 rounds each | 4–5 breaths | See the daily reset description above. This comes first, always. |
 | Dead bug | 2 | 8 per side | On back, arms up, knees bent 90°. Lower opposite arm + leg, low back glued to floor. |
 | Banded clamshell, left first | 2 | 12 per side | Side-lying, band above knees, feet together, open the top knee. Feel the outside of the hip. |
-| Single-leg glute bridge, left foot planted | 2 | 10 | Drive through the left heel, right leg lifted. (Foot flat = no balance demand — fine.) |
+| Single-leg glute bridge, left foot planted | 2 | 10 | Drive through the left heel, right leg lifted. |
 | Bird dog | 2 | 8 per side | Hands and knees, opposite arm + leg, hips square, 1–2 sec hold. |
 | Standing Pallof press | 2 | 10 per side | Band/cable at chest height to one side, press straight out, resist the twist. |
 | Regressed Copenhagen, left top first | 2 | 15–30 sec | Side-lying, top knee on a bench, bottom leg hovering. Feel the inner thigh. |
-| **NEW — eyes-closed single-leg balance on a cushion, left foot** | 3 | up to 30 sec | Stand on a pillow, left foot, eyes closed. Proprioception rebuild for the rolling ankle. Hold something nearby for safety. |
-
-**Anti-sitting (every day — including training days):** every hour you're seated, stand and do 10 glute squeezes or a 30-sec left couch stretch. This is what knocks the left-leg symptom back down — re-dose it after any long sit, especially before you train.
+| Eyes-closed single-leg balance on a cushion, left foot | 3 | up to 30 sec | Stand on a pillow, left foot, eyes closed. Proprioception rebuild for the ankle. Hold something nearby for safety. |
 
 ---
 
-## Tuesday 6/2 — Heavy Bench + Lower (full gym)  *(~85 min — Ankle Day 5)*
+## Tuesday 6/9 — Volume Bench + Hinge Debut + Lower (full gym)  *(~90 min)*
 
-**Fuel:** ≥150g carbs before you train (a big bowl of oats + a banana, or two bagels) — protein can lag, make it up after. Two-part session today: sip water + electrolytes throughout, and grab a fast carb (banana/dates) in the gap between gyms so the second half isn't run on empty.
+**Fuel:** ≥150g carbs before you train (a big bowl of oats + a banana, or two bagels) — protein can lag, make it up after.
 
-**Quick glossary:** *RPE 7* = 3 reps left in the tank. *RPE 8* = 2 reps left. *Wide-ish grip* = thumbs about a fist-width outside shoulder-width. *Neutral grip* = palms facing each other. *Capped depth* = stop before the point pain starts.
+**Quick glossary:** *RPE 7* = 3 reps left in the tank. *RPE 8* = 2 reps left. *RPE 5* = very easy, ~5 left. *Wide-ish grip* = thumbs about a fist-width outside shoulder-width. *Neutral grip* = palms facing each other.
 
-### Pre-bench reset (~10 min)
+### Pre-session reset (~10 min)
+1. **Hip reset first** — 90/90 hip lift + all-fours belly lift, 4–5 full exhales × 2 rounds each. (You've been training — do these even if you feel fine.)
+2. **Left-shoulder opener** — all-fours breathing into your left back ribs (round the upper back, breathe out fully, breathe in only to *just before* any pinch — never into it, put the effort on the full exhale, drop the long reaching arm). 2 rounds. Then banded left-lat stretch 30 sec × 2 + band pull-aparts ×15.
+3. **Peroneal band work, left ankle, 2×15** — band around the *outside* of your left foot anchored to your right; push your foot outward against it, slow. Protects against the ankle rolling.
 
-**Step 0 — Hip reset FIRST (~3 min), before the shoulder work:**
-1. **90/90 hip lift** — on your back, feet flat up on a wall or chair, knees and hips both bent to ~90°. Tuck your tailbone an inch off the floor (don't arch), breathe ALL the way out. Feel the backs of your thighs and your lower belly — not your low back. 4–5 breaths × 2 rounds.
-2. **All-fours belly lift** — hands and knees, round your upper back slightly, breathe all the way out and gently draw your belly up toward your spine. 4–5 breaths × 2 rounds.
-*Why: this is the move that quieted your left leg — it resets your left hip out of its forward-tipped position. Do it before the drive over too, on any day you've been sitting.*
+### FIRST loaded movement — the hinge test (do this BEFORE bench, while you're fresh)
 
-**Step 1 — left-shoulder opener** (targets the wall test that was worse Sunday):
-1. **All-fours breathing into your left back ribs** — hands and knees, round your upper back like a cat, breathe all the way out, reach your LEFT arm long forward along the floor and breathe IN trying to feel the air expand into the left side of your back/ribs. 4–5 breaths × 3 rounds. *(Why: the left side of your ribcage sits "stuck up," which tethers your lat and blocks the overhead reach your wall test fails.)*
-2. **Banded left-lat stretch** — band anchored overhead, hold with your LEFT hand, step back and hinge slightly to feel the stretch down the side of your left ribs/lat. Breathe out into it. 30 sec × 2.
-3. **Re-do the wall test** — back flat to wall, palms turned away, reach the backs of your hands toward the wall. If the left reaches better after the drill, the restriction is loosen-able. Note it.
-- Band pull-aparts (15) + band face pulls (12).
-- **Peroneal band work, left ankle, 2×15** — band around the *outside* of your left foot anchored to your right; push your foot outward against it, slow. Rebuilds the muscle that protects against rolling.
-
-### Working sets
+> **This is the big one this week. Read it before you start.**
+>
+> **Step 1 — slump pre-screen (mandatory):** sit, slump forward, straighten your left leg, tuck your chin. Then do 3–4 slow unloaded bend-over-at-the-hips reps. **If you feel ANY shooting, tickling, or electric feeling down the left leg — front or back — STOP. The hinge is out for the day, no negotiation.** Drop straight to the hamstring curls below and text me.
+> **Step 2 — only if that's clean, do the Romanian deadlift below.**
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Competition bench, wide-ish grip — top set | 1 | 5 | RPE 7, work up to ~215–225 lb | **Block plan is RPE 7 this week — stop with a clean 3 reps in the tank.** Work up and only take 225 lb (~102.5 kg) if it genuinely stays RPE 7 with 3 left; if it grinds, ~215 lb is your top. Legs flat, no hard leg drive. Rack it if bar speed dies on rep 3 or elbows flare out of control. |
-| Competition bench — back-off sets | 2 | 5 | RPE 6–7, ~185–195 lb | Clearly lighter than the top set, 3+ in the tank, keep the bar moving. |
-| Dumbbell shoulder press, neutral grip, both arms | 2 | 8–10 | RPE 8, ~45–50 lb (leave 2 — do NOT push to failure) | Don't lock out; stop with elbows slightly bent. **Switch to one arm at a time immediately if any sharp pinch in your left chest, front shoulder, or elbow.** |
-| Seated leg extension | 3 | 10 | RPE 8 last set | **6/2: CANCELLED today — right-quad strain.** (Normally: right leg leads, left stays light; full left reintro is Friday; don't lock the knee hard at the top.) Resume next leg day only if pain-free on a light ramp-up. |
-| Lying hamstring curl (knee bending only) | 3 | 10 per leg | RPE 8 (leave 1–2 — do NOT grind) | Start LEFT, light. Confirmed-safe for the nerve. **STOP that leg immediately on any shooting/tickling down the back of the thigh.** |
+| **Romanian deadlift (RDL) — light** | 3 | 8 | RPE ≤5, **hard cap ~95 lb total** (a light kettlebell held at your chest, or a light dumbbell in each hand) | **Stand tall, soft knees, push your hips STRAIGHT BACK like you're closing a car door with your butt.** Let the weight slide down the front of your thighs, keep your back flat (NOT rounded), feel a stretch in your hamstrings, then stand back up by driving your hips forward. Slow and controlled. **This is a nerve probe, not a workout — keep it light.** Breathe out as you stand up; do NOT hold your breath and bear down. **STOP the moment you feel any shooting/tickle/electric feeling down the left leg, or any click in the left hip under load.** |
 
-*(No calf today — seated calf returns Friday once the Day-7 ankle gate clears.)*
+**The morning-after rule:** even if it feels fine in the gym, pay attention tomorrow morning. If the leg's quiet today AND tomorrow, that's a real green light and the trap bar earns its way in next week. If it's quiet today but barks tomorrow, tell me — we hold here and re-dose the resets.
 
-**Before any leg work — 2-min lower primer (NEW, don't skip):** 10 bodyweight sit-to-stands through a pain-free range, then 1–2 light ramp-up sets on the leg-extension machine before your first working set. **Never start a leg extension cold** — that's exactly how the right quad got tweaked today.
+### Bench + lower
 
-**Hard stops:** sharp left chest/shoulder/elbow pinch → set's done. Left hip click mid-session → rack, text me. Any shooting down the left leg → stop that move.
+**Pre-bench full-body set (NEW — the light version you asked for):** before your bench work sets, set your whole body up on the bench the way you'd press — feet planted, **light** glute and leg tension (~25–30%, just enough to feel grounded and connected, NOT pushing), trunk braced like someone's about to tap your stomach (firm, not maximal), shoulder blades pulled down and back. **No hard arch. No bearing down/holding your breath. No explosive leg drive.** We're grooving the *pattern* light now; the hard leg drive and arch stay parked until your left nerve clears under load and the right quad is pain-free — a hard arch + held breath is the same gated position, just from the bench. Rehearse it on a couple of warmup-bar reps.
 
-**Cool down:** banded left-lat stretch 45 sec; nerve flossing (lie on back, pull left knee to chest, alternate point/flex the foot with chin tuck) 10 slow reps below pain; 5–10 min easy walk.
+| Exercise | Sets | Reps | RPE / Load | Notes |
+|---|---|---|---|---|
+| Competition bench, wide-ish grip — top set | 1 | **10** | RPE 7–8, **~87.5 kg (~193 lb)** | This is your VOLUME day. **Same weight as last week, one more rep (9→10) — that's the progression. If 10 won't move cleanly, stop at 9 and keep the weight; do NOT add load.** Keep the bar moving, rack if speed dies. |
+| Competition bench — back-off sets | 2 | 9 | RPE 7, **~80 kg (~176 lb)** | Clearly lighter than the top set, 3 in the tank, crisp reps. |
+| Lying hamstring curl (knee bending only), left first | 3 | 10–12 per leg | RPE 8 (leave 1–2 — do NOT grind) | Start LEFT, light. Confirmed-safe for the nerve. **STOP that leg immediately on any shooting/tickling down the back of the thigh.** |
+| Seated calf raise | 2 | 12–15 | RPE 8 | Seated only. Ankle's cleared, but seated keeps the load steady. |
 
----
+**Hard stops:** any shooting down the left leg → stop that move. Left hip click under load → rack, text me. Sharp left chest/shoulder/elbow pinch on bench → that set's done.
 
-## Wednesday 6/3 — Rest / Stabilizer Routine + Ankle  *(~20 min)*
+**Trim order if over time:** seated calf first, then a set off the hamstring curl. Never cut the RDL test or the bench.
 
-### Stabilizer routine, 2 rounds
-| Exercise | Sets | Reps | Notes |
-|---|---|---|---|
-| **PRI hip reset — do these FIRST: 90/90 hip lift + all-fours belly lift** | 2 rounds each | 4–5 breaths | 90/90: on your back, feet flat up on a wall/chair, knees + hips bent ~90°, tuck your tailbone an inch off the floor (don't arch), breathe ALL the way out — feel the backs of your thighs + lower belly, not your low back. All-fours: hands and knees, round your upper back, exhale fully, draw your belly up. This is the move that resets your left hip and quiets your left leg. |
-| Dead bug | 2 | 8 per side | On back, arms up, knees bent 90°. Lower opposite arm + leg, low back glued to floor. |
-| Banded clamshell, left first | 2 | 12 per side | Side-lying, band above knees, feet together, open the top knee. Feel the outside of the hip. |
-| Single-leg glute bridge, left foot planted | 2 | 10 | Drive through the left heel, right leg lifted. (Foot flat = no balance demand — fine.) |
-| Bird dog | 2 | 8 per side | Hands and knees, opposite arm + leg, hips square, 1–2 sec hold. |
-| Standing Pallof press | 2 | 10 per side | Band/cable at chest height to one side, press straight out, resist the twist. |
-| Regressed Copenhagen, left top first | 2 | 15–30 sec | Side-lying, top knee on a bench, bottom leg hovering. Feel the inner thigh. |
-| Eyes-closed single-leg balance on a cushion, left foot | 3 | up to 30 sec | Stand on a pillow, left foot, eyes closed. Proprioception rebuild for the rolling ankle. Hold something nearby for safety. |
-
-**Anti-sitting (every day — including training days):** every hour you're seated, stand and do 10 glute squeezes or a 30-sec left couch stretch. This knocks the left-leg symptom back down — re-dose it after any long sit.
+**Cool down:** banded left-lat stretch 45 sec; nerve flossing (lie on back, pull left knee to chest, alternate point/flex the foot with a chin tuck) 10 slow reps below pain; 5–10 min easy walk.
 
 ---
 
-## Thursday 6/4 — Apartment Gym: Back + Lat + Rear Delt + Arms  *(~60 min — Ankle Day 7)*
+## Wednesday 6/10 — Rest / Stabilizer Routine  *(~20 min)*
 
-### Morning ankle re-test (~3 min — this is the Day 7 gate for Friday's left-leg work)
-1. Normal walking, unbraced indoors — no pain, no limp?
-2. Eyes-closed cushion balance, left — held ≥20 sec with only minor wobble?
-3. Peroneal band work felt fine all week (no outside-ankle pain)?
+Same stabilizer routine as Monday (PRI reset first, then the full 2-round circuit). **Plus the daily reset + anti-sitting** — this is the day between your hinge test (Tue) and heavy bench (Sat), so keep the left leg quiet.
 
-- **All three yes → your left leg comes fully back Friday** on leg ext + hamstring curl, and seated calf is cleared.
-- **Any one fails** → keep the left side light Friday too, text me.
+---
+
+## Thursday 6/11 — Apartment Gym: Back + Lat + Rear Delt + Arms  *(~60 min)*
+
+No barbell today — keeps your left shoulder fresh for Saturday's heavy bench.
 
 ### Warmup (~7 min)
-**Modified left-shoulder opener** (per the 6/2 rear-delt pinch): all-fours breathing into your left back ribs — but **only breathe in to just before the pinch, never into it**, and put your effort on the **full exhale** (blow all the way out, ribs down). **Drop the long reaching arm** for now — just breathe. **2 rounds.** Then banded left-lat stretch (30 sec × 2) + wall-test re-check + band pull-aparts (15) + **peroneal band work, left, 2×15** (band around the outside of the left foot, push outward, slow).
-*If the breath still pinches even staying short of it → skip the all-fours breath, just do the lat stretch + bands, and tell me at check-in.*
+**Modified left-shoulder opener:** all-fours breathing into your left back ribs — breathe in only to just before the pinch, never into it, put the effort on the **full exhale**, drop the long reaching arm. **2 rounds.** Then banded left-lat stretch (30 sec × 2) + band pull-aparts (15) + **peroneal band work, left, 2×15** (band around the outside of the left foot, push outward, slow).
 
-### Working sets (TKO 9050 cable machine + dumbbells)
+### Working sets (cable machine + dumbbells)
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
 | Seated cable row | 3 | 10 | RPE 8, ~100–135 lb | **Weak-point priority — the left lat.** Low cable, V-handle. Pull to your sternum, elbows track back to your ribs, don't shrug. |
-| Kneeling high cable pull-down (sub for lat pulldown — no pulldown station here) | 3 | 10 | RPE 8 | Straight bar or rope on the HIGH cable, kneel on both knees facing the machine, lean back slightly, pull to upper chest. Same lat stimulus as a pulldown. |
-| Cable face pull | 3 | 15 | RPE 8 — fine to push (safe isolation) | Mid-height cable, rope. Pull toward your forehead, elbows HIGH and OUT, squeeze the rear delts. |
-| Seated single-arm cable lateral raise | 2 | 15 per side | RPE 8 | Sitting (no standing balance demand). Slow on the way down (3 sec). Shoulders are your priority. |
-| Hammer curl, one dumbbell at a time (left first) | 2 | 10 per arm | RPE 8 — fine to push | Palms facing each other. |
-| Rope triceps pushdown | 2 | 12–15 | RPE 8 — fine to push (safe isolation) | High cable, rope handle. Elbows pinned to your sides, push down until your arms are straight, spread the rope at the bottom, slow on the way up. Take the last set near failure. *(Restored — got dropped in the rewrite.)* |
+| Kneeling high cable pull-down | 3 | 10 | RPE 8 | Straight bar or rope on the HIGH cable, kneel on both knees facing the machine, lean back slightly, pull to upper chest. Same lat stimulus as a pulldown. |
+| Cable face pull | 3 | 15 | RPE 8 — fine to push | Mid-height cable, rope. Pull toward your forehead, elbows HIGH and OUT, squeeze the rear delts. |
+| Seated single-arm cable lateral raise, left first | 2 | 15 per side | RPE 8 | Sitting (no balance demand). Slow on the way down (3 sec). Shoulders are your priority. |
+| Hammer curl, one dumbbell at a time, left first | 2 | 10 per arm | RPE 8 — fine to push | Palms facing each other. |
+| Rope triceps pushdown | 2 | 12–15 | RPE 8 — fine to push | High cable, rope. Elbows pinned to your sides, push to straight, spread the rope at the bottom, slow on the way up. Last set near failure. |
 
-### Post-session
-Eyes-closed cushion balance, left, 3 × up to 30 sec. Note duration + how you lose it.
+**Trim order if over time:** rope pushdown first, then hammer curl, then the 2nd lateral raise.
 
 ---
 
-## Friday 6/5 — Volume Bench + Lower (full gym, left leg back)  *(~80 min — Ankle Day 8)*
+## Friday 6/12 — Rest / Stabilizer Routine  *(~20 min)*
 
-> **Note (added 6/5): Wed + Thu were missed — no stabilizer/PRI both days, Thursday's workout skipped, lots of sitting.** That means (a) you've had two days with none of the reset work that quiets the left leg, plus the sitting that re-triggers it, and (b) **Thursday's Day-7 ankle re-test never happened** — so it moves into today, *before* you load anything. **You also asked to conventional deadlift today — the answer is no (see the chat / `logs/decisions/2026-06-05-conventional-deadlift-go-no-go.md`). Barbell hinge stays off; the nerve and ankle gates aren't cleared.** Do the three screens below first; they decide what your lower body does today.
->
-> **Do these IN ORDER before any leg work today:**
-> 1. **PRI hip reset first (mandatory — you've missed two days):** 90/90 hip lift + all-fours belly lift, 4–5 slow full exhales × 2 rounds each. This pulls the sitting-triggered left-leg symptom back down before you load.
-> 2. **Nerve screen, unloaded:** sit and slump forward, straighten the left leg, tuck your chin (slump test); then a few slow bend-over-at-the-hips reps. **If you feel ANY shooting, tickling, or electric feeling down the left leg — front or back — that's the stop signal. The hinge is done for the day, no negotiation,** and tell me.
-> 3. **Ankle screen (the missed Day-7):** stand on a pillow, left foot, eyes closed — aim for ≥20 sec with only minor wobble. **Tell me how long you held it and *how* you lost it** (wobble / touch-down / sharp pinch at the outside ankle bone). A sharp outside-ankle-bone pinch = fail.
->
-> **Both screens clean →** run the lower work below (left leg reintroduced, right quad on a pain-free ramp only). **Either one flags →** keep the left side light/out today and text me; we re-read at Sunday's check-in. **If you just want to *feel* a hinge:** an empty dowel or a light (≤30–50 lb) kettlebell, hips back, symptom-free only — that's groove practice, not a deadlift.
+Same stabilizer routine (PRI reset first, then the full circuit) + daily reset + anti-sitting. **This is your 2nd day off pressing before Saturday's heavy bench — that's the point.** Keep the left leg quiet so Saturday's bench setup is clean.
+
+---
+
+## Saturday 6/13 — Heavy Bench + Right-Quad Re-Test + Lower (full gym)  *(~85 min)*
 
 **Fuel:** ≥150g carbs before you train — protein can lag, make it up after.
 
-### Pre-bench reset (~10 min)
-Same as Tuesday: **Step 0 hip reset first** (90/90 hip lift + all-fours belly lift, ~3 min), then the left-shoulder opener + band pull-aparts + face pulls + peroneal band work.
+This is your heavy day, and it's getting your 2 days off ahead of it. The goal is **better reps at the same weight**, not a heavier weight — we're cashing in the rest, not the risk.
 
-### Working sets
+### Pre-session reset (~10 min)
+Same as Tuesday: hip reset first (90/90 + all-fours belly lift), then the left-shoulder opener + band pull-aparts + peroneal band work.
+
+### FIRST — right-quad re-test (do this fresh, before bench)
+
+> The right quad failed its last re-test (6/5) — it still hurts at the deep-bent bottom of a loaded leg extension. We re-test it once this week, properly warmed up.
+>
+> **The ramp:** 10 bodyweight sit-to-stands (pain-free range) → 1 very light set on the leg-extension machine through the full range → if that's clean, 1 light working set, full range including the bottom.
+> - **Pain-free through the whole range, both pushing up and lowering down → PASS.** Tell me — light partial leg extensions can come back next session.
+> - **Any sharp pain at the deep-bent bottom (either direction) → FAIL.** Stop, skip the leg extension, move to the leg press below. Text me.
+
+### Bench + lower
+
+**Pre-bench full-body set:** same light version as Tuesday (light grounded tension, braced neutral trunk, shoulder blades set — no hard arch, no held breath, no explosive leg drive).
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Competition bench, wide-ish grip — top set | 1 | **9** | RPE 7–8, **~87.5 kg (~193 lb)** | This is your VOLUME day — different job than Tuesday. **If it feels easy, you add a rep next week, you do NOT add weight.** Adding weight is Tuesday's job. Keep the bar moving; rack if speed dies. |
-| Competition bench — back-off sets | 2 | 9 | RPE 7, **~80 kg (176 lb)** | Two back-offs (last week you did one — bring the second back). Each clearly lighter than the top. |
-| Seated leg extension | 3 | 10–12 | RPE 8, ~95 lb | **TWO gates now: (1)** left comes fully back only if you passed Thursday's Day-7 ankle re-test; **(2)** right comes back only if the quad strain (from 6/2) is pain-free on a light ramp-up. If either side fails its gate, that side stays light/out — don't let the healthy side load the hurt one. Ramp every set from light; don't lock out hard. |
-| Lying hamstring curl — left first | 3 | 10 per leg | RPE 8 (leave 1–2) | Slow down-phase. Same hard stop: any shooting/tickling down the left leg → stop that leg. |
-| Seated calf raise | 2 | 12 | RPE 8 | Seated only (standing still too much ankle motion under load this week). Cleared if Day-7 gate passed. |
+| Competition bench, wide-ish grip — top set | 1 | 5 | target RPE 7, **~102.5 kg (~225 lb)** | **Hold the weight, win the reps.** Same top weight as last week — the 2 days off should make it feel better. If it grinds toward RPE 8 again (2 left), that's your ceiling — stop there. Only if it genuinely floats at RPE 6–7 (3+ left) with good speed may you take one small jump to ~105 kg — not required. Rack if bar speed dies; no grinding this block. |
+| Competition bench — back-off sets | 2 | 5 | RPE 6–7, **~90 kg (~198 lb)** | Clearly lighter, crisp reps. |
+| Dumbbell shoulder press, neutral grip, both arms | 2 | 8–10 | RPE 8, ~45–50 lb (leave 2 — do NOT fail) | Don't lock out; stop with elbows slightly bent. **Switch to one arm at a time immediately on any sharp pinch in your left chest, front shoulder, or elbow, or if the left elbow flares uneven.** |
+| **Depth-limited leg press (quad work)** | 3 | 10 | RPE 8 last set | **Top HALF of the range only — do NOT sink into a deep knee bend.** Set a hard stop well short of the deep position (that's the spot that bites the right quad). Ramp up from light. **Stop the instant anything sharpens at the bottom of your range.** *(Belt squat or pendulum squat works the same way if your gym has one — top half only, light, same stop rule.)* |
+| Lying hamstring curl, left first | 2 | 10 per leg | RPE 8 (leave 1–2) | Slow down-phase. Same stop signal: any shooting/tickling down the left leg → stop that leg. |
 
-**Before any leg work — 2-min lower primer (don't skip):** 10 bodyweight sit-to-stands (pain-free range), then 1–2 light ramp-up sets on the machine before your first working set. Never start a leg extension cold.
+**Hard stops:** sharp left chest/shoulder/elbow pinch → set's done. Left hip click under load → rack, text me. Any shooting down the left leg → stop that move. Sharp right-quad pain at the bottom of the leg press → stop, that move's done.
+
+**Trim order if over time:** hamstring curl first, then DB shoulder press.
 
 **Cool down:** banded left-lat stretch 45 sec; nerve flossing 10 reps; easy walk.
 
 ---
 
-## Saturday 6/6 — Rest / Stabilizer Routine + Ankle  *(~20 min)*
-
-### Stabilizer routine, 2 rounds
-| Exercise | Sets | Reps | Notes |
-|---|---|---|---|
-| **PRI hip reset — do these FIRST: 90/90 hip lift + all-fours belly lift** | 2 rounds each | 4–5 breaths | 90/90: on your back, feet flat up on a wall/chair, knees + hips bent ~90°, tuck your tailbone an inch off the floor (don't arch), breathe ALL the way out — feel the backs of your thighs + lower belly, not your low back. All-fours: hands and knees, round your upper back, exhale fully, draw your belly up. This is the move that resets your left hip and quiets your left leg. |
-| Dead bug | 2 | 8 per side | On back, arms up, knees bent 90°. Lower opposite arm + leg, low back glued to floor. |
-| Banded clamshell, left first | 2 | 12 per side | Side-lying, band above knees, feet together, open the top knee. Feel the outside of the hip. |
-| Single-leg glute bridge, left foot planted | 2 | 10 | Drive through the left heel, right leg lifted. (Foot flat = no balance demand — fine.) |
-| Bird dog | 2 | 8 per side | Hands and knees, opposite arm + leg, hips square, 1–2 sec hold. |
-| Standing Pallof press | 2 | 10 per side | Band/cable at chest height to one side, press straight out, resist the twist. |
-| Regressed Copenhagen, left top first | 2 | 15–30 sec | Side-lying, top knee on a bench, bottom leg hovering. Feel the inner thigh. |
-| Eyes-closed single-leg balance on a cushion, left foot | 3 | up to 30 sec | Stand on a pillow, left foot, eyes closed. Proprioception rebuild for the rolling ankle. Hold something nearby for safety. |
-
-**Anti-sitting (every day — including training days):** every hour you're seated, stand and do 10 glute squeezes or a 30-sec left couch stretch. This knocks the left-leg symptom back down — re-dose it after any long sit.
-
----
-
-## Sunday 6/7 — Back + Shoulders Accessory + Weekly Check-In (full gym)  *(~65 min — Ankle Day 10)*
+## Sunday 6/14 — Back + Shoulders Accessory + Weekly Check-In (full gym)  *(~60 min)*
 
 **Fuel:** ≥150g carbs before you train — protein can lag, make it up after.
 
-A lighter accessory day to round out the week's back/shoulder volume (your weak point), plus the check-in. No heavy comp bench today — your two pressing days were Tue + Fri.
+A lighter day to round out the week's back/shoulder volume (your weak point), plus the check-in.
 
 ### Warmup (~7 min)
 Left-shoulder opener + band pull-aparts + peroneal band work.
@@ -196,60 +172,47 @@ Left-shoulder opener + band pull-aparts + peroneal band work.
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Chest-supported machine row OR seated cable row | 3 | 10 | RPE 8, ~135 lb | Second back exposure — left lat. Chest on the pad, elbows back to ribs, don't shrug. |
-| Reverse pec deck or face pull (rear delts) | 3 | 15 | RPE 8 — fine to push | Elbows high and out. |
-| Seated single-arm cable lateral raise | 2 | 15 per side | RPE 8 | Slow down-phase. |
-| Optional: lying ham curl, light (LEFT leg leads) | 2 | 12 per leg | RPE 7 | Pump-y lower finisher. **Knee-bending curl only — NO leg extension today.** Your right thigh hurt again on the leg-extension machine Friday (the same spot as 6/2), so the machine that straightens the knee is OUT until it's pain-free. Same stop signal as always: any shooting/tickling down the left leg → stop that leg. Cut this whole finisher first if you're over time or tired. |
+| **Weighted pull-up — top set** | 1 | 5–6 | RPE 8, **start ~+30 lb** (a dumbbell held between your feet/knees) | **We progress this top set week to week** — this week start near where you were today (+30 lb × 5 felt good). Get on and off the bar with a **box/step, not a jump** — step up to start, controlled step-down to finish (keeps impact off the ankle). Pull your chest toward the bar, control the way down. This is your best back-width builder for the left lat. |
+| Weighted pull-up — back-off sets | 2 | 8–10 | RPE 8 | Lighter or bodyweight, more reps. Same box-entry / step-down. |
+| Reverse pec deck or face pull (rear delts) | 3 | 15 | RPE 8 — fine to push | Elbows high and out, squeeze the rear delts. |
+| Seated single-arm cable lateral raise, left first | 2 | 15 per side | RPE 8 | Slow down-phase. Shoulders are the priority — earning the frequency. |
 
 ### Then — weekly check-in
-- **Slump test, ONCE** (seated nerve-tension test — slump forward, straighten the leg, tuck the chin). Tells us if the nerve is calming. **Only today — never before a workout.**
-- Dump how the week went: what felt good/bad, any pain, the ankle re-test numbers (duration + failure mode), bodyweight. We do the weekly synthesis and build week 3.
+- **Slump test, ONCE** (seated nerve-tension test — slump forward, straighten the left leg, tuck the chin). Tells us if the nerve's still calm after a week with a loaded hinge in it. **Only today — never before a workout.**
+- Dump how the week went: how the RDL hinge felt (in-session AND the next morning), how heavy bench felt with the 2 days off, the right-quad re-test result, **bodyweight (please actually weigh in), recovery feel 1–10, average sleep.** We do the weekly synthesis and build Week 4 (the deload).
+
+**Trim order if over time:** 2nd lateral-raise set, then a pull-up back-off set. Never cut the top pull-up set or the slump test.
 
 ---
 
 ## Volume Summary
 
-- **Bench:** 3 heavy sets (Tue: 1 top + 2 back-off) + 3 volume sets (Fri) — heavy/volume split with a deliberate ~15 kg gap.
-- **Lower (knee-dominant only):** ~6 quad + ~6 hamstring-curl sets, left side reintroduced Friday.
-- **Hinge / deadlift:** 0 — held out on the nerve.
-- **Back:** ~9 row/pulldown sets across Thu + Sun (weak-point priority). **Shoulders/rear delt:** lateral raises + face pulls Thu + Sun. **Arms:** hammer curl + rope pushdown Thu.
+- **Bench:** 3 volume sets (Tue: 1×10 + 2×9) + 3 heavy sets (Sat: 1×5 + 2×5) — volume/heavy split with a ~15 kg gap, bench days spaced 2 rest days apart.
+- **Hinge:** ONE light RDL session (Tue, ≤95 lb, 3×8) — the first loaded hinge of the block, run as a nerve test. Trap bar held to Week 4+ pending a clean read.
+- **Lower (knee work):** ~5 hamstring-curl sets (knee-flexion, nerve-safe) + depth-limited leg press 3×10 (quad, top-range only) + seated calf. Leg-extension machine out, re-tested Sat.
+- **Back:** ~6 row/pulldown sets (Thu) + weighted pull-up (Sun) — weak-point priority. **Shoulders/rear delt:** DB press (Sat) + lateral raises + face pulls (Thu + Sun). **Arms:** hammer curl + rope pushdown (Thu).
 
 ---
 
-## Supersetting Rules (for this block)
+## Week 3 Stop Conditions
 
-No formal supersets required this week (the apartment day and Sunday are already lean). If you want to save time, you may pair the seated lateral raise + rear-delt work back-to-back on Thu/Sun — rest 60–90 sec between rounds. Don't superset main lifts. Don't add new supersets ad-hoc.
-
----
-
-## Week 2 Stop Conditions
-
-- **Any shooting/tickling down the left leg** on any move → stop that move.
-- **Left hip click on a loaded movement** (not just cat-cow) → stop, text me.
-- **Ankle:** pain past ~3/10, swelling returns, or sharp outside-ankle-bone pain → stop lower work, ice, text me.
+- **Any shooting/tickling/electric feeling down the left leg** on any move (especially the RDL) → stop that move, text me.
+- **Left hip click on a loaded movement** → stop, text me.
+- **Right quad: sharp pain at the deep-bent bottom** of the leg press or leg-extension re-test → stop that move.
 - **Sharp left chest/shoulder/elbow pinch on press** → that set's done.
-- **Right quad (NEW 6/2 strain): sharp pain at the bottom/stretched position of any knee movement** → stop that move. The right leg is a managed area until it's pain-free on a ramp-up.
-- **Recovery feel ≤3/10 two sessions running** → mandatory 30% volume cut next session.
+- **Ankle:** sharp outside-ankle-bone pain on running or any move → stop, that's the re-sprain warning.
 - **Bench bar speed dies** → rack it, don't grind. (No grinding reps this block.)
-- **NEW NEURO RED FLAG:** any weakness, numbness, tingling that lingers, or the leg symptom getting *worse* instead of better → stop and escalate to a doctor/PT. Not optional.
+- **Recovery feel ≤3/10 two sessions running** → mandatory 30% volume cut next session. (We finally re-collect this number at the 6/14 check-in — it's been stale since 5/25.)
+- **NEURO RED FLAG:** any weakness, numbness, tingling that lingers, or the leg symptom getting *worse* instead of better → stop and escalate to a doctor/PT. Not optional.
 
 ---
 
 ## Week Modifications Log
 
-- 2026-05-25: Trimmed Week 1 volume per tkm — RDL Mon cut, tempo bench Tue cut, accessories trimmed to 1-2 priority pieces per session, three intentional supersets added.
-- 2026-05-25: Squat: front squat → SSB (tkm reconsidered; SSB available). Sleeves yes, beltless Wk 1.
-- 2026-05-25: Cut Zercher split squat per "low coordination only" feedback. Replaced with unilateral leg extension 2×10/leg, 1-sec pause at top (lengthened-position emphasis per Schoenfeld hypertrophy lit).
-- 2026-05-25: Sat — swapped B-stance RDL → weighted pull-up 2×8 per tkm.
-- 2026-05-25: Deadlift: trap bar → conventional (tkm preference); top set lightened ~285 lb.
-- 2026-05-25: One-week schedule override per tkm — Tue/Wed/Fri/Sun for Wk 1; returns to standard Mon/Tue/Thu/Sat in Wk 2.
-- 2026-05-26: Tue squat modified, then aborted mid-warmup → pivoted to lower-body hypertrophy. Three stacked stop signals (slump positive, new L hip click, L quad pain didn't warm out, posterior nerve shoot reproduced under load). Decision logs: `logs/decisions/2026-05-26-left-side-pre-squat-symptoms.md`, session log `logs/sessions/2026-05-26.md`.
-- 2026-05-26/27: Bench restructured per athlete pushback on sub-RPE work — heavy day (top 1×5, calibrated 100 kg) + volume day; DB OHP bilateral monitoring; close-grip cut. Decision basis in `logs/sessions/2026-05-27.md`.
-- 2026-05-28: Acute L Grade I lateral ankle sprain + chronic lateral ankle instability documented. Fri DL cancelled; Path A permanent additions locked (peroneal banding, eyes-closed balance, hop-and-stick, suitcase carry — phased to ankle clearance). Rest-day sections moved to inline format per adherence gap.
-- 2026-05-29: Fri → seated upper pull (ankle Day 1); Sun → bench + R-only lower block (ankle Day 3).
-- 2026-05-31: Sun volume-day bench re-repped (8 reps, wider load separation from heavy day) per athlete. Conventional DL request declined (nerve + ankle gates). Decision log `logs/decisions/2026-05-31-conventional-deadlift-go-no-go.md`.
-- **2026-05-31: Week 2 built — three-agent synthesis (SBD + Mobility + Aesthetics), athlete buy-in obtained.** Bench-led week (heavy 102.5 kg / volume 87.5 kg, ~15 kg gap to hold the split; volume reps ramp 8→9, "add a rep not weight"; 2nd back-off restored). Squat + all hinge/DL HELD — nerve gate (bodyweight hinge still reproduces symptom) is the binding lock, independent of the fast-clearing ankle. Lower = knee-dominant only; L leg light early, formally reintroduced on the lower day after the Day-7 ankle re-test. Ankle: peroneal banding + eyes-closed cushion balance accelerated to this week (clearing ahead of Grade-I schedule); impact work (run/hop) held to Wk 3+. NEW movement approved (propose-then-write, tkm buy-in): L posterior-shoulder/lat opener (PRI all-fours apical expansion + banded lat distraction; sources PRI L-pattern + Quinn Henoch/Juggernaut) replacing the pre-bench pec-minor slot. Aesthetics' prone Y-raise proposed but DECLINED by tkm (kept lean). Compliance fix: hard "leave 2 reps" caps where caps protect tissue (L ham curl, DB OHP); failure permitted only on safe isolation. Disagreement surfaced: SBD wanted L lower early, Mobility gated formal L re-intro to Day 7 — resolved via calendar (light L early, full L on the post-gate lower day). Full decision log: `logs/decisions/2026-05-31-week-2-plan.md`.
-- **2026-05-31: Schedule override for Wk 2 per tkm gym access — Tue/Thu/Fri/Sun (was Mon/Tue/Thu/Sat). Tue/Fri/Sun = full gym (barbell), Thu = apartment gym (cables + DBs only).** Day map: Tue = heavy bench + lower (R-led, L light, Day 5); Thu = apartment back/lat/rear-delt/arms (no barbell, keeps L shoulder fresh; Day-7 ankle re-test AM); Fri = volume bench + lower (L fully reintroduced, Day 8); Sun = back/shoulder accessory + weekly check-in + slump re-screen (Day 10). Lower-machine work kept on full-gym days (apartment assumed to lack leg-ext/curl machines — pending athlete confirmation). Pressing kept to Tue + Fri only (L shoulder protection). Seated calf returns Fri after Day-7 gate; standing calf still cut.
-- **2026-06-02: Full multi-agent audit (all 5 specialists) + mid-session fixes.** (1) Tue heavy bench reconciled to the block's Week-2 RPE 7 (was written RPE 8) — work up, 225 lb only if it stays RPE 7 with 3 in the tank. (2) **PRI hip reset restored** (90/90 hip lift + all-fours belly lift) — dropped in the Wk2 rewrite though "daily PRI" was the intent; now Step 0 on Tue/Fri pre-bench resets + first item in the Mon/Wed/Sat stabilizer routine. (3) **Rope triceps pushdown restored** (2×12–15, Thursday) — Volume Summary claimed it ("folded into press days") but it wasn't written anywhere. (4) **Lower-body warmup primer added** before leg work Tue/Fri — its absence strained the right quad cold today. (5) **NEW right-quad strain** (first primary right-side injury) — quads cancelled 6/2; Friday leg work now gated on BOTH sides. (6) Volume Summary corrected (Tue bench "6 sets"→3; arms line). (7) ≥150g pre-training carb + intra-session fuel notes added to Tue/Fri/Sun. (8) Anti-sitting elevated to daily incl. training days. (9) Volume bench day is **Friday** this week (was labeled "Sat" in the 5/31 build). Bodyweight updated 185.0 (6/2). Decision log: `logs/decisions/2026-06-02-week-2-audit.md`.
-- **2026-06-06: Sun 6/7 optional lower finisher — leg extension REMOVED (R-side), ham-curl-only.** R-quad strain (6/2) reproduced on leg extension Fri 6/5 → its graded-ramp re-test FAILED (injury-history 2026-06-05). Right-leg loading stays out/light; the knee-extension machine is out until pain-free on a ramp. Sunday finisher kept as optional lying ham curl (knee-flexion, L leads, nerve stop signal stands).
-- **2026-06-06: Pre-bench "full-body set" primer — PROPOSED, not yet written (awaiting tkm buy-in).** Per athlete feedback (lower body not primed for leg drive on Fri bench). SBD + Mobility synthesis: add an *isometric* full-body set (rehearse warmup bar reps in full press setup + 360° brace + light planted-foot/glute tension ~25–30%), NOT propulsive leg drive. **Mobility RED FLAG upheld: hard leg drive + arch HELD** until the L nerve gate opens on loaded testing AND the R quad is pain-free on a ramp (arch = lumbar extension into a Valsalva-positive gate; leg drive = the quad's provoking contraction). To be baked into the Week 3 build at the 6/7 check-in after buy-in. Decision log: `logs/decisions/2026-06-06-bench-fullbody-set.md`.
+- 2026-05-25: Trimmed Week 1 volume per tkm — RDL Mon cut, tempo bench Tue cut, accessories trimmed, three intentional supersets added. Squat front→SSB; deadlift trap→conventional; one-week Tue/Wed/Fri/Sun override.
+- 2026-05-26/27: Tue squat aborted mid-warmup (stacked stop signals); bench restructured to heavy + volume split per athlete pushback on sub-RPE work.
+- 2026-05-28: Acute L Grade I lateral ankle sprain + chronic lateral ankle instability documented. Fri DL cancelled; ankle rebuild path (peroneal banding, eyes-closed balance) phased to clearance.
+- 2026-05-31: Week 2 built — three-agent synthesis. Bench-led week; squat + all hinge/DL HELD on the nerve gate. Schedule override Tue/Thu/Fri/Sun. Decision log `logs/decisions/2026-05-31-week-2-plan.md`.
+- 2026-06-02: Full 5-specialist audit — Tue heavy reconciled to RPE 7; PRI hip reset restored; lower-body warmup primer added; NEW right-quad strain (cold-start leg extension); Friday leg work gated both sides. Decision log `logs/decisions/2026-06-02-week-2-audit.md`.
+- 2026-06-05/06: R-quad strain graded re-test FAILED (still load-provoked at the deep-flexion bottom, both directions; lockout fine) → leg-extension machine OUT, not just light. Three Fri pre-load screens clean. Day-9 easy-run pulled forward on the passed proprioceptive ankle gate.
+- **2026-06-07: Week 3 built — four-agent synthesis (Logging + SBD + Mobility + Aesthetics) at the Sunday check-in, athlete buy-in obtained.** Headline: **loaded-hinge reintroduction begins** (3rd consecutive clean NON-loaded nerve screen: 6/1, 6/5, 6/7 slump). **SBD ↔ Mobility disagreement surfaced:** SBD proposed a 3-rung ladder reaching a light trap-bar deadlift within the week; Mobility ruled trap bar OUT this week (3 non-loaded clean reads ≠ loaded clearance) and capped Week 3 at Rung 1 only — light KB/DB RDL ≤95 lb, 3×8, slump pre-screen + hard abort, one day, first in session, read the next 48 h. **Head Coach sided with Mobility** (can't override a Mobility red flag); trap bar earns Week 4 only on a clean read. **Bench days flipped** (volume Tue / heavy Sat) to exploit the athlete's "2 days off → better bench" signal; heavy day holds 102.5 kg and earns rep quality from the rest, not load. Volume day +1 rep (9→10) at 87.5 kg per "add a rep not weight." **Pre-bench full-body ISOMETRIC priming set added** (athlete-approved 6/6) — low static tension only; Mobility RED FLAG upheld: hard leg drive + arch HELD until loaded nerve clearance AND R-quad ramp-clear. **R-quad:** leg-extension machine OUT; depth-limited leg press (top-half ROM, quad-sparing) added for quad stimulus per athlete concern about quad atrophy; leg-ext machine re-tested Sat on a full ramp (pass → partial top-range returns next session). **Weighted pull-up** approved as Sunday lead (progressing top set + back-offs, box entry/step-down to spare the ankle) per athlete; chest-supported row was the lean alternative. Ankle cleared for impact (≤10%/wk, even surfaces, no hopping); peroneal band + balance retained as permanent maintenance. Recovery-feel re-collection flagged for the 6/14 check-in (stale since 5/25). Sleep ~6.5 h flagged. Aesthetics kept lean per standing feedback (no padding). Full decision log: `logs/decisions/2026-06-07-week-3-plan.md`.
