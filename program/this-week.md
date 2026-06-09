@@ -2,7 +2,7 @@
 
 **Week of:** 2026-06-08 (Mon) → 2026-06-14 (Sun)
 **Block week:** 3 of 4 — Reintroduction Accumulation (this is the last push week — Week 4 is a deload)
-**This week's schedule:** **Tue / Thu / Sat / Sun** — **Tue + Sat + Sun = full gym** (barbell), **Thu = apartment gym** (cables + dumbbells only). Rest days: Mon, Wed, Fri.
+**This week's schedule:** **Tue / Thu / Fri / Sun** — **Tue + Fri + Sun = full gym** (barbell), **Thu = apartment gym** (cables + dumbbells only). Rest days: Mon, Wed, Sat.
 **Session length target:** ~90 min each, warmup included. If you're running long, cut the last accessory (trim order is listed at the bottom of each day).
 
 ---
@@ -10,7 +10,7 @@
 ## The big picture for this week (read this first)
 
 - **Your hinge comes back this week — as the smallest possible test, not a deadlift.** Three clean nerve checks in a row (the slump test 6/1, 6/5, and today) is the best your left side has looked all block. That earns ONE light hinge movement: a light **Romanian deadlift** Tuesday, capped at ~95 lb. It's a *test*, not a training stimulus — we load it tiny, watch the left leg like a hawk, and only climb to anything heavier (trap bar) next week if it stays completely quiet. Read the "how to feel for the stop signal" notes on Tuesday carefully.
-- **Bench days are flipped this week — on purpose.** You told us you bench best on 2 days off (your Friday volume day beat your Tuesday heavy day last week, and Tuesday-heavy felt harder than you wanted). So **volume bench moves to Tuesday, heavy bench moves to Saturday** — and Saturday gets Thursday (no barbell pressing) + Friday (rest) ahead of it, which is your 2 days off. We're not chasing a heavier heavy day; we're letting the rest make 225 lb *feel* better.
+- **Bench days are flipped this week — on purpose.** You told us you bench best on 2 days off (your Friday volume day beat your Tuesday heavy day last week, and Tuesday-heavy felt harder than you wanted). So **volume bench moves to Tuesday, heavy bench moves to Friday** — and Friday gets Wednesday (rest) + Thursday (apartment, no barbell pressing) ahead of it, which is your 2 days off. That's the exact setup that gave you your best bench last week. We're not chasing a heavier heavy day; we're letting the rest make 225 lb *feel* better.
 - **Your quads get fed — just not through the deep bottom.** The leg-extension machine stays out (it's the one that bites your right quad in the deep-bent position). Instead you'll do a **depth-limited leg press** (or belt/pendulum squat if your gym has one) through the *top half* of the range only. We also re-test the leg-extension machine itself on Saturday to see if it's healed.
 - **Pre-bench full-body set is in** (you asked for it) — but the light version: set your whole body in the bench position with *light* tension, NOT a hard arch or hard leg drive yet. Those stay parked until your nerve clears under load. More on why in Tuesday's notes.
 - **Ankle's cleared — running's in.** Easy pace, even surfaces only (track / treadmill / smooth path — NOT broken sidewalk or curbs, that's exactly what rolled it), bump your mileage by no more than ~10% week to week, and no hopping or jumping yet. The peroneal band work and balance drills stay in your warmups — that's permanent maintenance for an ankle that's rolled before, not something we drop once it feels fine.
@@ -65,7 +65,13 @@
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| **Romanian deadlift (RDL) — light** | 3 | 8 | RPE ≤5, **hard cap ~95 lb total** (a light kettlebell held at your chest, or a light dumbbell in each hand) | **Stand tall, soft knees, push your hips STRAIGHT BACK like you're closing a car door with your butt.** Let the weight slide down the front of your thighs, keep your back flat (NOT rounded), feel a stretch in your hamstrings, then stand back up by driving your hips forward. Slow and controlled. **This is a nerve probe, not a workout — keep it light.** Breathe out as you stand up; do NOT hold your breath and bear down. **STOP the moment you feel any shooting/tickle/electric feeling down the left leg, or any click in the left hip under load.** |
+| **Romanian deadlift (RDL) — light** | 3 | 8 | RPE ≤5, **~95 lb TOTAL is the hard ceiling — not the target** | **Stand tall, soft knees, push your hips STRAIGHT BACK like you're closing a car door with your butt.** Let the weight slide down the front of your thighs, keep your back flat (NOT rounded), feel a stretch in your hamstrings, then stand back up by driving your hips forward. Slow and controlled. **This is a nerve probe, not a workout — keep it light.** Breathe out as you stand up; do NOT hold your breath and bear down. **STOP the moment you feel any shooting/tickle/electric feeling down the left leg, or any click in the left hip under load.** |
+
+> **What "95 lb total" means / what to load it on:** 95 lb is the **whole load added together**, and it's a *ceiling*, not a goal.
+> - **Best option — a barbell.** Cleanest RDL groove (the bar slides right down your thighs, easy to keep a flat back). **Start with just the empty 45 lb bar for set 1.** Only build toward ~95 lb total (the bar + a 25 lb plate on each side) across your sets if the leg stays completely quiet. If you're at all unsure, stay at the empty bar all three sets — that's a totally fine first exposure.
+> - **Dumbbells instead?** ~45–50 lb in **each** hand (that's ~90–100 lb total). **NOT 95 lb in each hand** — that would be ~190 lb, far too heavy for a nerve test.
+> - **A single kettlebell/dumbbell held at your chest** also works, anything up to ~95 lb.
+> The point isn't the weight — it's finding out whether a loaded hip-hinge keeps the left leg quiet. Lighter-and-clean beats heavier every time here.
 
 **The morning-after rule:** even if it feels fine in the gym, pay attention tomorrow morning. If the leg's quiet today AND tomorrow, that's a real green light and the trap bar earns its way in next week. If it's quiet today but barks tomorrow, tell me — we hold here and re-dose the resets.
 
@@ -90,7 +96,7 @@
 
 ## Wednesday 6/10 — Rest / Stabilizer Routine  *(~20 min)*
 
-Same stabilizer routine as Monday (PRI reset first, then the full 2-round circuit). **Plus the daily reset + anti-sitting** — this is the day between your hinge test (Tue) and heavy bench (Sat), so keep the left leg quiet.
+Same stabilizer routine as Monday (PRI reset first, then the full 2-round circuit). **Plus the daily reset + anti-sitting** — this is the first of your 2 days off pressing before Friday's heavy bench, and it sits between your hinge test (Tue) and heavy bench (Fri), so keep the left leg quiet.
 
 ---
 
@@ -116,13 +122,7 @@ No barbell today — keeps your left shoulder fresh for Saturday's heavy bench.
 
 ---
 
-## Friday 6/12 — Rest / Stabilizer Routine  *(~20 min)*
-
-Same stabilizer routine (PRI reset first, then the full circuit) + daily reset + anti-sitting. **This is your 2nd day off pressing before Saturday's heavy bench — that's the point.** Keep the left leg quiet so Saturday's bench setup is clean.
-
----
-
-## Saturday 6/13 — Heavy Bench + Right-Quad Re-Test + Lower (full gym)  *(~85 min)*
+## Friday 6/12 — Heavy Bench + Right-Quad Re-Test + Lower (full gym)  *(~85 min)*
 
 **Fuel:** ≥150g carbs before you train — protein can lag, make it up after.
 
@@ -159,6 +159,12 @@ Same as Tuesday: hip reset first (90/90 + all-fours belly lift), then the left-s
 
 ---
 
+## Saturday 6/13 — Rest / Stabilizer Routine  *(~20 min)*
+
+Same stabilizer routine (PRI reset first, then the full circuit) + daily reset + anti-sitting. You benched heavy yesterday and the check-in's tomorrow — keep the left leg quiet and let the legs recover.
+
+---
+
 ## Sunday 6/14 — Back + Shoulders Accessory + Weekly Check-In (full gym)  *(~60 min)*
 
 **Fuel:** ≥150g carbs before you train — protein can lag, make it up after.
@@ -187,10 +193,10 @@ Left-shoulder opener + band pull-aparts + peroneal band work.
 
 ## Volume Summary
 
-- **Bench:** 3 volume sets (Tue: 1×10 + 2×9) + 3 heavy sets (Sat: 1×5 + 2×5) — volume/heavy split with a ~15 kg gap, bench days spaced 2 rest days apart.
+- **Bench:** 3 volume sets (Tue: 1×10 + 2×9) + 3 heavy sets (Fri: 1×5 + 2×5) — volume/heavy split with a ~15 kg gap, heavy day spaced 2 days off pressing (Wed rest + Thu no-press) ahead of it.
 - **Hinge:** ONE light RDL session (Tue, ≤95 lb, 3×8) — the first loaded hinge of the block, run as a nerve test. Trap bar held to Week 4+ pending a clean read.
-- **Lower (knee work):** ~5 hamstring-curl sets (knee-flexion, nerve-safe) + depth-limited leg press 3×10 (quad, top-range only) + seated calf. Leg-extension machine out, re-tested Sat.
-- **Back:** ~6 row/pulldown sets (Thu) + weighted pull-up (Sun) — weak-point priority. **Shoulders/rear delt:** DB press (Sat) + lateral raises + face pulls (Thu + Sun). **Arms:** hammer curl + rope pushdown (Thu).
+- **Lower (knee work):** ~5 hamstring-curl sets (knee-flexion, nerve-safe) + depth-limited leg press 3×10 (quad, top-range only) + seated calf. Leg-extension machine out, re-tested Fri.
+- **Back:** ~6 row/pulldown sets (Thu) + weighted pull-up (Sun) — weak-point priority. **Shoulders/rear delt:** DB press (Fri) + lateral raises + face pulls (Thu + Sun). **Arms:** hammer curl + rope pushdown (Thu).
 
 ---
 
@@ -215,4 +221,4 @@ Left-shoulder opener + band pull-aparts + peroneal band work.
 - 2026-05-31: Week 2 built — three-agent synthesis. Bench-led week; squat + all hinge/DL HELD on the nerve gate. Schedule override Tue/Thu/Fri/Sun. Decision log `logs/decisions/2026-05-31-week-2-plan.md`.
 - 2026-06-02: Full 5-specialist audit — Tue heavy reconciled to RPE 7; PRI hip reset restored; lower-body warmup primer added; NEW right-quad strain (cold-start leg extension); Friday leg work gated both sides. Decision log `logs/decisions/2026-06-02-week-2-audit.md`.
 - 2026-06-05/06: R-quad strain graded re-test FAILED (still load-provoked at the deep-flexion bottom, both directions; lockout fine) → leg-extension machine OUT, not just light. Three Fri pre-load screens clean. Day-9 easy-run pulled forward on the passed proprioceptive ankle gate.
-- **2026-06-07: Week 3 built — four-agent synthesis (Logging + SBD + Mobility + Aesthetics) at the Sunday check-in, athlete buy-in obtained.** Headline: **loaded-hinge reintroduction begins** (3rd consecutive clean NON-loaded nerve screen: 6/1, 6/5, 6/7 slump). **SBD ↔ Mobility disagreement surfaced:** SBD proposed a 3-rung ladder reaching a light trap-bar deadlift within the week; Mobility ruled trap bar OUT this week (3 non-loaded clean reads ≠ loaded clearance) and capped Week 3 at Rung 1 only — light KB/DB RDL ≤95 lb, 3×8, slump pre-screen + hard abort, one day, first in session, read the next 48 h. **Head Coach sided with Mobility** (can't override a Mobility red flag); trap bar earns Week 4 only on a clean read. **Bench days flipped** (volume Tue / heavy Sat) to exploit the athlete's "2 days off → better bench" signal; heavy day holds 102.5 kg and earns rep quality from the rest, not load. Volume day +1 rep (9→10) at 87.5 kg per "add a rep not weight." **Pre-bench full-body ISOMETRIC priming set added** (athlete-approved 6/6) — low static tension only; Mobility RED FLAG upheld: hard leg drive + arch HELD until loaded nerve clearance AND R-quad ramp-clear. **R-quad:** leg-extension machine OUT; depth-limited leg press (top-half ROM, quad-sparing) added for quad stimulus per athlete concern about quad atrophy; leg-ext machine re-tested Sat on a full ramp (pass → partial top-range returns next session). **Weighted pull-up** approved as Sunday lead (progressing top set + back-offs, box entry/step-down to spare the ankle) per athlete; chest-supported row was the lean alternative. Ankle cleared for impact (≤10%/wk, even surfaces, no hopping); peroneal band + balance retained as permanent maintenance. Recovery-feel re-collection flagged for the 6/14 check-in (stale since 5/25). Sleep ~6.5 h flagged. Aesthetics kept lean per standing feedback (no padding). Full decision log: `logs/decisions/2026-06-07-week-3-plan.md`.
+- **2026-06-07: Week 3 built — four-agent synthesis (Logging + SBD + Mobility + Aesthetics) at the Sunday check-in, athlete buy-in obtained.** Headline: **loaded-hinge reintroduction begins** (3rd consecutive clean NON-loaded nerve screen: 6/1, 6/5, 6/7 slump). **SBD ↔ Mobility disagreement surfaced:** SBD proposed a 3-rung ladder reaching a light trap-bar deadlift within the week; Mobility ruled trap bar OUT this week (3 non-loaded clean reads ≠ loaded clearance) and capped Week 3 at Rung 1 only — light KB/DB RDL ≤95 lb, 3×8, slump pre-screen + hard abort, one day, first in session, read the next 48 h. **Head Coach sided with Mobility** (can't override a Mobility red flag); trap bar earns Week 4 only on a clean read. **Bench days flipped** (volume Tue / heavy Fri) to exploit the athlete's "2 days off → better bench" signal; heavy day holds 102.5 kg and earns rep quality from the rest, not load. *(6/8: heavy moved Sat→Fri per athlete — Fri gets Wed rest + Thu no-press ahead of it, mirroring last week's best-bench setup, and avoids a Sat/Sun back-to-back. Schedule now Tue/Thu/Fri/Sun. RDL load clarified: ~95 lb TOTAL ceiling, start at the empty 45 lb bar.)* Volume day +1 rep (9→10) at 87.5 kg per "add a rep not weight." **Pre-bench full-body ISOMETRIC priming set added** (athlete-approved 6/6) — low static tension only; Mobility RED FLAG upheld: hard leg drive + arch HELD until loaded nerve clearance AND R-quad ramp-clear. **R-quad:** leg-extension machine OUT; depth-limited leg press (top-half ROM, quad-sparing) added for quad stimulus per athlete concern about quad atrophy; leg-ext machine re-tested Sat on a full ramp (pass → partial top-range returns next session). **Weighted pull-up** approved as Sunday lead (progressing top set + back-offs, box entry/step-down to spare the ankle) per athlete; chest-supported row was the lean alternative. Ankle cleared for impact (≤10%/wk, even surfaces, no hopping); peroneal band + balance retained as permanent maintenance. Recovery-feel re-collection flagged for the 6/14 check-in (stale since 5/25). Sleep ~6.5 h flagged. Aesthetics kept lean per standing feedback (no padding). Full decision log: `logs/decisions/2026-06-07-week-3-plan.md`.
