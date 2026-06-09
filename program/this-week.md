@@ -55,6 +55,7 @@
 1. **Hip reset first** — 90/90 hip lift + all-fours belly lift, 4–5 full exhales × 2 rounds each. (You've been training — do these even if you feel fine.)
 2. **Left-shoulder opener** — all-fours breathing into your left back ribs (round the upper back, breathe out fully, breathe in only to *just before* any pinch — never into it, put the effort on the full exhale, drop the long reaching arm). 2 rounds. Then banded left-lat stretch 30 sec × 2 + band pull-aparts ×15.
 3. **Peroneal band work, left ankle, 2×15** — band around the *outside* of your left foot anchored to your right; push your foot outward against it, slow. Protects against the ankle rolling.
+4. **Lower-body primer (~2–3 min — don't bench or hinge on cold legs):** 10 bodyweight sit-to-stands (stand up / sit down from a bench, controlled) + 10 bodyweight squats to a comfortable depth *(a deep BODYWEIGHT squat is fine for the right quad — it's only LOADED deep flexion that bites it)* + 10 single-leg glute bridges per side, or banded glute activation (wakes up the left glute). *Why: warms your legs and glutes so they're online for the RDL and your bench base. This is the warmup, NOT hard leg drive — real drive stays held (see the full-body set note below).* The empty-bar RDL sets that follow finish warming the posterior chain.
 
 ### FIRST loaded movement — the hinge test (do this BEFORE bench, while you're fresh)
 
@@ -129,7 +130,7 @@ No barbell today — keeps your left shoulder fresh for Saturday's heavy bench.
 This is your heavy day, and it's getting your 2 days off ahead of it. The goal is **better reps at the same weight**, not a heavier weight — we're cashing in the rest, not the risk.
 
 ### Pre-session reset (~10 min)
-Same as Tuesday: hip reset first (90/90 + all-fours belly lift), then the left-shoulder opener + band pull-aparts + peroneal band work.
+Same as Tuesday: hip reset first (90/90 + all-fours belly lift), then the left-shoulder opener + band pull-aparts + peroneal band work, then the **lower-body primer** (10 bodyweight sit-to-stands + 10 bodyweight squats to a comfortable depth + 10 single-leg glute bridges/side or banded glute activation) so you're not benching or testing the quad on cold legs.
 
 ### FIRST — right-quad re-test (do this fresh, before bench)
 
