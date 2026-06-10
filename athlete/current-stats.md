@@ -33,7 +33,7 @@ Training Max = a weight you could hit for a clean single on a good day at RPE 9.
 ## Current Block Performance Signals
 
 - Sleep average: ~6.5 _(week of 6/1–6/7; below the prior 7.0 baseline. tkm plans to increase next week. Updated 6/7.)_
-- Recovery feel (1-10): 2 _(STALE — collected 5/25; STILL not re-collected as of 6/9 — 5th consecutive miss (6/5, 6/7, 6/8, 6/9). FLAG: collect at next contact. Program's overreaching/volume-cut input has been blind since 5/25.)_
+- Recovery feel (1-10): **7–8** _(collected 6/9 — FIRST live number since 5/25, which was a stale 2/10. Well clear of the ≤3/10 volume-cut threshold. Recovering well; no overreaching flag.)_
 - **Volume-bench marker (6/9):** comp bench 90 kg (~198 lb) × 10 top set + 2×10 @ 80 kg — beat last week's volume day (87.5 kg × 9). Ran ~2.5 kg above the prescribed 87.5 and added a rep on the back-offs; moved cleanly, "not terrible." Not a 1RM/TM change — logged as a volume-day progression signal.
 - Hunger/appetite trend: normal
 - Libido: normal
