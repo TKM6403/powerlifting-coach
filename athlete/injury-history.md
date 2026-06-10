@@ -363,6 +363,33 @@ Continues the 2026-06-02 / 2026-06-05 R-quad strain thread (primary right-side e
 #### Unprogrammed weighted pull-up — well-tolerated (note)
 - tkm did weighted pull-ups (BW + 30 lb DB × 5, then BW × 8), not on the Sunday plan; "body felt completely good." No L-side or shoulder symptom reported. Earlier ankle jump/dismount-impact concern (5/29 weighted pull-ups, Day 1 post-sprain) is now moot with the ankle healed. Logged for the weak-point/lat picture; not an injury note.
 
+### 2026-06-09 — LOADED-HINGE DEBUT: L-Leg Nerve Symptom REPRODUCED UNDER LOAD (first loaded reproduction since 5/27) — Stop Signal Overridden
+
+**Context:** Tue 6/9 Volume Bench + Hinge Debut + Lower (Wk 3 Day 1). This was the **graded loaded-hinge screen** that the three consecutive clean non-loaded readings (6/1, 6/5, 6/7) earned — run as a nerve probe, not a training stimulus, per the 6/7 Week-3 decision. The binding lock holding squat/DL out has always been the *loaded* bend-over-at-the-hips position; this is the first time that position has been tested under load since the symptom was last reproduced (slump 5/26, axial SSB 5/26, ADL Valsalva 5/27). Continues the L nerve-gate thread.
+
+#### L-leg neural symptom reproduced under loaded hinge
+- **Movement:** light dumbbell Romanian deadlift, **50 lb each hand (~100 lb total)** — at the top of the prescribed acceptable DB range (Rx was empty-bar start / ~95 lb TOTAL ceiling, 3×8, RPE ≤5).
+- **Slump pre-screen:** athlete proceeded to load, implying the mandatory pre-screen was clean (not explicitly itemized — confirm).
+- **Symptom:** **"slight tickle down my left calf"** during the RDL sets. This is the **named hard-abort stop signal** (any shooting/tickling/electric down the L leg). Same neural character as the prior L posterior-chain reproductions, now localized distally to the **L calf** under a loaded hip-hinge.
+- **Significance:** **First loaded reproduction of the L-leg nerve symptom since 5/27.** The three clean readings that preceded it (6/1, 6/5, 6/7) were all non-loaded — exactly the caveat logged at the time ("NOT a cleared gate; every clean reading to date has been non-loaded"). The loaded hinge reproduced it on first real exposure. **The loaded-bend-over nerve gate is NOT cleared.**
+
+#### Stop signal OVERRIDDEN (third time on record this pattern repeats)
+- Head Coach called an immediate hard stop on the hinge. **Athlete continued anyway** — reported the tickle "disappeared on final set, it was nothing" and finished **50s × 10 reps** (vs. the prescribed 8), focusing on the L side / squeezing the glute. So the symptom was trained *through*, and load-exposure continued (more reps than prescribed) after the abort criterion fired.
+- **This repeats the 5/26 pattern** (three stop calls overridden in one session; posterior L hamstring shoot ultimately reproduced under load). For pattern-matching: the athlete's in-session read of a nerve symptom as "nothing" has been unreliable before — the symptom has historically quieted in-session and re-presented later. The protocol stop is on a *tickle* precisely because of this.
+
+#### Head Coach ruling
+- **"Symptom-under-load, then faded" = NOT a clean pass.** The symptom appearing at all under load IS the read; its fading by the final set does not convert it to a pass. **Loaded hinge HOLDS** — trap-bar advancement for Week 4 is OFF (it was conditioned on a completely clean read in-session AND a quiet next morning). Re-probe later after more reset/single-leg-glute work.
+- **The morning-after (6/10 AM) L-calf/leg read is the actual verdict** and is the key OPEN UNKNOWN: quiet tomorrow AM → hold the hinge, no escalation; barks tomorrow / any lingering numbness/weakness/spread → escalates (the only path to a red-flag trip here).
+
+#### Mobility red-flag status: NOT tripped (as of in-session report)
+- Symptom faded on stopping; no lingering numbness, weakness, or spread reported in-session. As an isolated faded reproduction it does not meet this file's escalation criteria. **BUT** two caveats: (1) the morning-after read can change this; (2) the stop-signal override itself is the behavioral risk, independent of the tissue read.
+
+#### L-glute lag at lockout (motor-control note, not a pain symptom)
+- On RDL lockout, athlete reports the **R glute fires preferentially even when cueing both glutes; L glute lags.** Consistent with the documented L AIC under-recruitment pattern (L glute lengthened/disadvantaged; R compensates) — same family as the "right adductor/high hamstring fires when left is consciously loaded" cardinal finding. Logged as a motor-control data point reinforcing the L-glute-activation priority (single-leg L glute bridge, foot pressure bias to L). Not a new injury.
+
+#### L rear delt on bench warmups (continues the costovertebral/rib-joint thread)
+- L rear delt **fired and became "a little painful" on bench warmups** (low severity, "nothing he couldn't deal with"). Continues the 5/27 → 6/2 L posterior-ribcage / costovertebral + reactive posterior-cuff thread. Likely amplified by over-cramming the L scap on setup (coach cued easing L-scap retraction to ~50-60% on the light full-body set). Athlete requested more shoulder warmup before Fri heavy bench; **Head Coach added dedicated rear-delt/posterior-shoulder prep to Friday's pre-session reset** (cross-body rear-delt stretch, posterior-shoulder ball release, extra band pull-aparts, ease L-scap retraction; rear-delt sharp-pinch added as a Friday stop rule). Mobility red-flag NOT tripped (low severity, ribcage-pattern, no neuro).
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up
