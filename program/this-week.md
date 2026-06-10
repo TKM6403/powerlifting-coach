@@ -129,8 +129,14 @@ No barbell today — keeps your left shoulder fresh for Saturday's heavy bench.
 
 This is your heavy day, and it's getting your 2 days off ahead of it. The goal is **better reps at the same weight**, not a heavier weight — we're cashing in the rest, not the risk.
 
-### Pre-session reset (~10 min)
+### Pre-session reset (~12 min)
 Same as Tuesday: hip reset first (90/90 + all-fours belly lift), then the left-shoulder opener + band pull-aparts + peroneal band work, then the **lower-body primer** (10 bodyweight sit-to-stands + 10 bodyweight squats to a comfortable depth + 10 single-leg glute bridges/side or banded glute activation) so you're not benching or testing the quad on cold legs.
+
+**Extra rear-delt / posterior-shoulder prep (NEW — your left rear delt fired and got a little painful on bench warmups Tuesday 6/9, so we warm it properly before a heavy day):**
+1. **Cross-body rear-delt stretch, left:** pull your left arm straight across your chest, hook it with your right forearm, gently draw it across and into you until you feel a stretch in the back/outside of the left shoulder. 30 sec × 2, breathe out into it.
+2. **Posterior-shoulder ball release, left:** pin a lacrosse/massage ball between the wall and the back corner of your left shoulder, lean in, slowly hunt the tender spot 30–45 sec.
+3. **Extra band pull-aparts ×20** on top of your usual set, slow, to flush blood through the rear delt and wake the whole upper back so the delt isn't carrying it alone.
+4. **On your warmup-bar bench reps, ease off how hard you set the left shoulder blade** — down-and-back to ~50–60%, not a maximal cram. Over-retracting the left scap is what lit the rear delt up Tuesday. **If the rear delt sharpens into a real pinch on any set, that set's done** (same stop rule as the chest/elbow).
 
 ### FIRST — right-quad re-test (do this fresh, before bench)
 
