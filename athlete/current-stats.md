@@ -35,6 +35,8 @@ Training Max = a weight you could hit for a clean single on a good day at RPE 9.
 - Sleep average: ~6.5 _(week of 6/1–6/7; below the prior 7.0 baseline. tkm plans to increase next week. Updated 6/7.)_
 - Recovery feel (1-10): **7–8** _(collected 6/9 — FIRST live number since 5/25, which was a stale 2/10. Well clear of the ≤3/10 volume-cut threshold. Recovering well; no overreaching flag.)_
 - **Volume-bench marker (6/9):** comp bench 90 kg (~198 lb) × 10 top set + 2×10 @ 80 kg — beat last week's volume day (87.5 kg × 9). Ran ~2.5 kg above the prescribed 87.5 and added a rep on the back-offs; moved cleanly, "not terrible." Not a 1RM/TM change — logged as a volume-day progression signal.
+- **Heavy-bench marker (6/11) — REST-COMPROMISED, NOT a TM change or regression:** comp bench top set 100 kg (~220 lb) × 4 (intended 5; racked at 4 on bar-speed loss per the no-grinding rule — a correctly-followed in-policy stop, NOT a missed rep), effective RPE 8-9; back-offs 2×5 @ 80 kg. Felt heavy. **Context: heavy bench was moved off its planned 2-days-off slot onto only 1 day rest after the 6/9 volume day** (schedule restructure — gym access Thu not Fri). This is exactly the short-rest fatigue we predicted; the real bench signal remains 6/9's 90×10. Do NOT read as a strength drop at the 6/14 check-in.
+- **Belt-squat debut marker (6/11):** FIRST-ever belt-squat exposure — **2 plates each side × 10-12, 2 working sets, controlled, depth held at the parallel cap, "feel good."** No spine load. Baseline working weight for the new primary lower-day movement; build from here. (Gated movement — left-leg/right-quad clearance still governs depth/load progression.)
 - Hunger/appetite trend: normal
 - Libido: normal
 - Mood: variable
