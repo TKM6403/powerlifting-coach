@@ -2,7 +2,7 @@
 
 **Week of:** 2026-06-08 (Mon) → 2026-06-14 (Sun)
 **Block week:** 3 of 4 — Reintroduction Accumulation (this is the last push week — Week 4 is a deload)
-**This week's schedule:** **Tue / Thu / Fri / Sun** — **Tue + Fri + Sun = full gym** (barbell), **Thu = apartment gym** (cables + dumbbells only). Rest days: Mon, Wed, Sat.
+**This week's schedule:** ~~Tue / Thu / Fri / Sun~~ → **REVISED 6/11: Tue / Thu / Sun.** You have the full powerlifting gym Thursday but can't train Friday, so **Friday's heavy-bench session moved up to Thursday (today)** and **Friday is now off**. Today + Sun = full gym (barbell). Rest days: Mon, Wed, Fri, Sat.
 **Session length target:** ~90 min each, warmup included. If you're running long, cut the last accessory (trim order is listed at the bottom of each day).
 
 ---
@@ -101,74 +101,80 @@ Same stabilizer routine as Monday (PRI reset first, then the full 2-round circui
 
 ---
 
-## Thursday 6/11 — Apartment Gym: Back + Lat + Rear Delt + Arms  *(~60 min)*
+## Thursday 6/11 — Heavy Bench + Right-Quad Re-Test + Belt Squat (full gym, MOVED UP from Friday)  *(~90 min)*
 
-No barbell today — keeps your left shoulder fresh for Saturday's heavy bench.
+**Read this first — what changed and why.** You're at the full gym today and can't train tomorrow, so we moved your big barbell day (heavy bench + leg work) up to today. Two honest adjustments fall out of that:
 
-### Warmup (~7 min)
-**Modified left-shoulder opener:** all-fours breathing into your left back ribs — breathe in only to just before the pinch, never into it, put the effort on the **full exhale**, drop the long reaching arm. **2 rounds.** Then banded left-lat stretch (30 sec × 2) + band pull-aparts (15) + **peroneal band work, left, 2×15** (band around the outside of the left foot, push outward, slow).
+1. **We are NOT chasing 225 lb today.** Friday was placed two days after your last pressing day on purpose — that rest is what makes a heavy bench feel good. Today only gets one day off (Wed), and Tuesday was a big volume bench day. So today we *autoregulate*: you work up and take whatever weight moves cleanly with 3 reps left in the tank. That'll land somewhere around 210–220 lb. **Hold that, win the reps — don't force the number.** We're keeping the heavy *exposure*, not the risk.
+2. **The belt squat has to earn its way in today.** Friday's belt squat was supposed to be greenlit by a clean left-leg check the morning after Tuesday's hinge — and we never got that morning read. So we recreate that check IN the gym today before you load anything (the slump screen + feeler set below). Pass it honestly or the belt squat is out for the day. No negotiation.
 
-### Working sets (cable machine + dumbbells)
+**Fuel:** ≥150g carbs before you train (a big bowl of oats + a banana, or two bagels) — protein can lag, make it up after.
+
+**Quick glossary:** *RPE 7* = 3 reps left in the tank. *RPE 8* = 2 reps left. *RPE 6* = easy, ~4 left. *Wide-ish grip* = thumbs about a fist-width outside shoulder-width. *Neutral grip* = palms facing each other. *Parallel* = thighs flat / level with the floor.
+
+### Daily reset FIRST — not optional today (~3 min)
+**Do your daily reset before anything else, even if you feel fine — especially today.** 90/90 hip lift + all-fours belly lift, 4–5 slow full exhales × 2 rounds each (see the descriptions at the top of this file). This is the move that quiets your left leg, and we're loading your legs today *without* the morning-after check we normally lean on — so the reset is doing double duty as part of your safety check. If you've been sitting today, add a 30-sec left couch stretch + 10 glute squeezes before you walk in.
+
+### Pre-session warmup (~12 min)
+1. **Hip reset** (the 90/90 + all-fours belly lift above) — already done as your daily reset; if it's been a few hours, repeat one round.
+2. **Left-shoulder opener** — all-fours breathing into your left back ribs (round the upper back, breathe out fully, breathe in only to *just before* any pinch — never into it, effort on the full exhale, drop the long reaching arm). 2 rounds. Then banded left-lat stretch 30 sec × 2 + band pull-aparts ×15.
+3. **Peroneal band work, left ankle, 2×15** — band around the *outside* of your left foot anchored to your right; push your foot outward against it, slow.
+4. **Lower-body primer (~2–3 min — don't bench or load legs on cold legs):** 10 bodyweight sit-to-stands + 10 bodyweight squats to a comfortable depth *(a deep BODYWEIGHT squat is fine for the right quad — it's only LOADED deep flexion that bites it)* + 10 single-leg glute bridges per side (wakes up the left glute).
+
+**Extra rear-delt / posterior-shoulder prep (your left rear delt got a little painful on bench warmups Tuesday — we warm it properly before a heavy day):**
+1. **Cross-body rear-delt stretch, left:** pull your left arm straight across your chest, hook it with your right forearm, gently draw it across and into you until you feel a stretch in the back/outside of the left shoulder. 30 sec × 2, breathe out into it.
+2. **Posterior-shoulder ball release, left:** pin a lacrosse/massage ball between the wall and the back corner of your left shoulder, lean in, slowly hunt the tender spot 30–45 sec.
+3. **Extra band pull-aparts ×20** on top of your usual set — slow — to flush the rear delt and wake the whole upper back so the delt isn't carrying it alone.
+4. **On your warmup-bar bench reps, ease off how hard you set the left shoulder blade** — down-and-back to about 50–60%, not a maximal cram. Over-cramming the left scap is what lit it up Tuesday. **If the rear delt sharpens into a real pinch on any set, that set's done.**
+
+### FIRST — right-quad re-test (do this fresh, before bench, properly warmed up — don't go cold like last time)
+
+> Your right quad still hurt at the deep-bent bottom of a loaded leg extension last time we tested it (6/5). It's been quiet in daily life and running since. We re-test it once today, properly warmed up.
+>
+> **The ramp:** the 10 bodyweight sit-to-stands you just did → 1 *very light* set on the leg-extension machine through the full range → if that's clean, 1 light working set, full range including the deep-bent bottom.
+> - **Pain-free through the WHOLE range — both pushing up AND lowering down, including the deep bottom → PASS.** Text me — light partial leg extensions can come back next session.
+> - **Any sharp pain at the deep-bent bottom, either direction → FAIL.** Stop, skip the rest of the leg extension, go straight to the belt squat below (it stays out of that deep range). Text me. (Lockout feeling fine is NOT a pass — the deep bottom under load is the test.)
+
+### Bench
+
+**Pre-bench full-body set (the light version):** before your bench work sets, set your whole body up the way you'd press — feet planted, **light** glute and leg tension (~25–30%, just grounded, NOT pushing), trunk braced like someone's about to tap your stomach (firm, not maximal), shoulder blades pulled down and back. **No hard arch. No bearing down/holding your breath. No explosive leg drive.** A hard arch + held breath is the same loaded bend-over position your left nerve is still gated out of, just from the bench — it stays parked until your nerve clears under load and the right quad is pain-free. Rehearse it on a couple of warmup-bar reps.
+
+**How to work up (let the day pick your top weight):** empty bar → 60 kg (~135 lb) × 5 → 80 kg (~176 lb) × 3 → 90 kg (~198 lb) × 2 → 97.5 kg (~215 lb) × 1.
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| Seated cable row | 3 | 10 | RPE 8, ~100–135 lb | **Weak-point priority — the left lat.** Low cable, V-handle. Pull to your sternum, elbows track back to your ribs, don't shrug. |
-| Kneeling high cable pull-down | 3 | 10 | RPE 8 | Straight bar or rope on the HIGH cable, kneel on both knees facing the machine, lean back slightly, pull to upper chest. Same lat stimulus as a pulldown. |
-| Cable face pull | 3 | 15 | RPE 8 — fine to push | Mid-height cable, rope. Pull toward your forehead, elbows HIGH and OUT, squeeze the rear delts. |
-| Seated single-arm cable lateral raise, left first | 2 | 15 per side | RPE 8 | Sitting (no balance demand). Slow on the way down (3 sec). Shoulders are your priority. |
-| Hammer curl, one dumbbell at a time, left first | 2 | 10 per arm | RPE 8 — fine to push | Palms facing each other. |
-| Rope triceps pushdown | 2 | 12–15 | RPE 8 — fine to push | High cable, rope. Elbows pinned to your sides, push to straight, spread the rope at the bottom, slow on the way up. Last set near failure. |
+| Competition bench, wide-ish grip — top set | 1 | 5 | **RPE 7 — take whatever floats with 3 reps in the tank** (likely ~95–100 kg / 210–220 lb) | **Do NOT force 225 today.** If 97.5 kg (~215) flies with crisp speed and 3+ left, that's your top set; one nudge to 100 kg (~220) is optional, not required. **Hard ceiling 102.5 kg — and if the first rep feels like only 2 left, that's your top set, stop there.** Rack the instant bar speed dies — no grinding this block. |
+| Competition bench — back-off sets | 2 | 5 | RPE 6, **~82.5–85 kg (~182–187 lb)** | Clearly lighter than the top set (about 85% of whatever you topped at), crisp reps. Don't add sets to "make up" for going lighter up top. |
 
-**Trim order if over time:** rope pushdown first, then hammer curl, then the 2nd lateral raise.
+### Lower
+
+**Belt squat — the gate you must pass first (we're recreating the morning-after check we never got):**
+
+> **Step 1 — Slump pre-screen.** Sit on a bench, slump your upper back forward, straighten your left leg out in front of you, tuck your chin to your chest, hold a few seconds. **If you feel ANY shooting, tickling, or electric feeling down the left leg — front, back, or into the calf — the belt squat is OUT for today.** You still do your hamstring curls (knee-bend only, safe), and you text me.
+> **Step 2 — Light feeler set** (only if Step 1 is clean): empty carriage or one small plate, 5–8 slow reps, stopping at parallel (thighs flat, NOT deeper). You're feeling for two things — any shoot/tickle/electric down the LEFT leg, and any sharp pain in the RIGHT quad at the bottom. **Either one → rack it, belt squat is done for today, text me.**
+> **Step 3 — Only if the feeler is completely clean on both sides** do you add load across your working sets, and only as long as each set stays clean.
+
+| Exercise | Sets | Reps | RPE / Load | Notes |
+|---|---|---|---|---|
+| **Belt squat — depth-limited** | 3 | 10–12 | RPE 8 last set only (you can push that final set close to failure — no bar on your spine, safe to grind) | **Belt squat = a squat where the weight hangs from a belt around your hips, so there's NOTHING on your back or spine** — that's exactly why it's safe for your left side right now. **Stop at parallel — thighs flat, no deeper.** The deep bottom under load is what bites your right quad. **Set a physical hard stop (pins/box/a stack of mats) at parallel so a tired rep can't drift past it.** Lower under control (2–3 sec down), no bouncing. This is your FIRST time on this — hunt a weight you can *own* for 10–12, not a max. **Stop the instant anything sharpens in the right quad at the bottom, or you feel any shoot/tickle down the left leg.** *(Pendulum squat set up the same way works too — top half only, same rules.)* |
+| Lying hamstring curl (knee bending only), left first | 2 | 10 per leg | RPE 8 (leave 1–2 — do NOT grind) | Start LEFT, light. Confirmed-safe for the nerve. Slow on the way down. **STOP that leg immediately on any shooting/tickling down the back of the thigh.** |
+| Seated calf raise | 2 | 12–15 | RPE 8 | **Seated only today** — keep it steady on the left ankle (you went standing-to-failure Tuesday; ease off that on the previously-sprained side for now). |
+
+**Optional finisher if you're under 90 min (cut this FIRST):** 2–3 sets seated cable row, 10 reps, RPE 8 — low cable, V-handle, pull to your sternum, elbows to your ribs, don't shrug. This recovers a little of the left-lat work you'd have done on the lost pull day; the rest of it moved to Sunday. **If you're at time, skip it without guilt.**
+
+**Hard stops (today's non-negotiables):** ANY shooting/tickling/electric down the left leg on ANY movement → STOP that movement immediately. **Not "finish the set," not "see if it fades" — the feeling showing up IS the answer, even if it disappears. We got burned by "it was nothing" on Tuesday.** Text me. // Sharp left chest/shoulder/elbow pinch on bench, or left rear-delt pinch → that set's done. // Left hip click under load → rack, text me. // Sharp right-quad pain at the bottom of the belt squat → that move's done. // **NEURO RED FLAG — any numbness, lingering tingling, weakness, or the leg symptom spreading → stop and call a doctor/PT. Not a coaching call.**
+
+**Trim order if over time:** seated cable row first (it's optional), then the 2nd calf set, then a hamstring-curl set. Never cut the R-quad re-test or the bench top set.
+
+**Cool down:** banded left-lat stretch 45 sec; nerve flossing (lie on back, pull left knee to chest, alternate point/flex the foot with a chin tuck) 10 slow reps below pain; 5–10 min easy walk.
+
+**Tomorrow morning (Fri 6/12) — the one thing I need from you:** even though you're not training Friday, do the morning-after left-leg/calf read and text it to me. Quiet today AND tomorrow is the only thing that counts as a real read — and right now we have neither half. That read is literally what unlocks the next rung of your barbell ladder.
 
 ---
 
-## Friday 6/12 — Heavy Bench + Right-Quad Re-Test + Lower (full gym)  *(~85 min)*
+## Friday 6/12 — OFF (can't train — gym unavailable)
 
-**Fuel:** ≥150g carbs before you train — protein can lag, make it up after.
-
-This is your heavy day, and it's getting your 2 days off ahead of it. The goal is **better reps at the same weight**, not a heavier weight — we're cashing in the rest, not the risk.
-
-### Pre-session reset (~12 min)
-Same as Tuesday: hip reset first (90/90 + all-fours belly lift), then the left-shoulder opener + band pull-aparts + peroneal band work, then the **lower-body primer** (10 bodyweight sit-to-stands + 10 bodyweight squats to a comfortable depth + 10 single-leg glute bridges/side or banded glute activation) so you're not benching or testing the quad on cold legs.
-
-**Extra rear-delt / posterior-shoulder prep (NEW — your left rear delt fired and got a little painful on bench warmups Tuesday 6/9, so we warm it properly before a heavy day):**
-1. **Cross-body rear-delt stretch, left:** pull your left arm straight across your chest, hook it with your right forearm, gently draw it across and into you until you feel a stretch in the back/outside of the left shoulder. 30 sec × 2, breathe out into it.
-2. **Posterior-shoulder ball release, left:** pin a lacrosse/massage ball between the wall and the back corner of your left shoulder, lean in, slowly hunt the tender spot 30–45 sec.
-3. **Extra band pull-aparts ×20** on top of your usual set, slow, to flush blood through the rear delt and wake the whole upper back so the delt isn't carrying it alone.
-4. **On your warmup-bar bench reps, ease off how hard you set the left shoulder blade** — down-and-back to ~50–60%, not a maximal cram. Over-retracting the left scap is what lit the rear delt up Tuesday. **If the rear delt sharpens into a real pinch on any set, that set's done** (same stop rule as the chest/elbow).
-
-### FIRST — right-quad re-test (do this fresh, before bench)
-
-> The right quad failed its last re-test (6/5) — it still hurts at the deep-bent bottom of a loaded leg extension. We re-test it once this week, properly warmed up.
->
-> **The ramp:** 10 bodyweight sit-to-stands (pain-free range) → 1 very light set on the leg-extension machine through the full range → if that's clean, 1 light working set, full range including the bottom.
-> - **Pain-free through the whole range, both pushing up and lowering down → PASS.** Tell me — light partial leg extensions can come back next session.
-> - **Any sharp pain at the deep-bent bottom (either direction) → FAIL.** Stop, skip the leg extension, move to the leg press below. Text me.
-
-### Bench + lower
-
-**Pre-bench full-body set:** same light version as Tuesday (light grounded tension, braced neutral trunk, shoulder blades set — no hard arch, no held breath, no explosive leg drive).
-
-| Exercise | Sets | Reps | RPE / Load | Notes |
-|---|---|---|---|---|
-| Competition bench, wide-ish grip — top set | 1 | 5 | target RPE 7, **~102.5 kg (~225 lb)** | **Hold the weight, win the reps.** Same top weight as last week — the 2 days off should make it feel better. If it grinds toward RPE 8 again (2 left), that's your ceiling — stop there. Only if it genuinely floats at RPE 6–7 (3+ left) with good speed may you take one small jump to ~105 kg — not required. Rack if bar speed dies; no grinding this block. |
-| Competition bench — back-off sets | 2 | 5 | RPE 6–7, **~90 kg (~198 lb)** | Clearly lighter, crisp reps. |
-| Dumbbell shoulder press, neutral grip, both arms | 2 | 8–10 | RPE 8, ~45–50 lb (leave 2 — do NOT fail) | Don't lock out; stop with elbows slightly bent. **Switch to one arm at a time immediately on any sharp pinch in your left chest, front shoulder, or elbow, or if the left elbow flares uneven.** |
-| **Belt squat — depth-limited (NEW — your main pushable leg movement)** | 3 | 10–12 | RPE 8 last set (you can push that final set close to failure — there's no bar on your spine, so it's safe to grind) | **Belt squat = a squat where the weight hangs from a belt around your hips, so there's NOTHING on your back or spine.** That's exactly why it's safe for your left side right now. **Stop at about parallel — thighs flat, no deeper.** Do NOT sink into a deep knee bend; the deep bottom under load is what bites your right quad. **Set a physical hard stop (pins/box/a stack of mats) so you can't accidentally drop past it when you're tired.** Lower under control (2–3 sec down), no bouncing. **Stop the instant anything sharpens in the right quad at the bottom, or you feel any shoot/tickle down the left leg.** *(Pendulum squat set up the same way works too — top half only, same rules.)* |
-| Lying hamstring curl, left first | 2 | 10 per leg | RPE 8 (leave 1–2) | Slow down-phase. Same stop signal: any shooting/tickling down the left leg → stop that leg. |
-
-**Belt squat — start light, ramp up (don't load cold):** before your 3 working sets, do ONE light feeler set at your depth limit (empty carriage or one small plate) to find the depth stop and confirm BOTH the right quad and the left leg are quiet at that depth. Then add load across your working sets only if each set stays clean on both sides. **This is your first time on this movement — treat Friday as "find a weight you can own for 10–12," not a max-out.** The hypertrophy comes from the controlled reps and pushing that last set close to failure, NOT from the weight — perfect for right now.
-
-**Belt-squat gate:** this is only a green light if your left leg has stayed quiet since Tuesday (the morning-after checks Wed/Thu/Fri all clean). If the left leg is barking, we hold the belt squat too and talk first.
-
-**Optional finisher if you've got time (cut first if you're over 90 min):** 1 set per leg of single-leg / split belt squat, **left leg first**, same depth limit. This directly hits the lagging left glute you noticed Tuesday. Match the right side to whatever the left can do — don't rep out the strong side.
-
-**Hard stops:** sharp left chest/shoulder/elbow pinch → set's done. Left hip click under load → rack, text me. Any shooting down the left leg → stop that move. Sharp right-quad pain at the bottom of the belt squat → stop, that move's done.
-
-**Trim order if over time:** single-leg finisher first, then hamstring curl, then DB shoulder press.
-
-**Cool down:** banded left-lat stretch 45 sec; nerve flossing 10 reps; easy walk.
+No training today — you told us you can't get to the gym. Friday's heavy-bench + leg session moved up to Thursday (6/11). Still do the **daily reset + anti-sitting work**, and **text me your morning-after left-leg/calf read** — that's the verdict on Tuesday's hinge and it's what unlocks your next barbell rung. (The DB shoulder press and single-leg belt-squat finisher that lived here this week are dropped for the week — folded into your weak-point priorities; not worth cramming.)
 
 ---
 
@@ -182,7 +188,7 @@ Same stabilizer routine (PRI reset first, then the full circuit) + daily reset +
 
 **Fuel:** ≥150g carbs before you train — protein can lag, make it up after.
 
-A lighter day to round out the week's back/shoulder volume (your weak point), plus the check-in.
+A lighter day to round out the week's back/shoulder volume (your weak point), plus the check-in. **Bumped up this week** — it now also carries the left-lat and rear-delt volume from the Thursday pull day we lost when the schedule shifted, so there are two extra movements/sets below.
 
 ### Warmup (~7 min)
 Left-shoulder opener + band pull-aparts + peroneal band work.
@@ -193,7 +199,8 @@ Left-shoulder opener + band pull-aparts + peroneal band work.
 |---|---|---|---|---|
 | **Weighted pull-up — top set** | 1 | 5–6 | RPE 8, **start ~+30 lb** (a dumbbell held between your feet/knees) | **We progress this top set week to week** — this week start near where you were today (+30 lb × 5 felt good). Get on and off the bar with a **box/step, not a jump** — step up to start, controlled step-down to finish (keeps impact off the ankle). Pull your chest toward the bar, control the way down. This is your best back-width builder for the left lat. |
 | Weighted pull-up — back-off sets | 2 | 8–10 | RPE 8 | Lighter or bodyweight, more reps. Same box-entry / step-down. |
-| Reverse pec deck or face pull (rear delts) | 3 | 15 | RPE 8 — fine to push | Elbows high and out, squeeze the rear delts. |
+| **Seated cable row (recovered from the lost Thursday pull day)** | 3 | 10 | RPE 8, ~100–135 lb | **Weak-point priority — the left lat.** Low cable, V-handle. Pull to your sternum, elbows track back to your ribs, don't shrug. *(If you got the optional row in on Thursday and felt good, drop this to 2 sets — don't double up.)* |
+| Reverse pec deck or face pull (rear delts) | 4 | 15 | RPE 8 — fine to push | Bumped to 4 sets (was 3) to recover the lost Thursday face-pull volume. Elbows high and out, squeeze the rear delts. |
 | Seated single-arm cable lateral raise, left first | 2 | 15 per side | RPE 8 | Slow down-phase. Shoulders are the priority — earning the frequency. |
 
 ### Then — weekly check-in
@@ -259,4 +266,5 @@ The nerve clears on its own timeline — you can't force it by loading harder (t
 - 2026-06-02: Full 5-specialist audit — Tue heavy reconciled to RPE 7; PRI hip reset restored; lower-body warmup primer added; NEW right-quad strain (cold-start leg extension); Friday leg work gated both sides. Decision log `logs/decisions/2026-06-02-week-2-audit.md`.
 - 2026-06-05/06: R-quad strain graded re-test FAILED (still load-provoked at the deep-flexion bottom, both directions; lockout fine) → leg-extension machine OUT, not just light. Three Fri pre-load screens clean. Day-9 easy-run pulled forward on the passed proprioceptive ankle gate.
 - **2026-06-07: Week 3 built — four-agent synthesis (Logging + SBD + Mobility + Aesthetics) at the Sunday check-in, athlete buy-in obtained.** Headline: **loaded-hinge reintroduction begins** (3rd consecutive clean NON-loaded nerve screen: 6/1, 6/5, 6/7 slump). **SBD ↔ Mobility disagreement surfaced:** SBD proposed a 3-rung ladder reaching a light trap-bar deadlift within the week; Mobility ruled trap bar OUT this week (3 non-loaded clean reads ≠ loaded clearance) and capped Week 3 at Rung 1 only — light KB/DB RDL ≤95 lb, 3×8, slump pre-screen + hard abort, one day, first in session, read the next 48 h. **Head Coach sided with Mobility** (can't override a Mobility red flag); trap bar earns Week 4 only on a clean read. **Bench days flipped** (volume Tue / heavy Fri) to exploit the athlete's "2 days off → better bench" signal; heavy day holds 102.5 kg and earns rep quality from the rest, not load. *(6/8: heavy moved Sat→Fri per athlete — Fri gets Wed rest + Thu no-press ahead of it, mirroring last week's best-bench setup, and avoids a Sat/Sun back-to-back. Schedule now Tue/Thu/Fri/Sun. RDL load clarified: ~95 lb TOTAL ceiling, start at the empty 45 lb bar.)* Volume day +1 rep (9→10) at 87.5 kg per "add a rep not weight." **Pre-bench full-body ISOMETRIC priming set added** (athlete-approved 6/6) — low static tension only; Mobility RED FLAG upheld: hard leg drive + arch HELD until loaded nerve clearance AND R-quad ramp-clear. **R-quad:** leg-extension machine OUT; depth-limited leg press (top-half ROM, quad-sparing) added for quad stimulus per athlete concern about quad atrophy; leg-ext machine re-tested Sat on a full ramp (pass → partial top-range returns next session). **Weighted pull-up** approved as Sunday lead (progressing top set + back-offs, box entry/step-down to spare the ankle) per athlete; chest-supported row was the lean alternative. Ankle cleared for impact (≤10%/wk, even surfaces, no hopping); peroneal band + balance retained as permanent maintenance. Recovery-feel re-collection flagged for the 6/14 check-in (stale since 5/25). Sleep ~6.5 h flagged. Aesthetics kept lean per standing feedback (no padding). Full decision log: `logs/decisions/2026-06-07-week-3-plan.md`.
+- **2026-06-11: Mid-week schedule restructure — three-agent synthesis (SBD + Mobility + Aesthetics), athlete-initiated.** tkm has full-gym access Thursday but can't train Friday → **Friday's full-gym session (heavy bench + R-quad re-test + belt-squat debut) moved up to Thursday; Friday now OFF.** Week schedule Tue/Thu/Fri/Sun → **Tue/Thu/Sun.** Key calls: **(1) Bench autoregulated to RPE 7** (work-up top set of 5, ~95–100 kg, hard ceiling 102.5, rack on speed loss) — moving heavy bench off its 2-days-off slot onto 1 day rest after Tuesday's above-prescription volume day means we keep the heavy *exposure*, not the 225 number (SBD; RTS/Calgary autoregulation). Log as a rest-compromised session, NOT a TM signal. **(2) Belt-squat gate converted to in-session screen** — the gating clean morning-after L-leg read (6/10 AM) was never collected (6/10 = diet-only log) AND Tuesday's hinge reproduced an overridden L-calf tickle, so Mobility requires a slump pre-screen + light feeler set in-gym before any load; hard NO on any L-leg neural symptom or R-quad deep-bottom pain. Mobility RED FLAG re-stated and explicitly NOT overrideable given the override history (symptom-under-load = the read, fading ≠ pass). **(3) Lost Thursday pull day → consolidated onto Sunday** (+3 seated cable row, +1 rear-delt set) per Aesthetics; one optional row on Thursday, cut-first; **direct arm work dropped for the week** (covered indirectly, not the weak-point priority). DB shoulder press + single-leg belt-squat finisher also dropped for the week. Rear-delt/posterior-shoulder prep (built for Fri) carries into Thursday. Daily reset made mandatory pre-training given the blind morning-after window. Morning-after L-leg read still owed Fri 6/12 AM. Full decision log: `logs/decisions/2026-06-11-thursday-session-restructure.md`.
 - **2026-06-09: Belt squat added as primary lower-day movement + return-to-barbell ladder formalized — three-agent synthesis (SBD lead + Mobility + Aesthetics), athlete-initiated, buy-in obtained.** Tue 6/9 loaded-hinge debut reproduced a faint L-calf nerve tickle (named stop signal, faded, athlete overrode the stop) → loaded hinge HOLDS, trap bar still deferred; 6/10 AM read is the verdict. Athlete voiced frustration/fear of losing leg muscle and a strong pull to deadlift/squat heavy again; requested a safe pushable lower movement. **Belt squat** (his gym has the machine) replaces the Friday depth-limited leg press as primary quad/glute work: 3×10–12, depth-limited to ~parallel (out of the R-quad deep-flexion bottom, with a physical hard stop), light feeler set first, last set near-failure (fatigue-cheap, spine-unloaded). All three agents support it; **gated on a clean 6/10 AM L-leg read** (Mobility condition — can't add a new loaded leg move onto a freshly-irritated nerve). Optional single-leg belt-squat finisher (L-first) to attack the documented L-glute lag. **SBD↔Mobility disagreement surfaced (same axis as the 6/7 trap-bar call):** SBD leans to climbing rungs faster; Mobility caps belt-squat depth/load until the R-quad clears and wants TWO consecutive clean light-RDL reads before trap bar earns in. SBD pre-conceded; Head Coach sided with Mobility (two-read rule) given the override history. Athlete committed externals: daily resets, standing desk/anti-sitting, sleep→7.5–8h, daily L-glute work, morning-after check. Recovery feel re-collected: 7–8 (clears the volume-cut flag). Full decision log: `logs/decisions/2026-06-09-belt-squat-and-barbell-ladder.md`.
