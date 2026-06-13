@@ -30,7 +30,19 @@ Established protocols and preferences. Diet Agent references this; tkm updates i
 - California-style burritos (carne asada, dry, with fries) — fits macros, post-workout favorite
 - **Chipotle steak burrito — tkm's CONFIRMED standard order (locked 2026-06-02):** single steak, **no rice**, extra black beans, fajita veggies, extra roasted chili-corn salsa, **extra cheese + normal sour cream**. This is his default — assume it, don't ask. Macros ≈ **~1,300 kcal / 60P / 135C / 52F** (this is the "both dairy" build, so fat is the day's constraint when budgeting around it — keep other meals lean).
   - *Leaner levers if a day's fat is tight (he won't usually want these): drop sour cream OR regular cheese → ~1,190 / 56 / 134 / 43; drop both → ~1,080 / 52 / 132 / 34.*
-- [tkm: add other staples that hit macros and that you actually like]
+
+#### Repeat staples — locked macros (don't re-estimate from scratch)
+*These are foods tkm eats repeatedly. Use these numbers directly when they show up in a food dump. Per-unit so they scale. Conservative bias is already baked in (cal/fat rounded up, protein down). Add new repeat items here the moment they appear twice.*
+
+| Staple | Unit | kcal | P | C | F | Source |
+|---|---|---|---|---|---|---|
+| **Sourdough bread** *(the loaf tkm eats — SPEC NEEDED, see note)* | per slice | ~140 | 4 | 26 | 1 | **placeholder est. — replace w/ his label** |
+| Kirkland shredded Monterey Jack cheese | per 28g (1oz) | 110 | 7 | 0 | 9 | label |
+| Grade AA brown eggs, large | per egg | 72 | 6 | 0 | 5 | USDA |
+| Almond butter | per 20g | 125 | 4 | 4 | 11 | USDA |
+| Gatorade, blue (Glacier Freeze), 140-cal bottle | per bottle | 140 | 0 | 36 | 0 | label |
+
+> **⚠️ SOURDOUGH SPEC IS A PLACEHOLDER.** tkm referenced "the sourdough we talked about" on 6/13 and there was no record of it — that conversation predated this file. The per-slice numbers above are a generic bakery estimate, NOT his actual bread. **Replace with the real label macros (brand + per-slice or per-serving) as soon as tkm provides them**, then drop this warning.
 
 ### Foods to limit / not great for performance
 - [tkm: add anything that consistently doesn't sit well or tanks energy]
