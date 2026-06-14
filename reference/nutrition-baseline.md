@@ -41,6 +41,8 @@ Established protocols and preferences. Diet Agent references this; tkm updates i
 | Grade AA brown eggs, large | per egg | 72 | 6 | 0 | 5 | USDA |
 | Almond butter | per 20g | 125 | 4 | 4 | 11 | USDA |
 | Gatorade, blue (Glacier Freeze), 140-cal bottle | per bottle | 140 | 0 | 36 | 0 | label |
+| Seven Sundays Little Crispies (sorghum cereal) | per 40g serving | 180 | 3 | 32 | 4 | label (varieties 170–180 cal, all ≈ same) |
+| Whole milk | per 8 fl oz | 150 | 8 | 12 | 8 | USDA |
 
 > **Sourdough = Trader Joe's sliced sourdough** (confirmed 6/14). Per-slice numbers are a solid estimate for that product; tkm can snap the label sometime to lock it exactly, but treat ~120/4/24/1 as the working number — no more estimating from scratch.
 
