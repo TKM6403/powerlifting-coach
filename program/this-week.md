@@ -27,6 +27,8 @@
 
 **Anti-sitting (every day, including training days):** every hour you're seated, stand up and do 10 glute squeezes or a 30-sec left couch stretch (kneel with your left shin against a wall/couch, right foot forward, push your hips forward and squeeze the left glute). This is what knocks the left-leg symptom back down — re-dose it after any long sit, *especially* before you train.
 
+**Your daily leg dose (this is your "belt squat every day" — done safely):** you asked to belt squat daily because it felt good. The *loaded* belt squat stays once a week (we have only one session on it and no morning-after read yet — daily loading on an unconfirmed left leg is exactly what re-lights it). But your daily leg hit is: **single-leg LEFT glute bridge ×10–12 + bodyweight squats ×10–15 to whatever depth feels good** (deep bodyweight is fine — it's only *loaded* deep flexion that bites the right quad). This attacks your left-glute lag and is the work that actually speeds the barbell ladder up. **You earn more loaded belt-squat frequency by banking two clean reads in a row — in the gym AND the next morning — plus the right-quad re-test. Give me the morning reads, I give you the frequency.**
+
 ---
 
 ## Monday 6/8 — Rest / Stabilizer Routine  *(~20 min)*
@@ -184,30 +186,47 @@ Same stabilizer routine (PRI reset first, then the full circuit) + daily reset +
 
 ---
 
-## Sunday 6/14 — Back + Shoulders Accessory + Weekly Check-In (full gym)  *(~60 min)*
+## Sunday 6/14 — Rested Heavy Bench + Back/Shoulders/Arms + Weekly Check-In (full gym)  *(~80 min)*
 
 **Fuel:** ≥150g carbs before you train — protein can lag, make it up after.
 
-A lighter day to round out the week's back/shoulder volume (your weak point), plus the check-in. **Bumped up this week** — it now also carries the left-lat and rear-delt volume from the Thursday pull day we lost when the schedule shifted, so there are two extra movements/sets below.
+**What changed and why (read this first).** You wanted to use the fact that you bench best on 2 days off — and you're right, Fri + Sat off pressing is your sweet spot. Here's the honest reframe: **Thursday's heavy bench was never your rested heavy day** — it got moved onto 1 day's rest after a big Tuesday, you grinded a 4 and racked it. That was a fatigue *exposure*, not your real heavy expression. So **Sunday is actually your first genuinely rested heavy slot this week, and we're making it your real heavy bench** — capped, done fresh, first thing. We are NOT adding a junk third grind. Then the back/shoulder work (still your weak point, still carrying the lost Thursday pull volume), plus the arm work we dropped this week.
 
 ### Warmup (~7 min)
-Left-shoulder opener + band pull-aparts + peroneal band work.
+Left-shoulder opener + band pull-aparts + peroneal band work. **Plus the rear-delt prep** (cross-body rear-delt stretch + posterior-shoulder ball release on the left + extra band pull-aparts ×20) — your left rear delt flared on bench warmups Tuesday, so warm it before you press.
 
-### Working sets
+### Bench — FIRST, while you're fresh
+
+**Pre-bench full-body set (the light version, same as all block):** feet planted, **light** glute/leg tension (~25–30%, just grounded, NOT pushing), trunk braced like someone's about to tap your stomach, shoulder blades down and back. **No hard arch, no held breath, no explosive leg drive** — that's the same loaded bend-over position your left nerve is still gated out of. It stays parked until your nerve clears under load. Rehearse it on a couple of warmup-bar reps.
+
+**Work up:** empty bar → 60 kg (~135 lb) × 5 → 80 kg (~176 lb) × 3 → 90 kg (~198 lb) × 2 → 95 kg (~210 lb) × 1 feeler single.
 
 | Exercise | Sets | Reps | RPE / Load | Notes |
 |---|---|---|---|---|
-| **Weighted pull-up — top set** | 1 | 5–6 | RPE 8, **start ~+30 lb** (a dumbbell held between your feet/knees) | **We progress this top set week to week** — this week start near where you were today (+30 lb × 5 felt good). Get on and off the bar with a **box/step, not a jump** — step up to start, controlled step-down to finish (keeps impact off the ankle). Pull your chest toward the bar, control the way down. This is your best back-width builder for the left lat. |
+| Competition bench, wide-ish grip — top set | 1 | **3** | RPE 7 (3 reps in the tank), **~95 kg (~210 lb)** | **A fast, clean triple is the whole point — NOT a max.** **Hard ceiling 100 kg (~220 lb). No 225 (102.5 kg) — not three days before a deload, nothing to gain and real fatigue to pay.** If the FIRST rep of the top set feels like only 2 reps left (RPE 8), that IS your top set — stop, don't add load. Rack the instant bar speed dies. |
+| Competition bench — back-off sets | 2 | 5 | RPE 6, **~80 kg (~176 lb)** | Crisp, clearly lighter. If you're flat, 1 set is fine — don't pad it. |
+
+> **Sleep gate — this matters tonight.** "2 days off" is calendar-rested, not sleep-rested. **If you go in on a bad/short night, the top set drops to RPE 6, capped at 90 kg (~198 lb) — a quality triple at 90, no more.** Report your sleep and a recovery number (1–10) BEFORE you take the top set (we collect it at the check-in anyway). A rested-feeling bench off zero sleep is a mirage.
+
+**Bench stops:** sharp left chest/shoulder/elbow pinch, or left rear-delt pinch → that set's done. Bar speed dies → rack, no grinding.
+
+### Back / shoulders / arms
+
+| Exercise | Sets | Reps | RPE / Load | Notes |
+|---|---|---|---|---|
+| **Weighted pull-up — top set** | 1 | 5–6 | RPE 8, **start ~+30 lb** (a dumbbell held between your feet/knees) | **We progress this top set week to week.** Get on and off the bar with a **box/step, not a jump** — step up to start, controlled step-down to finish (keeps impact off the ankle). Pull your chest toward the bar, control the way down. Best back-width builder for the left lat. |
 | Weighted pull-up — back-off sets | 2 | 8–10 | RPE 8 | Lighter or bodyweight, more reps. Same box-entry / step-down. |
 | **Seated cable row (recovered from the lost Thursday pull day)** | 3 | 10 | RPE 8, ~100–135 lb | **Weak-point priority — the left lat.** Low cable, V-handle. Pull to your sternum, elbows track back to your ribs, don't shrug. *(If you got the optional row in on Thursday and felt good, drop this to 2 sets — don't double up.)* |
-| Reverse pec deck or face pull (rear delts) | 4 | 15 | RPE 8 — fine to push | Bumped to 4 sets (was 3) to recover the lost Thursday face-pull volume. Elbows high and out, squeeze the rear delts. |
-| Seated single-arm cable lateral raise, left first | 2 | 15 per side | RPE 8 | Slow down-phase. Shoulders are the priority — earning the frequency. |
+| Reverse pec deck or face pull (rear delts) | 3 | 15 | RPE 8 — fine to push | Elbows high and out, squeeze the rear delts. *(Trimmed from 4 → 3 to make room for the bench up top — total day stress stays flat.)* |
+| Seated single-arm cable lateral raise, left first | 1 | 15 per side | RPE 8 | Slow down-phase. *(Trimmed from 2 → 1 to make room for the bench.)* |
+| **Dumbbell or cable curl** | 3 | 10–12 | RPE 8 | The arm work we lost when the week compressed. Control the lowering. |
+| **Rope triceps pushdown** | 3 | 10–12 | RPE 8 | Full lockout, elbows pinned to your sides. |
 
 ### Then — weekly check-in
-- **Slump test, ONCE** (seated nerve-tension test — slump forward, straighten the left leg, tuck the chin). Tells us if the nerve's still calm after a week with a loaded hinge in it. **Only today — never before a workout.**
-- Dump how the week went: how the RDL hinge felt (in-session AND the next morning), how heavy bench felt with the 2 days off, the right-quad re-test result, **bodyweight (please actually weigh in), recovery feel 1–10, average sleep.** We do the weekly synthesis and build Week 4 (the deload).
+- **Slump test, ONCE** (seated nerve-tension test — slump forward, straighten the left leg, tuck the chin). Tells us if the nerve's still calm after a week with a loaded hinge in it. **Only today — AFTER lifting, never before.**
+- Dump how the week went: how the RDL hinge felt (in-session AND the next morning), **how this rested heavy bench felt vs. Thursday's tired one**, the right-quad re-test result (it never happened Thursday), **bodyweight (please actually weigh in), recovery feel 1–10, average sleep.** We do the weekly synthesis and build Week 4 (the deload).
 
-**Trim order if over time:** 2nd lateral-raise set, then a pull-up back-off set. Never cut the top pull-up set or the slump test.
+**Trim order if over time:** the single lateral-raise set first, then a curl/pushdown set, then a pull-up back-off set. **Never cut the bench top set, the top pull-up set, or the slump test.**
 
 ---
 
