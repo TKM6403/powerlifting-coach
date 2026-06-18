@@ -2,7 +2,7 @@
 
 **Week of:** 2026-06-15 (Mon) → 2026-06-21 (Sun)
 **Block week:** **4 of 4 — athlete electing to TRAIN, not deload** *(6/15: tkm feels fully recovered and opted out of the planned deload — autoregulated training instead. The travel weekend is the de facto volume drop.)* First of ~6 weekend-travel weeks.
-**This week's schedule:** *(REVISED 6/18 — Tue anchor bench missed, Wed was Padel.)* **Thu = apartment upper, 30 min** (cables + dumbbells). **Sat = legs, real gym (SF).** Rest/other: Mon, Wed (Padel), Fri, Sun.
+**This week's schedule:** *(REVISED 6/18.)* **Tue = anchor bench ✓ done** (not yet logged to repo — numbers owed). **Wed = Padel.** **Thu = apartment upper, 30 min** (cables + dumbbells), weak-point focus. **Sat = legs, real gym (SF).** Rest/other: Mon, Fri, Sun.
 **Session length target:** ~60 min, autoregulated — push when the bar's moving well, back off the moment it slows.
 
 ---
@@ -84,9 +84,9 @@ Two daily resets + left-glute bridge + anti-sitting. If you want, add the light 
 
 ## Thursday 6/18 — Apartment Upper, 30 min  *(REVISED — schedule shifted)*
 
-> **What changed:** Tuesday's anchor bench was missed and Wednesday was Padel + no mobility. So this week's two full-gym anchors didn't happen. Today is a short apartment upper session (cables + dumbbells), 30 min, instead of the planned full-gym bench/belt-squat/back day. Legs moved to **Saturday at a real gym in SF.** No hole dug — the travel weekend was always the volume drop.
+> **What changed:** Tuesday's anchor bench got done (✓ — numbers not yet logged to repo, owed from tkm). Wednesday was Padel. So today is a short apartment upper session (cables + dumbbells), 30 min, and legs move to **Saturday at a real gym in SF.** Bench stimulus is already banked from Tuesday — so today is a **bonus weak-point day, not a make-up press.**
 
-**Weak-point priority:** left lat + rear delts, plus a press since bench got missed Tuesday. All upper-body — clean for the rehab (doesn't touch the left leg or right quad).
+**Weak-point priority:** left lat + rear delts (the lead today). DB press is optional/light since bench was already done Tuesday. All upper-body — clean for the rehab (doesn't touch the left leg or right quad).
 
 ### Warmup (~5 min) — also the mobility you skipped yesterday
 1. **Daily reset** — 90/90 hip lift (on your back, feet up on a wall/chair, knees & hips ~90°, tailbone an inch off the floor, breathe all the way out) + all-fours belly lift. 2 rounds.
@@ -95,17 +95,17 @@ Two daily resets + left-glute bridge + anti-sitting. If you want, add the light 
 
 ### The work (~23 min) — two supersets to fit the clock
 
-**Superset A — press + pull (3 rounds):**
+**Superset A — lat + rear delt (3 rounds):**
 | Exercise | Sets | Reps | Notes |
 |---|---|---|---|
-| Flat dumbbell bench press | 3 | 8–10 | Keep both elbows even. **If the left elbow flares wider than the right to compensate, the set's done** — don't grind the unevenness (old left-shoulder/rib pattern). Last set ~2 shy of failure. |
-| Single-arm cable lat pulldown, **LEFT first**, match the right | 3 | 10–12 each | High cable, one handle, pull your elbow down into your ribs, feel the lat under your armpit. Weak-point lead — left goes first, right only matches. |
+| Single-arm cable lat pulldown, **LEFT first**, match the right | 3 | 10–12 each | High cable, one handle, pull your elbow down into your ribs, feel the lat under your armpit. Weak-point lead — left goes first, right only matches. The priority today. |
+| Cable face pull | 3 | 15 | Rope at head height, pull to your forehead, elbows high and wide, squeeze. |
 
-**Superset B — rear delts + row (2 rounds):**
+**Superset B — row + optional press (2 rounds):**
 | Exercise | Sets | Reps | Notes |
 |---|---|---|---|
-| Cable face pull | 2 | 15 | Rope at head height, pull to your forehead, elbows high and wide, squeeze. |
 | Single-arm dumbbell row, **LEFT first** | 2 | 10 each | Pull to your hip, elbow tracking back along your body, not flared. |
+| *(Optional)* Light flat dumbbell bench press | 2 | 10 | Bonus — you already pressed Tuesday. Keep elbows even; **if the left flares to compensate, set's done.** Skip if tight on the clock. |
 
 **If you run out of clock:** Superset A is the keeper; trim B first.
 
@@ -187,6 +187,6 @@ Use on any travel/apartment day. Back width (left lat) + rear delt priority. **L
 
 ## Week Modifications Log
 
-- **2026-06-18: Schedule shifted — both full-gym anchors missed; week re-cut to apartment-upper (Thu) + real-gym legs (Sat).** tkm reported no Tue training and Wed was Padel + no mobility (so Tue anchor bench and Wed reset both didn't happen). Today he has a 30-min apartment window (cables + dumbbells) and wants upper; legs moved to Sat at a real gym in SF. Head Coach answered directly (single-domain — short apartment upper session, all context in hand; no subagent spawn). **Thu session:** weak-point-led upper (left lat + rear delts) + a DB press to recover the missed bench stimulus, run as two supersets (DB bench + single-arm cable lat pulldown ×3; cable face pull + single-arm DB row ×2), left-first on all unilateral pulls, even-elbow stop rule on the DB press (old L-shoulder/rib pattern), daily reset folded into the warmup since 6/17 mobility was skipped. **Padel flag:** lateral cutting = L-ankle roll mechanism; assumed fine (no report), asked tkm to flag if barking. **Sat legs:** docket TBD pending gym; HELD lines restated and explicitly NOT subject to autonomy (no barbell squat/DL/loaded hinge per nerve gate; belt squat parallel-capped + slump-screened as the pushable movement; no leg extension per R-quad). Anti-sitting reminder retained (the real nerve protector this block).
+- **2026-06-18: Schedule re-cut — Tue anchor bench DONE, Wed Padel; Thu = apartment upper, Sat = real-gym legs.** *(Corrected: an earlier draft wrongly assumed Tue bench was missed — tkm confirmed he benched Tuesday. It is NOT in the repo: no `logs/sessions/2026-06-16.md`, nothing in inbox. Numbers owed from tkm → route to Logging Agent when received. Do not invent the load/reps.)* Wed was Padel (ankle fine, no roll). Today: 30-min apartment window (cables + dumbbells), upper. Head Coach answered directly (single-domain; no subagent spawn). **Thu session:** since Tue bench banked the press stimulus, today is a BONUS weak-point day (not a make-up) — lead left lat + rear delts. Two supersets (single-arm cable lat pulldown LEFT-first + cable face pull ×3; single-arm DB row LEFT-first + OPTIONAL light DB bench ×2), left-first on all unilateral pulls, even-elbow stop rule on the optional press. Daily reset folded into warmup (6/17 mobility skipped). **Sat legs:** docket TBD pending gym; HELD lines restated, NOT subject to autonomy (no barbell squat/DL/loaded hinge per nerve gate; belt squat parallel-capped + slump-screened as the pushable movement; no leg extension per R-quad).
 - **2026-06-15 (later): Athlete opted OUT of the deload → converted to an autoregulated training week.** tkm reported feeling fully recovered ("body does not feel beat up at all"), wants to train and run belt squat both Tue + Thu, committed to being straight when he does want a deload. Head Coach made the case once (the 6/14 rested 100×3 not beating 6/11 grindy 100×4 suggests masked fatigue; "feel good" can mislead) then deferred to athlete autonomy — the real non-negotiables aren't the deload, they're the gates. **Converted plan:** Tue + Thu = autoregulated bench (work up to a top set + back-offs, RPE 7 Tue / 7–8 Thu, **no grinding, rack on speed loss**); **belt squat BOTH days** (3×8–10, RPE 8 last set near-failure — spine-unloaded, the safe outlet for his push instinct; slump-screen + feeler + parallel hard-stop retained each session); back/rear-delt pushed. **Rationale it's safe to allow:** the 6-week travel weekends are a built-in volume drop, so two pushed weekday sessions won't overreach him. **HELD lines unchanged and explicitly NOT subject to autonomy:** no loaded hinge/DL/barbell squat (nerve gate), pre-bench full-body set stays the light no-arch/no-leg-drive version (nerve gate), neural-symptom stop rule, parallel belt-squat cap (R-quad), and the doubled daily reset + travel anti-sitting protocol (the real risk this block). Per the rehab-frustration playbook: reassured + redirected the push to the safe pushable movement (belt squat) rather than fighting the whole week. Owed reads (Fri 6/12 L-leg + 6/14 slump) still requested.
 - **2026-06-15: Week 4 DELOAD built + 6-week weekend-travel framework — three-agent synthesis (SBD lead + Mobility + Aesthetics), athlete-initiated.** tkm flagged ~6 weekends of travel (Fri–Sun/Mon) with variable equipment; this week Tue + Thu full gym (anchors), Fri apartment, Sat flex. Deload warranted by end-of-block fatigue signal (6/14 rested 100×3 didn't beat 6/11 grindy 100×4). **Bench deloaded** to ~50% volume at ~60–70% intensity (Tue 3×5 @ 70 kg RPE 5–6, Thu 3×3 @ 72.5 kg RPE 5, fast bar, no singles/AMRAP — SBD; SBS/RTS/Prilepin deload convergence). **Belt squat kept at deload dose** (one session, 2×8 @ ~1 plate/side, RPE 5–6, parallel hard-stop, slump+feeler gate retained); **no leg-ext re-test in a deload** (Mobility). **All loaded hinge/squat/DL HELD** regardless of reads (deload + uncleared nerve gate). **Mobility travel brief:** sitting is the #1 nerve re-trigger and travel multiplies it → daily reset DOUBLED (2×/day), daily left-glute bridge, hourly anti-sitting + in-transit protocol made the non-negotiable core of the block; override-pattern hard rule + neuro red flag restated for the full 6 weeks. **Aesthetics travel toolkit:** 3-tier equipment-flexible weak-point (left-lat + rear-delt) accessory menu for travel days. **Framework for the block:** weekday full-gym days = anchors (carry comp bench + belt squat + back); weekends = adaptive/optional, never load-bearing. **Propose-then-write flag:** single-arm cable/band lat pulldown introduced as the travel-day stand-in for the weighted pull-up (equipment swap of his lead lat movement, not novel programming) — surfaced to tkm for buy-in. **Owed reads still outstanding:** Fri 6/12 AM left-leg/calf read + 6/14 slump result (requested today). Full decision log: `logs/decisions/2026-06-15-week-4-deload-and-travel-framework.md`.
