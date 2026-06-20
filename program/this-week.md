@@ -113,14 +113,38 @@ Two daily resets + left-glute bridge + anti-sitting. If you want, add the light 
 
 ---
 
-## Saturday 6/20 — Legs, real gym (SF)  *(was "flexible" — now your leg day)*
+## Saturday 6/20 — FULL-BODY, real gym (SF)  *(REVISED in-gym 6/20 — gym has no belt squat)*
 
-Full docket TBD once you know the gym — but the **hard lines hold** (safety gates, not deload calls):
-- **No barbell squat / deadlift / loaded hinge / RDL** — left-leg nerve gate not cleared under load (6/9 loaded hinge reproduced the left-calf tickle).
-- **Belt squat is your pushable leg movement** — slump-screen the left leg first, hard stop at parallel (deeper bites the right quad), last set close to failure.
-- **No leg-extension machine** — right quad not cleared at the loaded deep-flexion bottom.
+> **What changed:** tkm at a real SF gym; last real press was Tue, so he elected to fold bench + weighted pull-ups back in → **full-body day, kept short (~50 min).** Gym has **no belt squat** — only leg press, leg extension, hamstring curl, hip abduction/adduction, smith machine. **Leg press = belt-squat replacement** (spine-unloaded, same job; slump-screen + parallel-ish depth cap retained). **Smith squat and leg extension HELD** (smith = loaded spinal squat → nerve gate; leg extension → right-quad gate). Head Coach answered directly (gates already established in-plan; only new movement = leg press, surfaced to tkm inline for buy-in per propose-then-write).
 
-Tell me the gym and I'll fill this in.
+**Fuel (as eaten 6/20):** glycogen-loaded from a high-carb/sugar day 6/19 → small pre-gym fuel only (banana + black coffee), protein banked post-session. Performance fine on full tank; this is the documented exception to the ≥150g pre-load rule.
+
+### Warmup (~10 min)
+1. **Daily reset** — 90/90 hip lift + all-fours belly lift, 2 rounds.
+2. **Band pull-aparts / left-shoulder opener** + lower-body primer (10 sit-to-stands, 10 bodyweight squats, 10 single-leg glute bridges/side).
+3. **Slump-screen the LEFT leg before ANY leg load** (sit, slump, straighten the left leg, tuck chin — any tickle/shoot down the left leg → skip the leg press, text me).
+
+### Block 1 — Bench + Weighted pull-ups, supersetted (~20 min)
+**Pre-bench full-body set (light version — nerve gate):** feet planted, ~25–30% leg tension (grounded, not driving), braced like someone's about to tap your stomach, shoulder blades down/back. **No hard arch, no held breath, no leg drive.**
+
+| Exercise | Sets | Reps | Notes |
+|---|---|---|---|
+| Competition bench, wide-ish grip | work up to **1 top set** + 2 back-offs | 5, then 6–8 | top set RPE 7–8 (2–3 in tank), back-offs a notch lighter. **No grinding — rack the instant bar speed dies.** |
+| Weighted pull-up (left-lat lead) | 1 top set + 1–2 back-offs | top ~5 | Top weighted set ~RPE 8 (~+25–30 lb, 2 in tank), then lighter/bodyweight back-offs. Fast one-set fatigue is normal. Feel the LEFT lat, don't let the right dominate. |
+
+### Block 2 — Legs (~20 min)
+| Exercise | Sets | Reps | Notes |
+|---|---|---|---|
+| **Leg press — depth-capped** (belt-squat sub) | 3 (+ feeler) | 8–10 | **Slump-screen done first.** Feeler set to find the cap, then **stop the sled at thighs ~parallel — knees do NOT ride toward the chest** (deep bottom bites the right quad + tensions the left nerve). Push the last set close to failure. Watch left leg + right quad. |
+| Seated hamstring curl | 2–3 | 10–12 | Isolated, clean for the rehab. |
+| Hip abduction | 2 | 15–20 | Left-glute work (rehab theme). **Cut first if short on time.** |
+
+**Hard stops:** any shooting/tickling/electric down the LEFT leg on the leg press → stop, the feeling IS the answer even if it fades. // Sharp RIGHT-quad pain at the leg-press bottom → reduce depth or that move's done. // Left-side chest/shoulder/elbow pinch on bench → set's done. // No grinding, anywhere.
+
+### HELD at this gym (not optional)
+- **Smith machine squat** — loaded spinal squat, same risk the nerve gate holds. Out.
+- **Leg-extension machine** — right quad not cleared at the loaded deep-flexion bottom. Out.
+- **No barbell squat / deadlift / loaded hinge / RDL** — left-leg nerve gate not cleared under load.
 
 ---
 
@@ -187,6 +211,7 @@ Use on any travel/apartment day. Back width (left lat) + rear delt priority. **L
 
 ## Week Modifications Log
 
+- **2026-06-20: Sat converted to a short FULL-BODY day (in-gym).** tkm at a real SF gym, last real press was Tue → elected to add bench + weighted pull-ups; kept short (~50 min). Gym lacks a belt squat (only leg press, leg extension, ham curl, hip abd/add, smith). **Leg press = belt-squat replacement** (spine-unloaded, parallel-ish depth cap + mandatory slump-screen retained). **Smith squat HELD** (loaded spinal squat → nerve gate) and **leg-extension HELD** (right-quad gate) — both explicitly named to tkm so the omission reads as a call, not an oversight. Bench ran the light pre-bench full-body set (no arch/leg drive — nerve gate); pull-ups left-lat lead. Head Coach answered directly: every gate was already established in-plan, the only new movement was the leg-press swap, surfaced inline for buy-in (propose-then-write). **Fuel:** glycogen-loaded off a high-carb/sugar 6/19 → small pre-gym fuel only (banana + black coffee), the documented exception to the ≥150g pre-load rule; protein banked post-session.
 - **2026-06-18: Schedule re-cut — Tue anchor bench DONE, Wed Padel; Thu = apartment upper, Sat = real-gym legs.** *(Corrected: an earlier draft wrongly assumed Tue bench was missed — tkm confirmed he benched Tuesday. It is NOT in the repo: no `logs/sessions/2026-06-16.md`, nothing in inbox. Numbers owed from tkm → route to Logging Agent when received. Do not invent the load/reps.)* Wed was Padel (ankle fine, no roll). Today: 30-min apartment window (cables + dumbbells), upper. Head Coach answered directly (single-domain; no subagent spawn). **Thu session:** since Tue bench banked the press stimulus, today is a BONUS weak-point day (not a make-up) — lead left lat + rear delts. Two supersets (single-arm cable lat pulldown LEFT-first + cable face pull ×3; single-arm DB row LEFT-first + OPTIONAL light DB bench ×2), left-first on all unilateral pulls, even-elbow stop rule on the optional press. Daily reset folded into warmup (6/17 mobility skipped). **Sat legs:** docket TBD pending gym; HELD lines restated, NOT subject to autonomy (no barbell squat/DL/loaded hinge per nerve gate; belt squat parallel-capped + slump-screened as the pushable movement; no leg extension per R-quad).
 - **2026-06-15 (later): Athlete opted OUT of the deload → converted to an autoregulated training week.** tkm reported feeling fully recovered ("body does not feel beat up at all"), wants to train and run belt squat both Tue + Thu, committed to being straight when he does want a deload. Head Coach made the case once (the 6/14 rested 100×3 not beating 6/11 grindy 100×4 suggests masked fatigue; "feel good" can mislead) then deferred to athlete autonomy — the real non-negotiables aren't the deload, they're the gates. **Converted plan:** Tue + Thu = autoregulated bench (work up to a top set + back-offs, RPE 7 Tue / 7–8 Thu, **no grinding, rack on speed loss**); **belt squat BOTH days** (3×8–10, RPE 8 last set near-failure — spine-unloaded, the safe outlet for his push instinct; slump-screen + feeler + parallel hard-stop retained each session); back/rear-delt pushed. **Rationale it's safe to allow:** the 6-week travel weekends are a built-in volume drop, so two pushed weekday sessions won't overreach him. **HELD lines unchanged and explicitly NOT subject to autonomy:** no loaded hinge/DL/barbell squat (nerve gate), pre-bench full-body set stays the light no-arch/no-leg-drive version (nerve gate), neural-symptom stop rule, parallel belt-squat cap (R-quad), and the doubled daily reset + travel anti-sitting protocol (the real risk this block). Per the rehab-frustration playbook: reassured + redirected the push to the safe pushable movement (belt squat) rather than fighting the whole week. Owed reads (Fri 6/12 L-leg + 6/14 slump) still requested.
 - **2026-06-15: Week 4 DELOAD built + 6-week weekend-travel framework — three-agent synthesis (SBD lead + Mobility + Aesthetics), athlete-initiated.** tkm flagged ~6 weekends of travel (Fri–Sun/Mon) with variable equipment; this week Tue + Thu full gym (anchors), Fri apartment, Sat flex. Deload warranted by end-of-block fatigue signal (6/14 rested 100×3 didn't beat 6/11 grindy 100×4). **Bench deloaded** to ~50% volume at ~60–70% intensity (Tue 3×5 @ 70 kg RPE 5–6, Thu 3×3 @ 72.5 kg RPE 5, fast bar, no singles/AMRAP — SBD; SBS/RTS/Prilepin deload convergence). **Belt squat kept at deload dose** (one session, 2×8 @ ~1 plate/side, RPE 5–6, parallel hard-stop, slump+feeler gate retained); **no leg-ext re-test in a deload** (Mobility). **All loaded hinge/squat/DL HELD** regardless of reads (deload + uncleared nerve gate). **Mobility travel brief:** sitting is the #1 nerve re-trigger and travel multiplies it → daily reset DOUBLED (2×/day), daily left-glute bridge, hourly anti-sitting + in-transit protocol made the non-negotiable core of the block; override-pattern hard rule + neuro red flag restated for the full 6 weeks. **Aesthetics travel toolkit:** 3-tier equipment-flexible weak-point (left-lat + rear-delt) accessory menu for travel days. **Framework for the block:** weekday full-gym days = anchors (carry comp bench + belt squat + back); weekends = adaptive/optional, never load-bearing. **Propose-then-write flag:** single-arm cable/band lat pulldown introduced as the travel-day stand-in for the weighted pull-up (equipment swap of his lead lat movement, not novel programming) — surfaced to tkm for buy-in. **Owed reads still outstanding:** Fri 6/12 AM left-leg/calf read + 6/14 slump result (requested today). Full decision log: `logs/decisions/2026-06-15-week-4-deload-and-travel-framework.md`.
