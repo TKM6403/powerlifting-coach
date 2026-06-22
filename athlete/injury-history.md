@@ -390,6 +390,22 @@ Continues the 2026-06-02 / 2026-06-05 R-quad strain thread (primary right-side e
 #### L rear delt on bench warmups (continues the costovertebral/rib-joint thread)
 - L rear delt **fired and became "a little painful" on bench warmups** (low severity, "nothing he couldn't deal with"). Continues the 5/27 → 6/2 L posterior-ribcage / costovertebral + reactive posterior-cuff thread. Likely amplified by over-cramming the L scap on setup (coach cued easing L-scap retraction to ~50-60% on the light full-body set). Athlete requested more shoulder warmup before Fri heavy bench; **Head Coach added dedicated rear-delt/posterior-shoulder prep to Friday's pre-session reset** (cross-body rear-delt stretch, posterior-shoulder ball release, extra band pull-aparts, ease L-scap retraction; rear-delt sharp-pinch added as a Friday stop rule). Mobility red-flag NOT tripped (low severity, ribcage-pattern, no neuro).
 
+### 2026-06-21 / 2026-06-22 — Longest-Ever Run Asymptomatic (Impact Tolerance) + Bilateral Outer-Hip DOMS (Post-Run, NOT the L Pattern)
+
+Continues the ankle / impact-tolerance thread (5/28 sprain → 0-1/10 by Day 2 → proprioceptive gate passed 6/5 → symptom-free runs 6/6 + 6/7 → self-declared 100% healed 6/7).
+
+#### 2026-06-21 — Longest continuous run on record, asymptomatic (strongest impact-tolerance data point to date)
+- **tkm ran ~6 miles continuously — his longest continuous run ever.** Reported simply "it was fine." Pace, surface, and time of day NOT reported (not invented here).
+- **L ankle:** no symptoms during or after. The Grade-I L lateral sprain (5/28, self-declared healed 6/7) tolerated the **longest-distance impact exposure on record** with no issue. This extends the favorable impact-tolerance trajectory beyond the 6/6 + 6/7 short symptom-free runs.
+- **L-leg nerve:** **no L-leg neural symptom reported** (no shooting/tickle/electric) during or after. **Caveat for the gate:** running is NOT a loaded hip-hinge — it does not test the loaded bend-over-at-the-hips position that remains the binding nerve gate (last loaded reproduction 6/9 hinge, L-calf tickle, overridden; morning-after verdict never collected). A clean run is NOT loaded-gate clearance.
+- **Read:** strongest single impact-tolerance read since the sprain. Bears on whether to formally **close the acute ankle phase and shift fully to maintenance** (peroneal band + balance for the chronic-instability/CAI substrate — the long-term re-sprain-prevention target, NOT to be dropped because acute symptoms resolved). **Mobility red-flag status: NOT tripped.**
+
+#### 2026-06-22 (AM) — Bilateral, symmetric outer-hip soreness (glute med / TFL) — post-run DOMS, distinct from the L pattern
+- **Athlete report:** woke with **both outer hips (lateral hip — glute medius / TFL region) "a bit sore."** BILATERAL and SYMMETRIC, low severity.
+- **Head Coach read:** most consistent with **normal DOMS** from the unaccustomed long-run distance — yesterday's longest-ever ~6 mi run stresses the lateral-hip stabilizers (glute med / TFL) bilaterally. **Bilateral + symmetric + clear mechanism distinguishes it from the documented unilateral-LEFT AIC / L-leg-nerve pattern.** This is **NOT a red flag and NOT the L-leg nerve symptom.** Logged as a new symptom data point to track, not an escalation.
+- **Watch-for (would change the read):** if the soreness turns **sharp**, **localizes to one side / a single point**, or **anything shoots or tingles down a leg** → it is no longer DOMS; re-flag at that point. Mobility red-flag status: **NOT tripped** as reported.
+- **Sitting-trigger context (same morning):** only **~3k steps so far** (working from home, high-sitting day). Sustained sitting is the documented **#1 L-leg-nerve re-trigger** (reduce-with-movement → return-with-sitting cycle, 6/1→6/2; two zero-reset/high-sitting days nearly re-lit it 6/3-6/4). Flagged to tkm; anti-sitting work re-prescribed (hourly stand + glute squeezes / L couch stretch; doubled daily reset per the travel block). No L-leg nerve symptom reported this AM — preventive flag, not a current flare.
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up
