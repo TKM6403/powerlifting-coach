@@ -390,6 +390,30 @@ Continues the 2026-06-02 / 2026-06-05 R-quad strain thread (primary right-side e
 #### L rear delt on bench warmups (continues the costovertebral/rib-joint thread)
 - L rear delt **fired and became "a little painful" on bench warmups** (low severity, "nothing he couldn't deal with"). Continues the 5/27 → 6/2 L posterior-ribcage / costovertebral + reactive posterior-cuff thread. Likely amplified by over-cramming the L scap on setup (coach cued easing L-scap retraction to ~50-60% on the light full-body set). Athlete requested more shoulder warmup before Fri heavy bench; **Head Coach added dedicated rear-delt/posterior-shoulder prep to Friday's pre-session reset** (cross-body rear-delt stretch, posterior-shoulder ball release, extra band pull-aparts, ease L-scap retraction; rear-delt sharp-pinch added as a Friday stop rule). Mobility red-flag NOT tripped (low severity, ribcage-pattern, no neuro).
 
+### 2026-06-20 — NEW FINDING: Low-Back "Lights Up" at Leg-Press Parallel Under Load (Loaded Lumbar Flexion / "Butt Wink") + Override Pattern Repeats — SESSION IN PROGRESS, READS OWED
+
+**Context:** Sat 6/20 short full-body session, real SF gym (Wk 4, autoregulated). Gym had no belt squat → **leg press = belt-squat substitute** (spine-unloaded sub, mandatory slump-screen + parallel-ish depth cap retained per the program). Bench (225×5, rep-5 grind, RPE 8.5; 185×10, 185×8) and weighted pull-ups (+35×4 on a fat bar, grip-limited) ran clean and complete first. The finding below interrupted the leg block; **the session is not finished and several reads are still owed.**
+
+#### NEW: Low-back irritation at leg-press depth under load
+- **Movement:** leg press, **3 plates per side (45s)**, feet pointed out and a bit wide to reach depth (belt-squat sub today).
+- **Symptom:** at/near **parallel**, the **lower back "lights up a bit."** Athlete **pushed through a few reps** (3 plates felt relatively light to him) while trying to keep his lower back flat against the pad.
+- **Head Coach read:** **pelvic posterior tilt / lumbar flexion ("butt wink") at the bottom of the leg press** — i.e. the pelvis tucks under and the lumbar spine flexes at end-range hip flexion, loading the low back in flexion. Coach instructed: STOP pushing through, **cut depth to just above where the back rounds**, reset to a **more neutral stance.** **Resolution PENDING — athlete has not yet reported back whether the depth/stance fix removed the symptom.**
+- **Significance / adjacency to the nerve gate:** this is a NEW finding — first documented low-back symptom at the leg-press deep position. It sits **adjacent to the L-leg nerve gate** (loaded lumbar flexion is the same family of provocation as the loaded bend-over-at-the-hips position that holds squat/DL/hinge out). Whether the low-back "light up" is purely positional/mechanical (flexion under load) or has any neural overlap is **NOT yet characterized** — the L-leg nerve read on the leg press was requested and is **not yet reported.**
+
+#### Override pattern repeats (behavioral risk, independent of tissue read)
+- Athlete pushed through a few reps after the low-back symptom appeared, reasoning the load felt light. **This repeats the documented override pattern:** 6/9 loaded hinge (L-calf tickle trained through, "it was nothing," 50s×10 vs Rx 8) and 5/26 (three stop calls overridden in one session). For pattern-matching: tkm's in-session read of "it's light / it's nothing" has been unreliable before; the morning-after read is the reliable verdict. Captured faithfully; management is Head Coach / Mobility Agent's call.
+
+#### Reads owed (requested, NOT yet reported as of this entry)
+1. **Slump-screen result before the leg press** — requested per program, NOT reported.
+2. **L-leg nerve symptom on the leg press** (any shooting/tickle/electric down the L leg at depth) — NOT yet reported.
+3. **R-quad at the leg-press bottom** (loaded deep-flexion is the R-quad strain's provoking position — 6/2/6/5/6/7 thread) — NOT yet reported.
+4. **Leg-press depth-fix resolution** — did cutting depth above the round-point + neutral stance remove the low-back symptom? PENDING.
+5. (Session-completion, not injury) hamstring curl + hip abduction not yet done/reported; bodyweight pull-up back-off rep count not reported.
+
+#### Mobility red-flag status: NOT TRIPPED (as reported, incomplete data)
+- Single new finding, localized to the low back at one loaded position, no neuro deficit (no shooting/numbness/weakness) reported, terminated by Head Coach correction rather than escalating. Does not meet this file's red-flag escalation criteria **on the data available.** BUT two caveats: (1) the owed L-leg nerve / R-quad reads and the morning-after read can change this — loaded lumbar flexion is nerve-gate-adjacent; (2) the **override behavior itself** is the behavioral risk regardless of the tissue read.
+- FLAG MOBILITY: NEW low-back-at-leg-press-depth finding (loaded lumbar flexion / "butt wink" at parallel), 3 plates/side; Head Coach corrected (depth cut + neutral stance), resolution pending. Override pattern repeated. Owed: slump result, L-leg nerve + R-quad read on leg press, depth-fix resolution. Re-evaluate when the rest of the session / next-morning read comes in.
+
 ### 2026-06-21 / 2026-06-22 — Longest-Ever Run Asymptomatic (Impact Tolerance) + Bilateral Outer-Hip DOMS (Post-Run, NOT the L Pattern)
 
 Continues the ankle / impact-tolerance thread (5/28 sprain → 0-1/10 by Day 2 → proprioceptive gate passed 6/5 → symptom-free runs 6/6 + 6/7 → self-declared 100% healed 6/7).
