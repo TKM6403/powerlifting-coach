@@ -36,6 +36,7 @@ Established protocols and preferences. Diet Agent references this; tkm updates i
 
 | Staple | Unit | kcal | P | C | F | Source |
 |---|---|---|---|---|---|---|
+| **Potbelly BIG "A Wreck"** (tkm's build: hot pepper ranch, caramelized onions, pickles) | per sandwich | ~970 | 47 | 70 | 52 | Potbelly published (Big size) + dressing/topping est., conservative bias baked in |
 | **Trader Joe's Sourdough bread (sliced)** | per slice | ~120 | 4 | 24 | 1 | est. for TJ sliced sourdough — confirm w/ label when convenient |
 | Kirkland shredded Monterey Jack cheese | per 28g (1oz) | 110 | 7 | 0 | 9 | label |
 | Grade AA brown eggs, large | per egg | 72 | 6 | 0 | 5 | USDA |
