@@ -4,6 +4,44 @@ Daily and as-needed mobility work, ordered by purpose.
 
 ---
 
+## Mobility-Led Program (canonical detail — adopted 2026-06-24)
+
+> tkm elected to make mobility the centerpiece of training (gym time + externals), upper and lower. Mobility leads every session; lifting is the maintenance back-half. Anchored in gym time (rest-day/home work is his documented skip); only a tiny core lives at home. Full rationale + sources: `logs/decisions/2026-06-24-mobility-led-program.md`. Athlete-facing layout lives in `program/this-week.md` (per-day). This is the canonical move detail.
+
+### Daily core (home, ~7 min, every day — protects the nerve)
+1. **Daily reset** — 90/90 hip lift + all-fours belly lift, 2 rounds, 4–5 full exhales each.
+2. **Left-glute wake-up** — single-leg LEFT glute bridge × 10–12, hard squeeze, no low-back arch.
+3. **Anti-sitting** — hourly: stand + 10 glute squeezes OR 30-sec left couch stretch.
+4. **Ankle maintenance** — left peroneal band 2×15 + eyes-closed single-leg balance (work to 30 sec).
+*Stop signal:* any shoot/tickle/electric down the left leg on any of these → back off, report. That's the gate talking.
+
+### Upper mobility block (gym, ~12 min — leads bench/upper days; targets left lat / shoulder / posterior ribcage)
+1. **All-fours posterior-ribcage breathing** — round upper back, blow all air out, widen the LEFT back ribs. 2 rounds × 4–5 breaths. Breathe to *just before* the rear-delt pinch, never into it; bias the exhale.
+2. **Side-lying left lat/ribcage opener with reach** (open book on the left side) — 5 slow reaches, 3–5 sec hold.
+3. **Banded left-lat hang** — band overhead, left hand, hips sink back, lengthen the left side. 2 × 30–45 sec.
+4. **Cross-body rear-delt stretch + posterior-shoulder ball release, left** — stretch 2×30 sec, ball 60 sec.
+5. **Band pull-aparts + face pulls** (mid-range rear-delt strengthening) — pull-aparts 2×15–20, face pulls 2×15.
+6. **[NEW 2026-06-24] Half-kneeling left-arm overhead reach** — half-kneel LEFT knee down, reach left arm overhead, ribs DOWN (don't arch to fake the reach), reach toward ceiling. 2 × 5 reaches, 3-sec hold. *Source: PRI left-AIC apical-expansion overhead-reach; ribs-down overhead concept per Quinn Henoch / Juggernaut. Watch: if the low back arches to reach higher, you've left the position — reset.*
+- **Bench setup correction:** ease left-scap retraction to ~50–60% (don't over-cram), wide-ish grip, elbows even. Goal = even L/R, not max left retraction. If the left elbow flares to compensate, set's done.
+
+### Lower mobility block (gym, ~13 min — leads leg days; targets left hip/glute, nerve desensitization, R-quad-safe load, ankle)
+1. **Left adductor pullback** — side-lying, left leg on a bench, pull knee back, breathe. 4 × 5 breaths.
+2. **90/90 hip switches, slow** — 6/side, 5-sec hold where the left feels stuck. (Note any left-hip click — don't force; clicking is on the red-flag list.)
+3. **Single-leg LEFT glute bridge, loaded progression** — start bodyweight → light DB on hips. 3 × 10–12.
+4. **[NEW 2026-06-24] Sciatic nerve GLIDE / "slider," left** — sit tall; SIMULTANEOUSLY straighten the left knee + lift chin/look up; then SIMULTANEOUSLY bend the knee back + tuck chin down. Tension trades end-to-end; the nerve SLIDES, it does NOT stretch. 1–2 × 8–10 slow glides, **only on a day the leg is quiet.** *Source: Butler (The Sensitive Nervous System) + Shacklock (Clinical Neurodynamics), slider-vs-tensioner. **A correct glide produces ZERO symptom. Any tickle/shoot down the left leg → STOP immediately (you're tensioning, not gliding). NEVER push into the symptom. Skip entirely on any day the leg is barking.** This is a test-and-quiet desensitization tool, NOT a gate-opener — loaded-hinge re-probe remains a separate planned decision.*
+5. **Belt squat, parallel-capped** — slump-screen first; feeler + 3 × 8–10, last set ~RPE 8. Stop at parallel, no deeper (avoids the R-quad's loaded deep-flexion bottom).
+6. **Left peroneal band + eyes-closed single-leg balance** — band 2×15, balance to 30 sec.
+- **R-quad rule:** no loaded knee extension / no loaded deep-flexion bottom until a deliberate graded re-probe clears it (last loaded re-test failed 6/5). Rebuild tolerance via parallel-capped belt squat + clean hamstring curls; re-probe later on a planned ramp.
+
+### Progress screens (re-test monthly → `logs/patterns/`)
+- **Slump test, left** — gates squat/DL/hinge (nerve gate). Clean non-loaded ≠ cleared under load.
+- **Standing wall reach-back** (palms-away, reach hands to wall) — gates bench/shoulder; R passes, L fails today.
+- **[NEW 2026-06-24] Behind-the-back / Apley scratch reach** (one hand over shoulder, other up the back; measure fingertip gap, both sides) — left shoulder reach restriction, second angle on the shoulder cluster. *Source: Apley scratch test, standard orthopedic shoulder ROM screen. Tracking only.*
+- **Single-leg balance, left** (eyes closed, 30 sec) — ankle proprioception / re-sprain risk.
+- **Forward-hinge symmetry** (fold, compare hand height) — overall AIC pattern; R hand drops lower, watch it even up.
+
+---
+
 ## Daily Stabilizer Routine (~15 min)
 
 Run before training sessions as activation, or on rest days as standalone work.
