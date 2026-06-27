@@ -81,11 +81,34 @@ Daily core. If you train, lead with the mobility block that matches the day (upp
 
 ---
 
-## Saturday — Upper (weekend): mobility lead + upper lifting
+## Saturday — Full-body machine push (nice gym) — mobility lead, left-shoulder priority
 
-**Mobility lead:** Daily core, then the **Upper mobility block** as your lead (~12 min — same as Monday, see `reference/mobility-protocols.md`). Lead the left lat + rear delts.
+> *Adjusted in-day 6/27: tkm at a nice machine gym, played padel earlier (left ankle + legs pre-loaded laterally), wants full-body and to PUSH. Machines = push to RPE 8–9 safely without loading any gated structure. Padel-aware: stable/machine lower only, no jumping/unstable single-leg, ankle balance eyes-open + gentle.*
 
-**The lift (left side first):** pick the highest equipment tier available — single-arm cable/DB lat pulldown (left first), single-arm DB row (left first), face pulls, optional bench/press with the bench setup correction. Last working set ~2 shy of failure.
+**Mobility lead (~15 min) — shoulder is the priority today (targets the behind-the-back/Apley left-hand-on-top deficit):**
+- **Left ribcage breathing** (all-fours, round upper back, blow all air out, fill the LEFT back ribs to *just before* any pinch) — 2 rounds × 5
+- **Banded left-lat hang** — 3 × 30–45 sec *(lengthens the locked left lat blocking the reach)*
+- **Half-kneeling left-arm overhead reach** — ribs DOWN, don't arch — 2 × 5, 3-sec holds *(trains the missing overhead reach)*
+- **Cross-body left rear-delt stretch + ball release** — stretch 2×30 sec, ball 60 sec
+- **Band pull-aparts ×20 + face pulls ×15**
+- **Re-test behind-the-back/Apley reach both sides** — log today's gap as baseline
+- Quick lower prep: 90/90 reset, single-leg LEFT glute bridge ×12, left adductor pullback 3×5 breaths
+- **Slump-screen the LEFT leg before any leg load** — tickle/shoot → skip belt squat, text me
+- Ankle: slow circles + balance EYES OPEN (padel already taxed it — no hopping)
+
+**The work (machines, push to RPE 8–9; left side first on unilaterals):**
+| Exercise | Sets | Reps | Notes |
+|---|---|---|---|
+| Belt squat — parallel cap | feeler + 3 | 8–10 | Safe leg push, last set RPE 8–9, stop at parallel. No belt squat → leg press, strict parallel cap + neutral/narrow stance (6/20 low-back fix). |
+| Lat pulldown or assisted/weighted pull-up | 3 | 8–10 | Feel the LEFT lat, elbow to ribs. RPE 8–9. |
+| Chest press machine (or DB bench) | 3 | 8–10 | Bench setup fix: ease left-scap retraction ~50–60%, even elbows; left flare/rear-delt pinch → set's done. RPE 8. |
+| Chest-supported / seated row | 3 | 10–12 | Left lead, pull to sternum. RPE 8–9. |
+| Seated/lying hamstring curl | 3 | 10–12 | Clean, push hard. |
+| Hip abduction machine | 2 | 15–20 | Left-glute focus. |
+| (if time) Lateral raise + face pull, left first | 2 | 12–15 | Weak-point/shoulder. Cut first if short. |
+
+**Stop signals:** left-leg shoot/tickle on belt squat → stop. // Left shoulder/rear-delt pinch on press → set's done. // Sharp right-quad → done. // Sharp outside-left-ankle pain → stop loading it (post-padel). // No grinding except machine last sets.
+**Held:** no barbell squat/DL/loaded hinge/RDL (nerve gate), no loaded leg extension (right quad).
 
 ---
 
