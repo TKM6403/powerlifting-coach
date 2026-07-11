@@ -430,6 +430,23 @@ Continues the ankle / impact-tolerance thread (5/28 sprain → 0-1/10 by Day 2 �
 - **Watch-for (would change the read):** if the soreness turns **sharp**, **localizes to one side / a single point**, or **anything shoots or tingles down a leg** → it is no longer DOMS; re-flag at that point. Mobility red-flag status: **NOT tripped** as reported.
 - **Sitting-trigger context (same morning):** only **~3k steps so far** (working from home, high-sitting day). Sustained sitting is the documented **#1 L-leg-nerve re-trigger** (reduce-with-movement → return-with-sitting cycle, 6/1→6/2; two zero-reset/high-sitting days nearly re-lit it 6/3-6/4). Flagged to tkm; anti-sitting work re-prescribed (hourly stand + glute squeezes / L couch stretch; doubled daily reset per the travel block). No L-leg nerve symptom reported this AM — preventive flag, not a current flare.
 
+### 2026-07-11 — Athlete-Initiated Minimalist Approach (5 Self-Selected Movements) + Conventional-DL Consideration Flagged Against the Nerve Gate
+
+**Context:** Logged Sat 7/11 from a verbatim week dump after a training break. tkm has **self-selected a minimalist approach** — "focus on a couple movements that I feel like are fine on my current physical condition and really focus on trying to progress them." Athlete-initiated program shift; surfaced to Head Coach. Week executed: Tue 7/07 lower (single-leg leg press + B-stance Smith RDL), Wed 7/08 arms+shoulders (quick), Thu 7/09 chest+back (incline DB bench + weighted pull-ups). No loads/reps/RPE/body reads reported for any of the three sessions (see session logs).
+
+#### The 5 chosen movements vs. the standing gates
+- **Single-leg leg press** — gate-respecting (spine-unloaded, unilateral leg push).
+- **B-stance Smith-machine RDL (single-leg type)** — **NOT fully gate-neutral.** It is a **loaded hip HINGE**, the same movement *family* as the loaded bend-over-at-the-hips position that is the binding lock holding squat/DL/hinge OUT (L-leg nerve symptom reproduced under loaded DB RDL ~100 lb on 6/9, gate never re-opened). Lighter and unilateral, but it exposes the nerve gate. **No L-leg nerve read was reported on 7/07** — whether it provoked the symptom is UNKNOWN. Watch this movement against the nerve gate; get an explicit L-leg read next time; Head Coach ruling owed on whether B-stance Smith RDL stands.
+- **Weighted pull-ups** — gate-neutral; left-lat lead is the documented weak-point priority.
+- **Incline DB bench** — gate-neutral (early in progression per tkm, "hasn't given it enough time yet").
+- **DB shoulder press** — gate-neutral; watch L shoulder / rear-delt (costovertebral/rib-joint + reactive posterior-cuff thread, 5/27→6/2→6/9).
+- Net: four of five are gate-respecting; **B-stance Smith RDL is the one to watch** against the left-leg nerve gate.
+
+#### CONVENTIONAL DEADLIFT under consideration (Sat 7/11) — FLAGGED, Head Coach decision
+- tkm is in a favorite full-featured gym on 7/11 and is **considering conventional deadlift.**
+- **FLAG SBD / MOBILITY:** conventional DL is a **loaded bilateral barbell hip-hinge — squarely inside the HELD gate.** The L-leg nerve symptom was **reproduced under a light (~100 lb) loaded hinge on 6/9 and the gate has NEVER been re-opened** since (`program/this-week.md` "What's HELD": "Deadlift / barbell squat / any loaded hinge or RDL … opens only on a deliberate planned re-probe"). Conventional DL is a maximal-family version of the exact position holding the gate — a large jump from the last reproduced-under-load exposure with no intervening loaded-hinge re-probe on record. **This is a Head Coach / Mobility Agent programming ruling; Logging does not rule.** Recorded here so the decision is on the nerve-gate thread.
+- **Mobility red-flag status: NOT tripped** (no symptom reported this week; this is a gate/decision flag, not a flare).
+
 ### Recent Right-Side Compensation Episode
 During a session where tkm deliberately "sank into" and "pushed off" the left side on squats:
 - Right upper hamstring (below the glute, at sit bone origin) lit up
