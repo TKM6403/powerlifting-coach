@@ -1,95 +1,71 @@
 # This Week
 
-**Week of:** 2026-06-29 (Mon) → 2026-07-05 (Sun)
-**Block:** Mobility-led phase. **Pre-trip maintenance week:** two full-body sessions Tue + Wed at Buckingham Athletic Club (office gym), then Thu–Mon traveling. Goal Tue/Wed = bank a hard, full-body stimulus so a ~5-day travel break costs nothing. Goal on the trip = protect the left-leg nerve (anti-sitting), not chase lifting.
-**Reassurance (real):** muscle loss needs ~2–3 weeks of complete inactivity; strength holds 3–4+ weeks. Five days off after two hard sessions = no loss. Don't stress the trip.
-**Maintenance principle:** keep muscle with INTENSITY, not volume — fewer sets, but take the last set of each to RPE 8–9 (1–2 reps in the tank). Full detail: `reference/mobility-protocols.md`.
+**Week of:** 2026-07-06 (Mon) → 2026-07-12 (Sun)
+**Block:** New self-selected approach (athlete-initiated) — pick a few movements that feel good on your current body and *progress them*. Your five: single-leg leg press, B-stance Smith-machine Romanian deadlift (the single-leg-style hinge), weighted pull-ups, incline dumbbell bench, dumbbell shoulder press. Mobility still leads every session.
+
+**This week so far:** Tue = lower (leg press + B-stance RDL). Wed = arms + shoulders (quick). Thu = chest + back (incline DB + pull-ups). Today = Sat 7/11, well-equipped gym.
+
+**Gates unchanged (NOT opened by feeling good or by the PT ribcage work):**
+- **No conventional/barbell deadlift, no barbell squat, no loaded bilateral hinge.** The left-LEG nerve gate is still closed — it last barked under load on 6/9 (light dumbbell RDL → tickle down the left calf) and hasn't been re-tested since. The PT work you restarted targets the left ribcage / internal rotation (your shoulder side) — good, keep doing it — but that's a *different problem* than the leg nerve, so it doesn't open the deadlift.
+- **No loaded leg-extension machine** (right quad).
+- Single-leg leg press (flat-back cap) and B-stance RDL (single-leg) are your allowed leg/hinge work.
 
 ---
 
-## The big picture (read this first)
+## Daily core — every day (~7 min)
 
-- **Tue + Wed are maintenance, not a grind.** Hit every major muscle hard across the two days (each muscle gets trained twice). Lead with mobility, push the last sets, get out. ~45–60 min each.
-- **The trip is about the nerve, not the muscle.** Sitting all day (planes/cars/restaurants) is your #1 left-leg trigger — the 6/3–6/4 near-relight was exactly this. The daily reset + hourly anti-sitting is the non-negotiable on the road. Lifting on the trip is optional; the anti-sitting is not.
-- **Gates unchanged:** no barbell squat/DL/loaded hinge/RDL (left-leg nerve gate), no loaded leg extension (right quad). Belt squat / leg press parallel-capped is your leg push. Bench/press uses the light pre-bench full-body set (no arch/leg drive).
+1. **Daily reset** — 90/90 hip lift (on your back, feet up on a wall/chair, knees & hips ~90°, tailbone an inch off the floor, breathe all the way out). 2 rounds.
+2. **Left-glute wake-up** — single-leg LEFT glute bridge ×10–12.
+3. **Anti-sitting** — every hour seated: stand + 10 glute squeezes or a 30-sec left couch stretch. (You just traveled — this is the priority right now; sitting is your #1 left-leg trigger.)
+4. **PT ribcage/IR set** — keep doing the exercises the PT gave you. They're helping; don't drop them.
 
----
-
-## Daily core — EVERY day, home or traveling (~7 min)
-
-1. **Daily reset** — 90/90 hip lift (on your back, feet up on a wall/chair, knees & hips ~90°, tailbone an inch off the floor, breathe all the way out) + all-fours belly lift. 2 rounds. **On travel days, do this before you sit in the first car/plane seat.**
-2. **Left-glute wake-up** — single-leg LEFT glute bridge × 10–12.
-3. **Anti-sitting** — every hour seated: stand + 10 glute squeezes or a 30-sec left couch stretch.
-4. **Ankle** — left peroneal band 2×15 + eyes-closed single-leg balance, left.
-
-**Stop signal (all week):** any shoot/tickle/electric down the left leg → stop that movement, report it.
+**Stop signal (all week):** any shoot/tickle/electric down the left leg → stop that movement, tell me.
 
 ---
 
-## Monday — Rest (pre-trip prep)
+## Saturday 7/11 — Lower-led + great-gym isolation (well-equipped gym)
 
-No lift. Daily core. Pack a resistance band for the trip. Quiet the leg before two training days.
+Lower has only had one hit this week (Tue), so today re-balances there — and it's the safe way to scratch the "I want to pull / hit posterior chain" itch. Then use the good machines for the stuff you can't do at your usual spots (real calf machine, cables).
 
----
+**Mobility lead first (~10–12 min) — you just traveled, so decompress the left leg:**
+- 90/90 hip reset — 2 rounds (breathe all the way out).
+- **Left couch stretch** 2×30 sec (kneel, left shin up a wall behind you, right foot forward, push hips forward, squeeze the right glute — feel it in the front of the left hip, NOT down the leg).
+- Single-leg **LEFT** glute bridge ×12 (drive through the left heel, squeeze the left glute).
+- **Left nerve slider ×8–10, gentle** — sit tall, straighten the left knee + pull toes up while you look UP, then bend the knee + drop chin as you look down. Slow. This is a floss, not a stretch — **you should feel NOTHING down the leg.** Any tickle = stop, that's your answer for the day.
+- Left ribcage breathing ×5 (all fours, round the upper back slightly, breathe into the back-left ribs, breathe out fully — stop just before any left rear-delt pinch) + banded left-lat hang 2×30 sec + band pull-aparts ×20.
 
-## Tuesday — Full-body maintenance A (Buckingham): lower lead + push
-
-**Mobility lead (~12 min):** Daily core, then the **Lower block** (left adductor pullback → slow 90/90 hip switches → loaded single-leg LEFT glute bridge → **nerve slider, left**, only if the leg is quiet — zero symptom = correct, any tickle → STOP) + a quick shoulder primer (banded left-lat hang 2×30 sec + band pull-aparts ×20). **Slump-screen the LEFT leg before any leg load.**
+**Mandatory before any leg load — left-leg slump screen:** sit tall, slump down, drop your chin, straighten the LEFT knee, pull the left toes up. Clean = ZERO tickle down the leg → you're cleared to load. Any spark = no leg press / no RDL today, resets + upper body only.
 
 | Exercise | Sets | Reps | Notes |
 |---|---|---|---|
-| Belt squat / leg press — parallel cap | feeler + 3 | 8–10 | Leg push. Last set RPE 8–9. Stop at parallel — no deeper. Leg press? Neutral/narrow stance, strict cap (6/20 low-back fix). |
-| Chest press machine or DB bench | 3 | 8–10 | Light pre-bench set; ease left-scap retraction ~50–60%, even elbows. Left flare/pinch → set's done. RPE 8. |
-| Lat pulldown or pull-up (left-lat lead) | 3 | 8–10 | Feel the LEFT lat, elbow to ribs. RPE 8–9. |
-| Seated/lying hamstring curl | 3 | 10–12 | Clean, push. |
-| Lateral raise or face pull, left first | 2 | 12–15 | Shoulder/weak-point. Cut first if short. |
+| Single-leg leg press | feeler + 3 | 8–10/leg | Main leg push. Stop at the depth where your lower back stays flat against the pad — don't chase depth into where the pelvis tucks under (that's the low-back "butt wink" from 6/20). Last set RPE 8–9. |
+| B-stance Smith RDL (single-leg) | 3 | 8–10/side | Your posterior-chain / hinge work, done the safe way. Feel the working-leg hamstring + glute. **Any tickle down the left leg = stop the set, tell me.** |
+| Seated or lying hamstring curl | 3 | 10–12 | Direct hamstring, no spine. Pause the squeeze. |
+| Standing + seated calf raise | 3–4 | 10–15 | Real calf machine = the thing you can't do at your usual gyms. Full stretch at the bottom, pause a second, no bouncing. |
+| Cable lateral raise (side delts) | 3 | 12–15 | Lead with the elbows, feel it on the *side* of the shoulder, not the traps. Single-arm/left-first if you can. |
+| Rear-delt fly (reverse pec-deck or cable) | 2 | 15 | "Pull the arms apart," keep it in the rear shoulder. |
 
-**Stop signals:** left-leg shoot/tickle → stop. // Left shoulder pinch on press → set's done. // Sharp right-quad → done.
-
----
-
-## Wednesday — Full-body maintenance B (Buckingham): upper lead + push
-
-**Mobility lead (~12 min) — shoulder priority:** Daily core, then the **Upper block** (left ribcage breathing → banded left-lat hang 3×30–45 sec → half-kneeling left-arm overhead reach, ribs down, 2×5 → cross-body rear-delt stretch + ball release → band pull-aparts + face pulls). Quick lower prep + **slump-screen the LEFT leg before leg load.**
-
-| Exercise | Sets | Reps | Notes |
-|---|---|---|---|
-| Chest-supported / seated row (left lead) | 3 | 10–12 | Pull to sternum, elbows to ribs, no shrug. RPE 8–9. |
-| Incline DB or machine shoulder press | 3 | 8–10 | Watch the left shoulder — even elbows; if the left flares or pinches, set's done. RPE 8. |
-| Belt squat / leg press — parallel cap | 2–3 | 8–10 | Legs were hit Tue — a notch lighter is fine, still push the last set. Parallel cap. |
-| Hip abduction machine | 2 | 15–20 | Left-glute focus. |
-| Seated/lying hamstring curl | 2 | 10–12 | Clean, push. |
-| Rear-delt fly or face pull, left first | 2 | 12–15 | Weak point. Cut first if short. |
-
-**Stop signals:** same as Tuesday. No grinding except machine last sets.
+**Cut order if you hit ~90 min:** rear-delt fly first, then lateral raise. **Protect calves** — that's the biggest gap and the can't-do-elsewhere item.
 
 ---
 
-## Thursday — Travel day (trip starts): daily core + anti-sitting
+## Sunday 7/12 — Rest
 
-No lift expected. **The job today is the leg, not muscle.** Morning reset BEFORE the first car/plane seat. Then the in-transit rule: **every hour seated → stand, 10 glute squeezes + a hip-flexor/couch stretch on the left.** Airport: walk the concourse instead of sitting. Plane: aisle seat, get up every 60–90 min, both feet flat (don't cross legs). Watch footing on uneven ground (your ankle-roll mechanism).
-
----
-
-## Friday — Trip: daily core + anti-sitting (+ optional bodyweight)
-
-Daily core + the in-transit anti-sitting rules (see Thursday). **Optional bodyweight circuit if you want to move** (truly optional — you won't lose muscle): push-ups, bodyweight squats to parallel, inverted rows under a sturdy table/rail, bodyweight reverse lunges (careful, even footing only) — 2–3 rounds, last round near failure. Skip with zero guilt if the day's full.
+Daily core + PT set. Tell me how the left leg feels after today's session — the morning-after read is what matters, not how it felt mid-set.
 
 ---
 
-## Saturday — Trip: daily core + anti-sitting (+ optional bodyweight)
+## Next week (starting Mon 7/13) — high-level: 4-day upper/lower, each movement 2×
 
-Same as Friday. The reset + anti-sitting is what matters. Optional bodyweight circuit if available.
+Alternate lower / upper so all five movements get hit twice. Progression = **double progression**: pick a load, hit the bottom of the rep range across your sets at RPE 8; when you can hit the *top* of the range on your last set, add weight next time and reset to the bottom.
 
----
+- **Day 1 (Lower):** single-leg leg press + B-stance RDL + ham curl + calves. Heavier/lower-rep feel (8s, last set RPE 8–9).
+- **Day 2 (Upper):** incline DB bench + weighted pull-ups + DB shoulder press (+ side/rear delt, arms if time).
+- **Day 3 (Lower):** same movements, higher-rep feel (10–12, RPE 8).
+- **Day 4 (Upper):** same movements, swap the rep feel vs Day 2.
 
-## Sunday — Trip: daily core + anti-sitting
+**Rep ranges:** 8–12 for leg press / incline DB / DB press / B-stance RDL; **5–8 for weighted pull-ups** (your fatigue drops off hard after set one — keep reps lower, quality high, micro-load the top set +2.5–5 lb/wk).
 
-Daily core + anti-sitting. Tell me how the leg held up on the road — we build the return week off that.
+**The deadlift path (your route back to the barbell):** we run a *planned* loaded-hinge re-probe once you've had 2–3 days home on the daily reset + anti-sitting and a clean left-leg slump screen on a normal (non-travel) morning. That probe is empty bar only, treated as a nerve test not a workout, hard stop on any tickle. Clean empty-bar + a quiet next morning is how the barbell comes back — not an improvised pull on a travel-return day.
 
----
-
-## What's HELD (no change — not opened by feeling good)
-- **Deadlift / barbell squat / any loaded hinge or RDL** — left-leg nerve gate not cleared under load (6/9). Opens only on a deliberate planned re-probe; the nerve slider does NOT open it.
-- **Loaded leg-extension machine** — right quad not cleared at the loaded deep-flexion bottom (last loaded re-test failed 6/5).
-- Belt squat / leg press (parallel-capped, slump-screened) is the one loaded leg movement.
+**Proposed weak-point add-ons (NOT written yet — want your buy-in first):** seated leg curl (knee-flexion hamstring your RDL misses), calves 2×/wk, cable lateral raise + rear-delt fly (shoulders are your #1 aesthetic goal, side/rear delts currently near-zero), direct arm superset (curl + pushdown), and core anti-extension/anti-rotation (Pallof, ab-wheel). Tell me which you want in and I'll build them into the template.
